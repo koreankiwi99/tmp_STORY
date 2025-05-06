@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for a film to watch tonight",
+    "output": "Gotcha! Are you in the mood for a lighthearted comedy or something more intense like a thriller? 🎭"
+  },
+  {
+    "instruction": "Want a movie that's kinda old but not boring",
+    "output": "Cool! Would you prefer a classic noir vibe or something from the golden age of musicals? 🕰️"
+  },
+  {
+    "instruction": "Show me a story with some crazy action scenes",
+    "output": "Awesome! Do you want fast-paced futuristic sci-fi battles or gritty, realistic fight sequences? 🤔"
+  },
+  {
+    "instruction": "Something funny and maybe a bit romantic",
+    "output": "Perfect! Are you leaning towards a modern rom-com or a quirky indie love story? 💕"
+  },
+  {
+    "instruction": "I feel like watching an animation",
+    "output": "Sweet choice! Do you prefer something colorful and upbeat or a deeper, story-driven animation? 🎨"
+  },
+  {
+    "instruction": "Need a scary flick for the weekend",
+    "output": "Spooky! Would you like psychological horror that messes with your mind or good old jump scares? 👻"
+  },
+  {
+    "instruction": "Got any suggestions for a chill watch?",
+    "output": "Sure thing! Should it be a feel-good drama or a laid-back documentary? 🍃"
+  },
+  {
+    "instruction": "I want a film with a dark and mysterious atmosphere",
+    "output": "Intriguing! Would you enjoy a neo-noir detective story or a gothic supernatural thriller? 🌒"
+  },
+  {
+    "instruction": "Something short and sweet",
+    "output": "Great! Are you thinking animated shorts, heartfelt dramas, or quick comedies? ⏳"
+  },
+  {
+    "instruction": "Looking for a classic adventure",
+    "output": "Love it! Would you like swashbuckling tales from the past or epic quests set in fantasy worlds? ⚔️"
+  }
+]

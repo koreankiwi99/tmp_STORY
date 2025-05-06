@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something to watch tonight",
+    "output": "Hey! Are you in the mood for an action-packed adventure, a heartwarming story, or maybe a laugh-out-loud comedy? 🎬😄"
+  },
+  {
+    "instruction": "Any good flicks like the 80s ones?",
+    "output": "Ooh, digging that retro vibe! Should it be a thriller, a rom-com, or maybe something with some classic sci-fi flair? 🕶️📼"
+  },
+  {
+    "instruction": "Need a film that's easy to binge",
+    "output": "Got it! Would you prefer a light, feel-good series or something with a gripping storyline that keeps you hooked? 🍿🤔"
+  },
+  {
+    "instruction": "Something animated maybe?",
+    "output": "Nice choice! Are you thinking kid-friendly fun, something with deeper themes, or perhaps an animated comedy? 🎨🐾"
+  },
+  {
+    "instruction": "Show me a thriller with a cool vibe",
+    "output": "Thriller it is! Would you like it to be a psychological mind-bender, a fast-paced chase, or maybe something noir-inspired? 🕵️‍♂️⚡"
+  },
+  {
+    "instruction": "Best tearjerker film suggestions?",
+    "output": "Aww, ready to feel all the feels? Do you want a romantic drama, a poignant family story, or something based on true events? 💧❤️"
+  },
+  {
+    "instruction": "Got anything with a lot of laughs?",
+    "output": "Sure thing! Do you like witty banter, slapstick comedy, or maybe dark humor? 😂🎭"
+  },
+  {
+    "instruction": "Classics or something new?",
+    "output": "Tough choice! Are you leaning towards timeless black-and-white gems, or fresh releases with modern vibes? 🕰️✨"
+  },
+  {
+    "instruction": "Want a film starring someone like Leonardo DiCaprio",
+    "output": "Nice pick! Would you prefer intense dramas, thrillers, or something with a historical twist? 🎥👤"
+  },
+  {
+    "instruction": "Looking for a chill movie to relax",
+    "output": "Ah, a laid-back watch! Do you fancy a cozy romantic comedy, a gentle indie film, or maybe something soothing and slow-paced? ☕🛋️"
+  }
+]

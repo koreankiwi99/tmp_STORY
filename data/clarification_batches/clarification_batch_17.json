@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for a good flick tonight",
+    "output": "Cool! Are you in the mood for something funny, thrilling, or maybe a heartwarming tale? 🎭"
+  },
+  {
+    "instruction": "Any suggestions for something old but gold?",
+    "output": "Nice! Do you want a classic Hollywood vibe, vintage noir, or maybe an iconic foreign gem? 🎥"
+  },
+  {
+    "instruction": "I want something that’s super fast-paced and exciting",
+    "output": "Got it! Are you thinking action, a suspense thriller, or maybe a high-energy sci-fi adventure? 🚀"
+  },
+  {
+    "instruction": "Something with animation would be nice",
+    "output": "Great choice! Are you into hand-drawn classics, modern CGI wonders, or maybe stop-motion charm? 🖌️"
+  },
+  {
+    "instruction": "Need a film that can make me laugh a lot",
+    "output": "Haha, laughter is the best medicine! Do you prefer witty rom-coms, slapstick comedies, or dark humor? 😂"
+  },
+  {
+    "instruction": "Looking for a touching story",
+    "output": "Sounds heartfelt! Would you like a drama, a tearjerking romance, or maybe a documentary with emotional depth? 💖"
+  },
+  {
+    "instruction": "Something from the 80s, if possible",
+    "output": "Ah, the rad 80s! Do you want an iconic blockbuster, a cult favorite, or something with that classic synth soundtrack? 🎸"
+  },
+  {
+    "instruction": "Got any films with cool female leads?",
+    "output": "Love that! Are you into strong action heroes, inspiring real-life stories, or quirky indie characters? 💪"
+  },
+  {
+    "instruction": "Show me a short film I won’t forget",
+    "output": "Short and sweet! Would you like animation, experimental storytelling, or a powerful drama under 30 minutes? ⏳"
+  },
+  {
+    "instruction": "Feel like watching something mind-bending",
+    "output": "Ooh, tricky and thrilling! Are you after sci-fi twists, psychological thrillers, or mysterious thrillers? 🧠"
+  }
+]

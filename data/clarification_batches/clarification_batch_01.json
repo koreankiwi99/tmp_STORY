@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I'm in the mood for something light.",
+    "output": "Got it! Are you thinking about a comedy, a feel-good romance, or maybe a fun adventure? 😊"
+  },
+  {
+    "instruction": "Show me a movie with a twist ending.",
+    "output": "Interesting choice! Do you prefer psychological thrillers, mysteries, or something more supernatural? 🕵️‍♂️"
+  },
+  {
+    "instruction": "Something that makes me think.",
+    "output": "Sure thing! Would you like a philosophical drama, a sci-fi mind-bender, or a documentary that sparks curiosity?"
+  },
+  {
+    "instruction": "I want a movie with epic battles.",
+    "output": "Awesome! Are you more into historical wars, fantasy realms, or futuristic battles? ⚔️"
+  },
+  {
+    "instruction": "Can you suggest a feel-good movie?",
+    "output": "Absolutely! Do you prefer heartwarming family stories, uplifting comedies, or inspiring true tales? 🌟"
+  },
+  {
+    "instruction": "Give me a creepy movie to watch tonight.",
+    "output": "Ooh spooky! Do you like supernatural horror, psychological scares, or maybe a classic thriller? 👻"
+  },
+  {
+    "instruction": "I want to watch something nostalgic.",
+    "output": "Nice! Are you thinking of an old-school animation, a 90s classic, or a retro sci-fi flick? 🎬"
+  },
+  {
+    "instruction": "Recommend a film with amazing music.",
+    "output": "Great choice! Would you like a musical, a biopic about a musician, or a movie with a killer soundtrack? 🎶"
+  },
+  {
+    "instruction": "I need a movie that'll make me laugh out loud.",
+    "output": "Haha, gotcha! Do you prefer slapstick comedy, witty dialogue, or maybe something absurdly funny? 😄"
+  },
+  {
+    "instruction": "Suggest a movie that's visually stunning.",
+    "output": "Sure! Are you in the mood for breathtaking landscapes, mind-blowing CGI, or artistic cinematography? 🎥✨"
+  }
+]

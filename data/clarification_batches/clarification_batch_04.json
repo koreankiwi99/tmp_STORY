@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I want to watch something fun.",
+    "output": "Got it! Are you in the mood for a lighthearted comedy, an adventurous animation, or maybe a feel-good musical? 🎉"
+  },
+  {
+    "instruction": "Looking for a movie that’s kind of intense.",
+    "output": "Intense, huh? Would you prefer a thrilling action flick, a suspenseful psychological drama, or maybe a gripping thriller? 🔥"
+  },
+  {
+    "instruction": "Something weird and different.",
+    "output": "Cool! Are you thinking quirky indie, mind-bending sci-fi, or surreal fantasy? Let's get creative! 🌈✨"
+  },
+  {
+    "instruction": "I feel like watching an old movie.",
+    "output": "Nice! Do you want a classic from the golden age like the 50s and 60s, a silent film, or something cult from the 70s or 80s? 📽️🎞️"
+  },
+  {
+    "instruction": "I want something relaxing.",
+    "output": "Perfect for unwinding! Would you enjoy a slow-paced drama, a calming nature documentary, or a soothing animated story? 🌿🎬"
+  },
+  {
+    "instruction": "Give me a movie with a strong lead.",
+    "output": "Strong lead — love that! Are you thinking a heroic action star, a powerful dramatic performance, or a charismatic comedian? 💪🎭"
+  },
+  {
+    "instruction": "Something really sad.",
+    "output": "Ready to tug at your heartstrings? Should it be a tearjerker romance, a tragic historical story, or a heartfelt family drama? 💔😢"
+  },
+  {
+    "instruction": "I want a cool sci-fi flick.",
+    "output": "Space adventures or futuristic thrillers? Do you prefer something thought-provoking and deep or action-packed and flashy? 🚀🤖"
+  },
+  {
+    "instruction": "Can you recommend a movie for a chill night?",
+    "output": "Chill night sounds great! Would you like a cozy rom-com, a laid-back indie film, or maybe some light-hearted animation? 🍿✨"
+  },
+  {
+    "instruction": "Something fast-paced and exciting.",
+    "output": "Gotcha! Are you in the mood for a high-octane action movie, a gripping crime thriller, or an energetic sports drama? ⚡️🎥"
+  }
+]

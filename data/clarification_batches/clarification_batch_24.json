@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I'm in the mood for a cool flick.",
+    "output": "Cool vibes, got it! Are you thinking something more laid-back or a thrilling adventure? 😎"
+  },
+  {
+    "instruction": "Show me something with a bit of weirdness.",
+    "output": "Love a quirky choice! Do you want the weirdness to be funny, spooky, or maybe mind-bending? 🌀"
+  },
+  {
+    "instruction": "Anything with an 80s vibe?",
+    "output": "Rad throwback! Are you after an action-packed 80s classic or something more like a nostalgic coming-of-age story? 🎸"
+  },
+  {
+    "instruction": "Something relaxing to watch tonight.",
+    "output": "Perfect for unwinding! Would you prefer a feel-good comedy, a gentle drama, or maybe a soothing nature documentary? 🌿"
+  },
+  {
+    "instruction": "Got a good horror?",
+    "output": "Spooky time! Are you into jump scares, psychological chills, or something with a creepy atmosphere? 👻"
+  },
+  {
+    "instruction": "I'm thinking something with cool animation.",
+    "output": "Animated gems coming up! Are you leaning towards a lighthearted family film, an anime, or a bold experimental style? 🎨"
+  },
+  {
+    "instruction": "Show me a fast-paced thriller.",
+    "output": "Edge-of-your-seat action, awesome! Do you want something more realistic or with a sci-fi twist? 🚀"
+  },
+  {
+    "instruction": "Looking for a classic romance.",
+    "output": "Love is in the air! Would you prefer a vintage black-and-white film or a timeless love story from recent decades? 💕"
+  },
+  {
+    "instruction": "Suggest a funny movie, please.",
+    "output": "Humor coming right up! Are you in the mood for clever wit, slapstick, or maybe something a little offbeat? 😂"
+  },
+  {
+    "instruction": "Anything by that director who does weird stuff?",
+    "output": "Sounds intriguing! Could you tell me if you mean someone known for surreal plots, dark themes, or bold visuals? 🎥"
+  }
+]

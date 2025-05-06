@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for a flick to watch tonight.",
+    "output": "Cool! Are you in the mood for something light and funny, or maybe a bit more intense? 🎬"
+  },
+  {
+    "instruction": "Any good films with a bit of mystery?",
+    "output": "Mystery sounds intriguing! Do you prefer classic whodunits, or something more modern and twisty? 🕵️‍♂️"
+  },
+  {
+    "instruction": "Something like an animated adventure?",
+    "output": "Animated adventure — love that! Do you want something more kid-friendly or with a mature vibe? 🐉"
+  },
+  {
+    "instruction": "I wanna watch a classic.",
+    "output": "Nice choice! Are you thinking old Hollywood glamour, maybe a noir thriller, or something else vintage? 🎥"
+  },
+  {
+    "instruction": "Got any cool sci-fi recommendations?",
+    "output": "Sci-fi is awesome! Are you looking for mind-bending plots, space operas, or maybe futuristic dystopias? 🚀"
+  },
+  {
+    "instruction": "A fun rom-com to lift my spirits?",
+    "output": "Rom-coms are perfect for that! Do you prefer something quirky and modern or a timeless love story? 💕"
+  },
+  {
+    "instruction": "Need a fast-paced thriller or something exciting.",
+    "output": "Fast-paced thrillers are a rush! Would you like a psychological edge, action-packed chases, or maybe a heist film? 🔪"
+  },
+  {
+    "instruction": "Looking for an emotional story.",
+    "output": "Got it, something touching! Are you drawn to dramas, true stories, or maybe heartfelt indie gems? 🎭"
+  },
+  {
+    "instruction": "Show me some movies with cool special effects.",
+    "output": "Special effects can be amazing! Are you thinking CGI-heavy blockbusters, or practical effects in classic flicks? ✨"
+  },
+  {
+    "instruction": "Any short films worth watching?",
+    "output": "Short films are neat! Do you want animated shorts, documentaries, or experimental styles? ⏱️"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I'm in the mood for something funny but not silly.",
+    "output": "Got it! Are you thinking more of a clever comedy or something with dry humor? 🤔"
+  },
+  {
+    "instruction": "Need a thrilling watch tonight.",
+    "output": "Thrilling sounds exciting! Do you prefer psychological thrillers or action-packed ones? 🎢"
+  },
+  {
+    "instruction": "Looking for a feel-good flick.",
+    "output": "Nice! Would you like a romantic vibe, an uplifting story, or maybe a heartwarming family tale? 😊"
+  },
+  {
+    "instruction": "Something with dark vibes and twists.",
+    "output": "Intriguing choice! Should it be more of a noir mystery, horror, or maybe a dark fantasy? 🌑"
+  },
+  {
+    "instruction": "Got any cool animations?",
+    "output": "Absolutely! Are you into whimsical tales, adventurous journeys, or something more artistic? 🎨"
+  },
+  {
+    "instruction": "I want something chill to just relax to.",
+    "output": "Relaxing sounds perfect. Are you thinking slow-paced dramas, cozy romantic comedies, or lighthearted slices of life? ☕️"
+  },
+  {
+    "instruction": "Looking for some edge-of-your-seat action.",
+    "output": "Pump up the adrenaline! Prefer classic heroics, spy thrillers, or futuristic battles? 💥"
+  },
+  {
+    "instruction": "Any recommendations with a deep emotional story?",
+    "output": "Sure thing! Would you like something touching and dramatic, or stories with complex character growth? 💖"
+  },
+  {
+    "instruction": "I'm up for a wild sci-fi ride.",
+    "output": "Love that! Should it be mind-bending and cerebral, or more about fast-paced space adventures? 🚀"
+  },
+  {
+    "instruction": "Want a quirky, offbeat film.",
+    "output": "Cool choice! Do you prefer something with unusual humor, surreal plots, or eccentric characters? 🎭"
+  }
+]

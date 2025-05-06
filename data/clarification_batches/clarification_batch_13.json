@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something to watch tonight",
+    "output": "Cool! Do you prefer something light and funny or maybe a thrilling adventure? 🎢"
+  },
+  {
+    "instruction": "Any good films with a retro vibe?",
+    "output": "Retro, huh? Are you thinking 80s neon or classic black-and-white noir? 🕶️🖤"
+  },
+  {
+    "instruction": "I want a flick that really makes me feel something.",
+    "output": "Got it! Should it be heartwarming, bittersweet, or downright tearjerking? 💧❤️"
+  },
+  {
+    "instruction": "Show me something animated",
+    "output": "Sweet! Do you prefer family-friendly animations or something more adult and edgy? 🎨"
+  },
+  {
+    "instruction": "Looking for a short film to kill some time",
+    "output": "Short and sweet! Any genre you’re into—comedy, drama, sci-fi? ⏳"
+  },
+  {
+    "instruction": "Need a new sci-fi that’s out of this world",
+    "output": "Awesome choice! Are you into space operas, dystopias, or mind-bending time travel? 🚀"
+  },
+  {
+    "instruction": "Got anything with a chill vibe?",
+    "output": "Definitely! Do you want something mellow like a quiet indie, or a laid-back comedy? 🍃"
+  },
+  {
+    "instruction": "Some classic films to binge?",
+    "output": "Classics rock! Prefer Hollywood golden age, foreign gems, or cult favorites? 🎞️"
+  },
+  {
+    "instruction": "Any movies with that famous actor guy?",
+    "output": "Hmm, which star are you thinking of? I can suggest titles from their best roles! 🌟"
+  },
+  {
+    "instruction": "Suggest something fast-paced and exciting",
+    "output": "Fast and furious vibes coming up! Action-packed, thriller, or maybe a wild heist? ⚡"
+  }
+]

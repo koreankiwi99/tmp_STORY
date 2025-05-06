@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I want to watch something exciting.",
+    "output": "Got it! Are you thinking of something more like an action-packed thriller, a fast-paced sci-fi, or maybe an adventurous fantasy? 🚀"
+  },
+  {
+    "instruction": "Looking for a good movie tonight.",
+    "output": "Nice! Do you feel like something light and funny, a dramatic story, or perhaps a classic film from a specific decade? 🎞️"
+  },
+  {
+    "instruction": "Something weird and different, I guess.",
+    "output": "Ooh, love that vibe! Are you in the mood for quirky comedies, surreal fantasies, or maybe some mind-bending sci-fi? 🤔✨"
+  },
+  {
+    "instruction": "Maybe a sad movie.",
+    "output": "Thanks for sharing. Would you prefer a tearjerker drama, a touching romance, or something biographical and inspiring? 💧❤️"
+  },
+  {
+    "instruction": "I’m in the mood for something chill.",
+    "output": "Chill sounds perfect. Do you want a slow-burning indie, a cozy romantic comedy, or an easy-going animated film? 🍃😊"
+  },
+  {
+    "instruction": "Could you recommend a movie?",
+    "output": "Absolutely! To narrow it down, do you want something new, an old favorite, or maybe something with a strong female lead? 🎬✨"
+  },
+  {
+    "instruction": "Want to watch a classic movie.",
+    "output": "Great choice! Are you thinking black and white classics, old Hollywood musicals, or maybe a vintage noir detective story? 🕵️‍♂️🎥"
+  },
+  {
+    "instruction": "Show me something scary.",
+    "output": "Boo! 👻 Do you prefer supernatural horror, psychological thrillers, or maybe something with monsters or ghosts? 🧟‍♀️"
+  },
+  {
+    "instruction": "Need a fun movie to lift my mood.",
+    "output": "Love that! Are you after slapstick comedy, a feel-good musical, or maybe an animated gem full of laughs? 🎉😄"
+  },
+  {
+    "instruction": "I want a movie that makes me think.",
+    "output": "Deep dive coming up! Do you enjoy cerebral sci-fi, thought-provoking dramas, or mind-bending mysteries? 🧠🔍"
+  }
+]

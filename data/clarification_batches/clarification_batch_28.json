@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something light and fun to watch tonight",
+    "output": "Got it! Are you in the mood for a comedy, a feel-good adventure, or maybe something with a musical twist? 🎶😄"
+  },
+  {
+    "instruction": "I want a film that really makes you think",
+    "output": "Interesting! Do you prefer mind-bending sci-fi, deep dramas, or something with a philosophical vibe? 🤔🎥"
+  },
+  {
+    "instruction": "Show me something with amazing visuals",
+    "output": "Cool! Would you like an animated wonderland, a stunning nature documentary, or maybe a visually striking fantasy? 🌌✨"
+  },
+  {
+    "instruction": "Need a thriller that keeps me on the edge",
+    "output": "Edge-of-your-seat coming up! Are you after a psychological thriller, a fast-paced crime chase, or maybe something supernatural? 🕵️‍♂️🔪"
+  },
+  {
+    "instruction": "Got any cool sci-fi flicks?",
+    "output": "Sci-fi, nice! Are you thinking space exploration, dystopian futures, or maybe a tech-focused storyline? 🚀🤖"
+  },
+  {
+    "instruction": "Something romantic but not too cheesy",
+    "output": "Love that balance! Do you prefer romantic comedies, heartfelt dramas, or maybe something with a twist? 💕🎭"
+  },
+  {
+    "instruction": "Any good movies with strong female leads?",
+    "output": "Absolutely! Are you looking for action-packed heroines, inspiring dramas, or maybe quirky indie stories? 👩‍🎤🎬"
+  },
+  {
+    "instruction": "I want a quick watch, not too long",
+    "output": "Got it, short and sweet! Do you prefer animated shorts, light comedies, or maybe some captivating documentaries? ⏳🍿"
+  },
+  {
+    "instruction": "What's a good film if I just want to chill out?",
+    "output": "Sounds like a cozy plan! Would you enjoy something mellow and heartwarming, a gentle comedy, or a laid-back fantasy? ☕🎞️"
+  },
+  {
+    "instruction": "Any suggestions with fantastic soundtracks?",
+    "output": "Music matters! Are you into musicals, movies with iconic scores, or maybe documentaries about musicians? 🎧🎤"
+  }
+]

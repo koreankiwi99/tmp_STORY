@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something light to watch",
+    "output": "Got it! Are you in the mood for a comedy, a feel-good drama, or maybe a chill romance? 😊"
+  },
+  {
+    "instruction": "Got time for a quick flick?",
+    "output": "Sweet! Do you prefer animated shorts, thrilling mini-movies, or something else that packs a punch fast? ⚡🎬"
+  },
+  {
+    "instruction": "Need a film that’s intense and gripping",
+    "output": "Ooh, intense sounds exciting! Do you like psychological thrillers, action-packed adventures, or suspenseful mysteries? 🔥🕵️"
+  },
+  {
+    "instruction": "Anything with a happy ending",
+    "output": "Love a feel-good finale! Are you thinking of a romantic comedy, an uplifting family tale, or something heartwarming and sweet? 💖😊"
+  },
+  {
+    "instruction": "Want a flick with epic visuals",
+    "output": "Visuals matter! Are you thinking of a sci-fi spectacle, a fantasy world, or maybe a stunning animated journey? ✨🚀"
+  },
+  {
+    "instruction": "Show me a movie that’s kinda funny but smart",
+    "output": "Gotcha! Do you like clever comedies, witty dramas, or maybe satirical gems? 🧠😄"
+  },
+  {
+    "instruction": "Something that’ll make me cry a little",
+    "output": "Looking for a tearjerker, huh? Would you prefer emotional dramas, heartfelt biopics, or poetic indie films? 😢❤️"
+  },
+  {
+    "instruction": "Got any thrilling adventures?",
+    "output": "Adventure time! Do you want something action-packed, a daring quest, or maybe an exciting sci-fi ride? 🏞️⚔️"
+  },
+  {
+    "instruction": "I want something chill and relaxing",
+    "output": "Chill vibes coming up! Are you into gentle comedies, soothing dramas, or maybe calm animated stories? 🌿🍃"
+  },
+  {
+    "instruction": "Looking for a dark and moody flick",
+    "output": "Ah, diving into the shadows! Do you prefer noir-style crime, psychological thrillers, or eerie supernatural tales? 🌑🕶️"
+  }
+]

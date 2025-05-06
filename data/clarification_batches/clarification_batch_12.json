@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I want to watch something fun.",
+    "output": "Cool! Are you thinking comedy, adventure, or maybe something animated? 🎉"
+  },
+  {
+    "instruction": "Got any good flicks?",
+    "output": "Absolutely! What vibe are you in the mood for—chill and relaxing or thrilling and fast-paced? 🎬"
+  },
+  {
+    "instruction": "Looking for a classic.",
+    "output": "Nice choice! Do you prefer black-and-white films, old Hollywood glam, or vintage noir? 🕰️"
+  },
+  {
+    "instruction": "Something with aliens or robots.",
+    "output": "Sci-fi it is! Would you like it to be action-packed or more of a thoughtful, slow burner? 🤖✨"
+  },
+  {
+    "instruction": "Show me a tearjerker.",
+    "output": "Got it. Do you want a romantic drama, a heartfelt family story, or something based on real events? ❤️"
+  },
+  {
+    "instruction": "Any cool animations?",
+    "output": "Love animations! Are you into whimsical fairy tales, edgy adult animations, or maybe classic Disney style? 🎨"
+  },
+  {
+    "instruction": "Need a quick watch.",
+    "output": "Short and sweet! Are you looking for a short film, a light comedy, or maybe a fast-paced thriller? ⏰"
+  },
+  {
+    "instruction": "Something with that 80s feel.",
+    "output": "Rad! Do you want neon-soaked action, nostalgic rom-coms, or maybe synth-heavy thrillers? 🌟"
+  },
+  {
+    "instruction": "Any suggestions with famous actors?",
+    "output": "Sure! Do you have a favorite star or prefer a particular director’s style? 🎥"
+  },
+  {
+    "instruction": "Give me a weird one.",
+    "output": "Ooh, quirky pick! Are you thinking surreal, darkly comic, or mind-bending sci-fi? 🌀"
+  }
+]

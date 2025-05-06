@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something to watch tonight",
+    "output": "Gotcha! Do you want something light and funny, or maybe a thrilling adventure? 🎭"
+  },
+  {
+    "instruction": "Any good old films I could check out?",
+    "output": "Classic vibes, nice! Are you thinking black-and-white classics, or maybe something from the golden age of Hollywood? 🕰️"
+  },
+  {
+    "instruction": "Want to see a cool animated flick",
+    "output": "Sweet! Are you in the mood for something colorful and whimsical or more serious and artistic? 🎨"
+  },
+  {
+    "instruction": "Need a fast-paced story",
+    "output": "Speedy tales, got it! Would you prefer action-packed thrillers or suspenseful mysteries? ⚡"
+  },
+  {
+    "instruction": "Something with a retro 80s feel",
+    "output": "Ah, the 80s! Neon lights and synth sounds. Interested in a comedy, horror, or maybe a nostalgic romance? 📼"
+  },
+  {
+    "instruction": "A film with powerful emotions",
+    "output": "Looking for something that really tugs at the heartstrings? Drama, tearjerkers, or maybe intense true stories? 💔"
+  },
+  {
+    "instruction": "Show me a movie with a famous director",
+    "output": "Sure thing! Any favorite directors or styles? Maybe something Hitchcockian suspense or Tarantino’s flair? 🎥"
+  },
+  {
+    "instruction": "Want to watch something short",
+    "output": "Short and sweet—love it! Animated shorts, quick documentaries, or bite-sized comedies? ⏳"
+  },
+  {
+    "instruction": "Thinking about a romantic film",
+    "output": "Romance is in the air! Do you want a heartwarming rom-com, a classic love story, or a modern drama? 💕"
+  },
+  {
+    "instruction": "Looking for a movie with lots of laughs",
+    "output": "Ready to chuckle? Are you into slapstick comedy, witty banter, or something silly and silly? 😂"
+  }
+]

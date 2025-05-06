@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something to watch tonight.",
+    "output": "Gotcha! Do you want something light and funny, or maybe a gripping thriller? 🎭"
+  },
+  {
+    "instruction": "Any cool flicks like from the 80s?",
+    "output": "Nice choice! Are you into classics with that vintage vibe or something that feels more like an 80s-inspired new release? 🕰️"
+  },
+  {
+    "instruction": "Something with a lot of action and adventure.",
+    "output": "Awesome! Do you prefer big blockbuster style, or something a bit more indie but packed with thrills? 🎬"
+  },
+  {
+    "instruction": "Need a film to just relax with.",
+    "output": "Chill mode activated! Do you want something animated, a cozy rom-com, or maybe a slow-paced drama? 🛋️"
+  },
+  {
+    "instruction": "Want to watch a scary one.",
+    "output": "Boo! 👻 Are you looking for classic horror chills or modern psychological scares?"
+  },
+  {
+    "instruction": "Recommend me a movie with strong female leads.",
+    "output": "Love that! Should it be empowering dramas, action-packed adventures, or maybe something funny? 💪"
+  },
+  {
+    "instruction": "I’m in the mood for something short and sweet.",
+    "output": "Got it! Would you like an animated short, a heartfelt indie film, or a documentary snippet? 📽️"
+  },
+  {
+    "instruction": "Show me something mind-bending and thought-provoking.",
+    "output": "Brain workout coming up! Do you want sci-fi twists, psychological dramas, or maybe something surreal? 🧠"
+  },
+  {
+    "instruction": "Any movies with that dark, noir vibe?",
+    "output": "Ah, the shadows and mystery! Are you thinking old-school noir or a modern take on the style? 🌒"
+  },
+  {
+    "instruction": "Got any flicks with that chill beach atmosphere?",
+    "output": "Surf’s up! 🏄‍♂️ Looking for laid-back comedies, romantic tales, or something dramatic set by the sea?"
+  }
+]

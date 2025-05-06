@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I need something light.",
+    "output": "Got it! Are you in the mood for a comedy, a feel-good drama, or maybe a whimsical adventure? 😊"
+  },
+  {
+    "instruction": "Show me a thriller.",
+    "output": "Thriller sounds exciting! Do you prefer psychological twists or more action-packed suspense? 🔍"
+  },
+  {
+    "instruction": "Feeling nostalgic tonight.",
+    "output": "Nice! Any favorite decade or genre that brings back those good old memories?"
+  },
+  {
+    "instruction": "Something that’ll make me think.",
+    "output": "Deep and thought-provoking? Would you like sci-fi, mystery, or maybe a cerebral drama? 🤔"
+  },
+  {
+    "instruction": "I want a movie about friendship.",
+    "output": "Friends forever! Should it be heartwarming, funny, or maybe a mix of both? 👫"
+  },
+  {
+    "instruction": "I’m just looking for some laughs.",
+    "output": "Comedy time! Prefer slapstick, witty banter, or dark humor? 😂"
+  },
+  {
+    "instruction": "Give me something visually stunning.",
+    "output": "Visually stunning, love it! Are you thinking animation, epic fantasy, or documentary style? 🎨"
+  },
+  {
+    "instruction": "I’d like a movie with a strong female lead.",
+    "output": "Great choice! Any particular genre you’d like her to shine in? Action, drama, or something else?"
+  },
+  {
+    "instruction": "Looking for a classic.",
+    "output": "Classics are timeless! Would you prefer something from the golden age of cinema or a cult favorite? 🎬"
+  },
+  {
+    "instruction": "I want a feel-good movie with a twist.",
+    "output": "Oh, a twist makes it more fun! Would you like romance, comedy, or maybe a mystery with that feel-good vibe? 😉"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I'm in the mood for something fun to watch tonight.",
+    "output": "Awesome! Are you thinking more comedy, adventure, or maybe something quirky? 🎉🍿"
+  },
+  {
+    "instruction": "Got any cool film suggestions?",
+    "output": "Sure thing! Do you prefer a certain vibe — like thrilling, chill, or maybe a classic throwback? 🎬✨"
+  },
+  {
+    "instruction": "Looking for a flick with a bit of mystery.",
+    "output": "Nice choice! Do you want it more suspenseful, noir style, or maybe with supernatural elements? 🕵️‍♂️🔍"
+  },
+  {
+    "instruction": "Something with great animation would be nice.",
+    "output": "Cool! Are you into modern CGI, hand-drawn classics, or maybe anime? 🎨🐉"
+  },
+  {
+    "instruction": "I want to watch a movie from the 80s.",
+    "output": "Rad! Do you like action-packed blockbusters, teen comedies, or something a bit more dramatic from that decade? 📼😎"
+  },
+  {
+    "instruction": "Any suggestions for a heartfelt story?",
+    "output": "Got it! Are you leaning towards romantic tales, family dramas, or inspirational journeys? 💖🎭"
+  },
+  {
+    "instruction": "Just want something quick and entertaining.",
+    "output": "Short and sweet — gotcha! Do you prefer shorts, fast-paced comedies, or maybe an action-packed mini-feature? ⏳⚡"
+  },
+  {
+    "instruction": "Can you recommend a movie with an amazing soundtrack?",
+    "output": "Love that! Are you into rock, orchestral scores, or maybe musicals with catchy tunes? 🎶🎤"
+  },
+  {
+    "instruction": "Thinking about watching a sci-fi flick.",
+    "output": "Great pick! Do you want something mind-bending and futuristic, space exploration, or classic sci-fi vibes? 🚀🤖"
+  },
+  {
+    "instruction": "I’m curious about films directed by women.",
+    "output": "Wonderful! Do you prefer dramas, documentaries, or something more experimental? 🎥🌟"
+  }
+]

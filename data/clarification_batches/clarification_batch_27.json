@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for a good flick tonight",
+    "output": "Gotcha! Any favorite genre or mood you’re leaning toward? 🎬😊"
+  },
+  {
+    "instruction": "something light and funny",
+    "output": "Nice! Do you want a comedy with a romantic twist or more of a silly, slapstick vibe? 🤔😂"
+  },
+  {
+    "instruction": "Show me a film with a strong female lead",
+    "output": "Cool choice! Are you thinking action-packed, dramatic, or maybe something empowering and inspiring? 💪🎥"
+  },
+  {
+    "instruction": "Any suggestions for an animated adventure?",
+    "output": "Awesome! Do you prefer something more fantastical and magical or a heartfelt journey with real-world themes? 🐉🌟"
+  },
+  {
+    "instruction": "I want a thriller, but nothing too scary",
+    "output": "Understood! Would you like a psychological twist, a crime mystery, or something with more suspense and action? 🕵️‍♂️🔍"
+  },
+  {
+    "instruction": "Looking for a fast-paced story",
+    "output": "Speedy plot coming right up! Are you thinking sci-fi, action, or maybe a high-energy drama? ⚡🎞️"
+  },
+  {
+    "instruction": "Got anything artsy or unusual?",
+    "output": "Ooh, love that! More of an indie vibe, abstract storytelling, or something visually stunning? 🎨👀"
+  },
+  {
+    "instruction": "Want a feel-good story to brighten the day",
+    "output": "Perfect! Would you like something with uplifting characters, sweet moments, or maybe a cheerful musical? ☀️🎶"
+  },
+  {
+    "instruction": "Suggest me a movie with iconic performances",
+    "output": "Great pick! Any particular actor or actress you admire, or a certain kind of powerful acting you enjoy? 👏🎭"
+  },
+  {
+    "instruction": "Just in the mood for a dramatic tale",
+    "output": "Drama, got it! Should it be intense and emotional or a bit more subtle and thought-provoking? 🎭💡"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for a flick to watch tonight.",
+    "output": "Got it! Do you want something thrilling, heartwarming, or maybe a light comedy to chill with? 🍿"
+  },
+  {
+    "instruction": "Need a good story to dive into.",
+    "output": "Sure! Are you in the mood for an epic adventure, a cozy drama, or maybe something mind-bending? 🎭"
+  },
+  {
+    "instruction": "Show me something cool from back in the day.",
+    "output": "Nice choice! Do you prefer classic Hollywood, vintage noir, or maybe some cult 80s vibes? 🎬"
+  },
+  {
+    "instruction": "I want a laugh but nothing too cheesy.",
+    "output": "Alright! Would you like witty dialogue, quirky characters, or maybe some subtle dark humor? 😄"
+  },
+  {
+    "instruction": "Any recommendations with stunning visuals?",
+    "output": "Awesome! Are you thinking about animated gems, sci-fi spectacles, or maybe beautifully shot indie films? 📽️"
+  },
+  {
+    "instruction": "Something short but impactful.",
+    "output": "Got it! Are you open to short films or maybe some tightly paced thrillers? ⏳"
+  },
+  {
+    "instruction": "I want to feel all the emotions.",
+    "output": "Deep feels coming right up! Prefer tearjerkers, inspiring tales, or bittersweet romances? ❤️"
+  },
+  {
+    "instruction": "Got any cool crime stories?",
+    "output": "Definitely! Do you like gritty noir, clever heist plots, or police procedurals? 🕵️"
+  },
+  {
+    "instruction": "Looking for something futuristic and mind-blowing.",
+    "output": "Sweet! Are you into dystopian worlds, space operas, or cyberpunk aesthetics? 🚀"
+  },
+  {
+    "instruction": "I just want to watch a great animated feature.",
+    "output": "Perfect! Would you prefer classic hand-drawn style, modern CGI adventures, or maybe something more experimental? 🎨"
+  }
+]

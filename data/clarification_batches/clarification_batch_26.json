@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something to watch tonight.",
+    "output": "Got it! Do you want something light and funny, or maybe a bit thrilling? 🎭"
+  },
+  {
+    "instruction": "Any good flick suggestions?",
+    "output": "Sure! Are you in the mood for a heartwarming story or an edge-of-your-seat adventure? 😊🎢"
+  },
+  {
+    "instruction": "Need a chill film to relax.",
+    "output": "Sounds cozy! Would you prefer a calm drama or maybe a feel-good comedy? ☕️🎬"
+  },
+  {
+    "instruction": "What about some animated stuff?",
+    "output": "Nice choice! Are you thinking more along the lines of magical fantasies or witty adult animations? 🐉🌀"
+  },
+  {
+    "instruction": "Something with lots of suspense.",
+    "output": "Thrilling! Should it be a psychological thriller or more of a crime mystery? 🕵️‍♂️🔍"
+  },
+  {
+    "instruction": "I want a happy movie.",
+    "output": "Happiness coming right up! Do you like rom-coms or maybe feel-good family stories? 💕🍿"
+  },
+  {
+    "instruction": "Show me something weird and fun.",
+    "output": "Cool, quirky vibes! Would you enjoy a surreal comedy or a strange sci-fi? 🤪🚀"
+  },
+  {
+    "instruction": "Looking for a touching story.",
+    "output": "Emotional journeys are the best. Do you want a drama or something based on real events? 💧🎞️"
+  },
+  {
+    "instruction": "Got any fast-paced thrillers?",
+    "output": "Oh yes! Are you thinking of an action-packed chase or a gripping psychological twist? 🏃‍♀️⚡"
+  },
+  {
+    "instruction": "I just want something funny.",
+    "output": "Laughter guaranteed! Do you prefer slapstick humor or witty dialogue-driven comedy? 😂🗯️"
+  }
+]

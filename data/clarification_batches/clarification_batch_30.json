@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something to watch tonight",
+    "output": "Hey! Are you in the mood for something chill and relaxing, or maybe something thrilling and edge-of-your-seat? 🎬✨"
+  },
+  {
+    "instruction": "Want a flick that's kinda spooky",
+    "output": "Spooky sounds fun! Do you prefer classic horror chills, or more of a creepy psychological vibe? 👻🕯️"
+  },
+  {
+    "instruction": "Got any weird films to recommend?",
+    "output": "Weird is wonderful! Should the weirdness be funny, mind-bending, or maybe a bit surreal and artsy? 🎨😜"
+  },
+  {
+    "instruction": "Show me something happy",
+    "output": "Looking for a feel-good comedy, a sweet rom-com, or something inspiring and uplifting? 😊💕"
+  },
+  {
+    "instruction": "Any classics that still hold up?",
+    "output": "Great choice! Do you prefer golden-age Hollywood, film noir vibes, or maybe timeless foreign gems? 🎥🕰️"
+  },
+  {
+    "instruction": "I want a film with a lot of action",
+    "output": "Action-packed, got it! Do you like fast-paced car chases, martial arts showdowns, or epic adventure quests? 💥🏍️"
+  },
+  {
+    "instruction": "Suggest something animated",
+    "output": "Animated sounds fun! Are you thinking light-hearted family fare, dark and artistic animations, or maybe something foreign? 🎨🐉"
+  },
+  {
+    "instruction": "Got any sad stories?",
+    "output": "Tearjerkers can be powerful. Would you like a drama focusing on relationships, a historical tragedy, or maybe something a bit bittersweet? 😢❤️"
+  },
+  {
+    "instruction": "Any interesting sci-fi picks?",
+    "output": "Sci-fi it is! Do you want futuristic space epics, cyberpunk thrillers, or thought-provoking dystopias? 🚀🤖"
+  },
+  {
+    "instruction": "Looking for a fast-paced story",
+    "output": "Speedy storytelling sounds fun! Should it be a thriller, an action flick, or maybe a comedy that keeps you on your toes? ⚡🎭"
+  }
+]

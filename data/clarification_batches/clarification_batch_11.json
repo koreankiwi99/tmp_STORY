@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "I want something fun to watch tonight",
+    "output": "Cool! Are you in the mood for a comedy, an action flick, or maybe something animated? 🎉"
+  },
+  {
+    "instruction": "Looking for a film with a dark vibe",
+    "output": "Got it. Are you thinking thriller, horror, or something more like a moody drama? 🖤"
+  },
+  {
+    "instruction": "Show me some classics",
+    "output": "Sweet! Do you prefer black-and-white oldies, noir, or golden-age Hollywood? 🎥"
+  },
+  {
+    "instruction": "Something with space and aliens",
+    "output": "Space adventures? Awesome! Would you like a sci-fi epic, a quirky comedy, or a scary extraterrestrial tale? 👽"
+  },
+  {
+    "instruction": "A good movie with Robin Williams",
+    "output": "Nice choice! Are you after his funniest roles, touching dramas, or maybe something more adventurous? 🎭"
+  },
+  {
+    "instruction": "Need a chill movie",
+    "output": "Relaxing vibes coming up! Prefer something slow-paced and heartfelt, or light and breezy? ☁️"
+  },
+  {
+    "instruction": "Films like the 80s",
+    "output": "Rad! Are you thinking about neon-lit action, teen comedies, or synthwave sci-fi? 🕹️"
+  },
+  {
+    "instruction": "Animated stuff for adults",
+    "output": "Cool! Looking for something funny, surreal, or maybe with a more serious tone? 🎨"
+  },
+  {
+    "instruction": "Any good short films out there?",
+    "output": "Short and sweet? Do you want something experimental, heartwarming, or maybe a quick thriller? ⏳"
+  },
+  {
+    "instruction": "I want a film that really makes me think",
+    "output": "Deep dive ahead! Would you like a psychological drama, a mind-bending sci-fi, or a thought-provoking documentary? 🤔"
+  }
+]

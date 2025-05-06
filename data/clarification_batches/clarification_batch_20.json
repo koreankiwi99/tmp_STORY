@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something fun to watch tonight",
+    "output": "Cool! Are you thinking more comedy, adventure, or maybe something animated? 🎉"
+  },
+  {
+    "instruction": "Any suggestions for a gripping story?",
+    "output": "Gripping sounds exciting! Do you prefer thrillers, mysteries, or maybe intense dramas? 🔍"
+  },
+  {
+    "instruction": "I want a classic film that won’t be boring.",
+    "output": "Nice choice! Do you want black-and-white classics, film noir vibes, or maybe something from the golden age of Hollywood? 🎬"
+  },
+  {
+    "instruction": "Something light, not too long.",
+    "output": "Got it! Are you in the mood for a short rom-com, a quick animated flick, or maybe a light documentary? 🍿"
+  },
+  {
+    "instruction": "Need an emotional story that hits deep.",
+    "output": "Looking for something heartfelt? Would you prefer a romantic drama, a tearjerker, or a true story? ❤️"
+  },
+  {
+    "instruction": "Sci-fi with cool special effects?",
+    "output": "Awesome! Do you like futuristic settings, space adventures, or something more cyberpunk? 🚀"
+  },
+  {
+    "instruction": "Got any old-school gangster flicks?",
+    "output": "Love that era! Are you after gritty 70s crime dramas or stylish noir from the 40s? 🕵️‍♂️"
+  },
+  {
+    "instruction": "Show me a wild, fast-paced thriller",
+    "output": "On it! Do you like chase scenes, psychological twists, or high-stakes heists? ⚡"
+  },
+  {
+    "instruction": "Animated and funny, something for the whole family",
+    "output": "Perfect for a cozy night! Would you want a recent hit, a timeless classic, or something a bit quirky? 🐭"
+  },
+  {
+    "instruction": "Any movies by famous directors worth watching?",
+    "output": "Great idea! Do you have a favorite director in mind, or want me to pick a standout from acclaimed filmmakers? 🎥"
+  }
+]

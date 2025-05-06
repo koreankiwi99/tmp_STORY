@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something fun to watch tonight.",
+    "output": "Got it! Are you in the mood for a comedy, an adventure, or maybe something totally unexpected? 🎉"
+  },
+  {
+    "instruction": "Any good flicks with a dark vibe?",
+    "output": "Dark vibe sounds intriguing! Are you thinking thriller, horror, or maybe a moody drama? 🖤"
+  },
+  {
+    "instruction": "Need a film that’s light and easy.",
+    "output": "Perfect for relaxing! Would you prefer a rom-com, a feel-good animation, or maybe a quirky indie? ☀️"
+  },
+  {
+    "instruction": "Show me some sci-fi stuff.",
+    "output": "Awesome choice! Do you want futuristic space epics, mind-bending stories, or classic cyberpunk? 🚀"
+  },
+  {
+    "instruction": "Something with that 80s feel.",
+    "output": "Nice! Are you after action-packed classics, nostalgic teen comedies, or synth-heavy thrillers? 🎸"
+  },
+  {
+    "instruction": "Any cool short films out there?",
+    "output": "Short and sweet! Do you prefer animated shorts, dramatic shorts, or maybe something experimental? 🎥"
+  },
+  {
+    "instruction": "I’m up for a movie with powerful emotions.",
+    "output": "Emotional rollercoaster, huh? Would you like a tearjerker drama, an inspiring true story, or something bittersweet? 💧"
+  },
+  {
+    "instruction": "Films with a legendary actor?",
+    "output": "Great pick! Any favorite star you want to see, or should I surprise you with a classic performance? 🌟"
+  },
+  {
+    "instruction": "Want a movie that’s funny but also smart.",
+    "output": "Smart humor is the best! Are you thinking witty comedies, satirical gems, or clever dark humor? 😄"
+  },
+  {
+    "instruction": "Looking for something animated and colorful.",
+    "output": "Love that vibe! Are you interested in family-friendly stories, artistic indie animations, or maybe anime? 🌈"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something to watch tonight.",
+    "output": "Gotcha! Are you in the mood for an action-packed flick, a cozy romance, or maybe something totally different? 🎬"
+  },
+  {
+    "instruction": "Any good films like those old detective stories?",
+    "output": "Ah, a fan of vintage noir vibes! Do you prefer something gritty and dark, or more of a classic mystery with twists? 🕵️‍♂️"
+  },
+  {
+    "instruction": "Want a fun flick.",
+    "output": "Fun sounds great! Do you want comedy, a feel-good adventure, or maybe an animated treat? 🎉"
+  },
+  {
+    "instruction": "Thinking about something with cool visuals.",
+    "output": "Nice! Are you leaning towards stunning animation, mind-bending sci-fi, or epic fantasy landscapes? ✨"
+  },
+  {
+    "instruction": "I’m up for something emotional.",
+    "output": "Got it, something that tugs at the heartstrings. Would you prefer a drama, a heartfelt romance, or maybe a true story? ❤️"
+  },
+  {
+    "instruction": "Show me movies from the 80s.",
+    "output": "Classic choice! Do you want action-packed 80s thrillers, iconic comedies, or those timeless teen coming-of-age stories? 🕺"
+  },
+  {
+    "instruction": "Anything with my favorite actor, you know, that guy from that show?",
+    "output": "No worries! Can you tell me the actor’s name or maybe a specific role they played? I’ll track down some gems! 🎥"
+  },
+  {
+    "instruction": "Need a quick watch.",
+    "output": "Quick and sweet, got it! Short films or maybe fast-paced stories under 90 minutes? ⏳"
+  },
+  {
+    "instruction": "Looking for a scary one.",
+    "output": "Spooky vibes incoming! Do you like psychological horror, supernatural chills, or gore-filled thrillers? 👻"
+  },
+  {
+    "instruction": "Something a bit different, you know?",
+    "output": "Ooh, love the adventurous spirit! Are you thinking indie gems, foreign films, or maybe a cult classic? 🎭"
+  }
+]

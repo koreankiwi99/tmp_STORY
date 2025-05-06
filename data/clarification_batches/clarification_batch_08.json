@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Looking for something fun to watch tonight",
+    "output": "Hey! Are you in the mood for a laugh, some action, or maybe a bit of drama? 🎭"
+  },
+  {
+    "instruction": "Got any cool films like from the 80s?",
+    "output": "Ah, love the 80s vibe! Do you prefer classics with nostalgia or hidden gems from that era? 📼✨"
+  },
+  {
+    "instruction": "Need a good flick with intense action scenes",
+    "output": "Gotcha! Do you want non-stop thrills or something with a deeper story beneath the action? 💥"
+  },
+  {
+    "instruction": "Something animated maybe?",
+    "output": "Nice choice! Are you thinking of a lighthearted cartoon or a more artistic animated feature? 🎨🍿"
+  },
+  {
+    "instruction": "Any recommendations with a dark, mysterious tone?",
+    "output": "Oooh, mysterious and moody! Would you like a psychological thriller, a noir classic, or something supernatural? 🕵️‍♂️🌑"
+  },
+  {
+    "instruction": "Romantic stuff, but not too cheesy",
+    "output": "Got it! Do you want a heartfelt indie love story or a romantic comedy with a bit of edge? ❤️😄"
+  },
+  {
+    "instruction": "Show me something with cool sci-fi concepts",
+    "output": "Sci-fi is awesome! Are you looking for mind-bending futuristic tech or space adventures? 🚀🤖"
+  },
+  {
+    "instruction": "Old school black and white films?",
+    "output": "Classic choice! Would you prefer drama, mystery, or maybe some vintage comedy? 🖤🤍"
+  },
+  {
+    "instruction": "Want a quick watch, like a short film or something",
+    "output": "Short and sweet! Do you want something animated, documentary-style, or maybe a punchy thriller? ⏳🎥"
+  },
+  {
+    "instruction": "Looking for a movie with great performances",
+    "output": "Awesome! Are you thinking about a film with award-winning actors or perhaps a standout director's masterpiece? 👏🎬"
+  }
+]
