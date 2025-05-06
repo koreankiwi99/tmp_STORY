@@ -1,0 +1,74 @@
+{
+  "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction",
+    "Adventure",
+    "Thriller",
+    "Comedy",
+    "Romance",
+    "Fantasy"
+  ],
+  "emotions": [
+    "emotional",
+    "inspiring",
+    "uplifting",
+    "tense",
+    "heartwarming",
+    "dark",
+    "nostalgic",
+    "thought-provoking",
+    "gripping"
+  ],
+  "keywords": [
+    "time travel",
+    "alien",
+    "grief",
+    "family",
+    "robot",
+    "space mission",
+    "immigrant family",
+    "video game",
+    "college graduate",
+    "racing",
+    "dystopia",
+    "dream",
+    "alternate reality",
+    "language barrier",
+    "rebellion"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Tom Hanks",
+    "Sandra Bullock",
+    "Susan Sarandon",
+    "Archie Madekwe",
+    "David Harbour",
+    "Bruna Marquezine",
+    "Xolo Maridueña",
+    "George Lopez",
+    "Orlando Bloom"
+  ],
+  "titles": [
+    "Interstellar",
+    "Arrival",
+    "Inception",
+    "Blue Beetle",
+    "Gran Turismo",
+    "The Martian",
+    "Gravity",
+    "Her",
+    "Tenet",
+    "District 9"
+  ],
+  "directors": [
+    "Christopher Nolan",
+    "Denis Villeneuve",
+    "James Cameron",
+    "Greta Gerwig",
+    "Steven Spielberg",
+    "Neill Blomkamp",
+    "Patty Jenkins",
+    "Zack Snyder"
+  ]
+}
