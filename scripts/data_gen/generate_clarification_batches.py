@@ -98,7 +98,7 @@ def save_batch(batch_data, batch_number, out_dir):
     filename = os.path.join(out_dir, f"clarification_batch_{batch_number:02d}.json")
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(batch_data, f, ensure_ascii=False, indent=2)
-    print(f"✅ Saved batch {batch_number:02d} to {filename}")
+    print(f"Saved batch {batch_number:02d} to {filename}")
 
 def main():
     parser = argparse.ArgumentParser()
