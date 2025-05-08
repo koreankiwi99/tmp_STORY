@@ -4,6 +4,7 @@ import os
 import time
 import pandas as pd
 from openai import OpenAI
+import ast
 
 # Final system prompt
 SYSTEM_PROMPT = """You are generating training data for a movie recommendation chatbot.
@@ -74,15 +75,28 @@ def parse_gpt_json_response(text):
 
 # Generate examples from one movie row
 def generate_samples_for_row(row, client, model, temperature, top_p):
+    # Parse actors (string → list), cut to 5, fallback to ['Unknown'] if empty
+    actors = ast.literal_eval(row["actors"]) if pd.notna(row["actors"]) else []
+    actors = actors[:5] if actors else ["Unknown"]
+
+    # Parse emotions (string → list), fallback to ['Unknown'] if empty
+    emotions = ast.literal_eval(row["emotions"]) if pd.notna(row["emotions"]) else []
+    emotions = emotions if emotions else ["Unknown"]
+
+    # Use director or "Unknown"
+    director = row["director"] if pd.notna(row["director"]) else "Unknown"
+
+    # Format prompt
     prompt = USER_PROMPT_TEMPLATE.format(
         title=row["title"],
         genres=row["genres"],
         tags=row["keywords"],
-        actors=", ".join(eval(row["actors"])),
-        director=row.get("director", "Unknown"),
-        emotions=", ".join(eval(row["emotions"])),
+        actors=", ".join(actors),
+        director=director,
+        emotions=", ".join(emotions),
         overview=row["overview"]
     )
+
     response_text = call_gpt(client, model, SYSTEM_PROMPT, prompt, temperature, top_p)
     return parse_gpt_json_response(response_text)
 
