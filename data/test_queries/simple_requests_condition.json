@@ -1,0 +1,787 @@
+[
+  {
+    "query": "Give me a movie with a happy ending.",
+    "segments": {
+      "titles": [
+        "Happy Ending"
+      ],
+      "genres": [
+        "TV Movie",
+        "Thriller",
+        "Comedy"
+      ],
+      "actors": [
+        "Clifford Happy",
+        "Sandra Endo",
+        "Aya Endo"
+      ],
+      "directors": [],
+      "keywords": [
+        "happy ending"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "dark comedy",
+        "sci-fi horror"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie with a sad story.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Thriller"
+      ],
+      "actors": [
+        "Claudio Sad",
+        "Winston Story",
+        "Alan Sader"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "sad story"
+      ],
+      "emotions": [
+        "sci-fi horror",
+        "ghost story",
+        "tragedy"
+      ]
+    }
+  },
+  {
+    "query": "Give me an inspirational movie.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Christiane Kubrick",
+        "Stanley Kubrick",
+        "Kubrick Ellis"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Lars von Trier",
+        "Christopher Nolan"
+      ],
+      "keywords": [
+        "inspirational",
+        "religious film",
+        "love fiction"
+      ],
+      "emotions": [
+        "inspirational"
+      ]
+    }
+  },
+  {
+    "query": "I want a movie that makes me laugh.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Comedy",
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Monty Hoffman",
+        "Stanley Kubrick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Lars von Trier",
+        "Quentin Tarantino"
+      ],
+      "keywords": [
+        "horror comedy",
+        "comedy thriller",
+        "dark comedy"
+      ],
+      "emotions": [
+        "dark comedy",
+        "romantic comedy",
+        "teen comedy"
+      ]
+    }
+  },
+  {
+    "query": "Can you suggest a movie with a plot twist?",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "TV Movie"
+      ],
+      "actors": [
+        "David Flick",
+        "Stanley Kubrick",
+        "Scott Flick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Autumn de Wilde"
+      ],
+      "keywords": [
+        "plot twist"
+      ],
+      "emotions": [
+        "twist"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie that will make me cry.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Thriller"
+      ],
+      "actors": [
+        "Stanley Kubrick",
+        "David Cryer",
+        "Bob Cryer"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "tv movie",
+        "silent film",
+        "episodic movie"
+      ],
+      "emotions": [
+        "cinema",
+        "sci-fi horror",
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie with an uplifting story.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Stanley Kubrick",
+        "Kubrick Ellis",
+        "Christiane Kubrick"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "romantic comedy",
+        "morality tale",
+        "titanic"
+      ],
+      "emotions": [
+        "uplifting"
+      ]
+    }
+  },
+  {
+    "query": "Suggest a movie that will keep me on the edge of my seat.",
+    "segments": {
+      "titles": [
+        "The Edge"
+      ],
+      "genres": [
+        "Thriller",
+        "TV Movie",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Monty Hoffman",
+        "Stanley Kubrick",
+        "Kubrick Ellis"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Lars von Trier"
+      ],
+      "keywords": [
+        "watching a movie",
+        "contemplative cinema",
+        "comedy thriller"
+      ],
+      "emotions": [
+        "cinema",
+        "thriller",
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "I want to watch something that makes me think.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Tony Tucker",
+        "Steven Hartman"
+      ],
+      "directors": [],
+      "keywords": [
+        "tv movie",
+        "watching a movie",
+        "contemplative cinema"
+      ],
+      "emotions": [
+        "sci-fi horror",
+        "sci-fi",
+        "supernatural"
+      ]
+    }
+  },
+  {
+    "query": "Give me a feel-good movie.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Lars von Trier",
+        "Kubrick Ellis",
+        "Christiane Kubrick"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Stanley Kubrick",
+        "Ridley Scott"
+      ],
+      "keywords": [
+        "contemplative cinema",
+        "b movie",
+        "old movies"
+      ],
+      "emotions": [
+        "thriller",
+        "dark comedy",
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "Can you recommend a tearjerker?",
+    "segments": {
+      "titles": [],
+      "genres": [],
+      "actors": [
+        "Tearyn Belanger",
+        "Michael Tearson",
+        "David Cryer"
+      ],
+      "directors": [],
+      "keywords": [
+        "tearjerker",
+        "tear gas",
+        "tears"
+      ],
+      "emotions": [
+        "light-hearted",
+        "mourning",
+        "hardship"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie that’s both exciting and emotional.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "actors": [
+        "Stanley Kubrick",
+        "Sandra Bullock",
+        "Kubrick Ellis"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "suspense thriller",
+        "emotionally disturbed",
+        "romantic thriller"
+      ],
+      "emotions": [
+        "emotional"
+      ]
+    }
+  },
+  {
+    "query": "I want a film with a powerful message.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "Documentary",
+        "TV Movie"
+      ],
+      "actors": [
+        "Christiane Kubrick",
+        "Lars von Trier",
+        "Stanley Kubrick"
+      ],
+      "directors": [
+        "Ridley Scott",
+        "Lars von Trier",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "film in film",
+        "silent film",
+        "contemplative cinema"
+      ],
+      "emotions": [
+        "cinema",
+        "thriller",
+        "sci-fi horror"
+      ]
+    }
+  },
+  {
+    "query": "Can you suggest a movie that’s thought-provoking?",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Christiane Kubrick",
+        "Stanley Kubrick",
+        "David Flick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Lars von Trier",
+        "Adam Schindler"
+      ],
+      "keywords": [
+        "contemplative cinema",
+        "religious film",
+        "vendetta"
+      ],
+      "emotions": [
+        "thought-provoking"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie with a lot of suspense.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "TV Movie"
+      ],
+      "actors": [
+        "C-Murder",
+        "Alfred Hitchcock",
+        "Quentin Tarantino"
+      ],
+      "directors": [
+        "Quentin Tarantino",
+        "George A. Romero",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "suspense thriller",
+        "suspense",
+        "suspenseful"
+      ],
+      "emotions": [
+        "suspense"
+      ]
+    }
+  },
+  {
+    "query": "I want a movie with a heroic journey.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller",
+        "Adventure"
+      ],
+      "actors": [
+        "Hero Hunter",
+        "Christiane Kubrick",
+        "Novella Nelson"
+      ],
+      "directors": [
+        "Marlon Hero",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "hero's journey",
+        "heroic mission",
+        "heroic rescue"
+      ],
+      "emotions": [
+        "heroic",
+        "journey"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie that’s heartwarming.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Christiane Kubrick",
+        "Oscar Gale",
+        "Stanley Kubrick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Christopher Nolan",
+        "Adam Schindler"
+      ],
+      "keywords": [
+        "romantic comedy",
+        "music movie",
+        "old movies"
+      ],
+      "emotions": [
+        "heartwarming"
+      ]
+    }
+  },
+  {
+    "query": "Can you recommend a movie that’s visually stunning?",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie"
+      ],
+      "actors": [
+        "David Flick",
+        "Iris Flick",
+        "Moriah 'Shining Dove' Snyder"
+      ],
+      "directors": [],
+      "keywords": [
+        "contemplative cinema",
+        "horror filmmaking",
+        "erotic movie"
+      ],
+      "emotions": [
+        "visual horror",
+        "cinema",
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie with a romantic storyline.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Romance",
+        "Thriller",
+        "TV Movie"
+      ],
+      "actors": [
+        "Toni Novella",
+        "Juliet Long",
+        "Juliet Landau"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Annie Welles"
+      ],
+      "keywords": [
+        "romantic comedy",
+        "romantic thriller",
+        "romantic fantasy"
+      ],
+      "emotions": [
+        "romantic"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie about friendship.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "actors": [
+        "Stanley Kubrick",
+        "Reese Witherspoon",
+        "Christiane Kubrick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Woody Allen",
+        "Lars von Trier"
+      ],
+      "keywords": [
+        "teenage friendship",
+        "alien friendship",
+        "teen movie"
+      ],
+      "emotions": [
+        "friendship"
+      ]
+    }
+  },
+  {
+    "query": "I want a movie with a tragic ending.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie"
+      ],
+      "actors": [
+        "Toni Novella",
+        "Novella Nelson",
+        "Sandra Wilder"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "disaster movie",
+        "tragic heroine",
+        "revenge thriller"
+      ],
+      "emotions": [
+        "tragic"
+      ]
+    }
+  },
+  {
+    "query": "Show me a film that will make me feel nostalgic.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie"
+      ],
+      "actors": [
+        "Stanley Kubrick",
+        "Kubrick Ellis",
+        "Alfred Hitchcock"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Lars von Trier"
+      ],
+      "keywords": [
+        "nostalgic",
+        "old movies",
+        "contemplative cinema"
+      ],
+      "emotions": [
+        "nostalgic"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie with a happy family.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Family",
+        "TV Movie",
+        "Comedy"
+      ],
+      "actors": [
+        "Clifford Happy",
+        "Mary Joy",
+        "Robert Joy"
+      ],
+      "directors": [],
+      "keywords": [
+        "family comedy",
+        "mad family",
+        "family tragedy"
+      ],
+      "emotions": [
+        "family"
+      ]
+    }
+  },
+  {
+    "query": "I want a movie that explores human emotions.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Stanley Kubrick",
+        "Christiane Kubrick",
+        "Kubrick Ellis"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Lars von Trier"
+      ],
+      "keywords": [
+        "erotic movie",
+        "psychological thriller",
+        "social thriller"
+      ],
+      "emotions": [
+        "emotions"
+      ]
+    }
+  },
+  {
+    "query": "Give me a film with an unexpected conclusion.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "TV Movie"
+      ],
+      "actors": [
+        "Kubrick Ellis",
+        "Stanley Kubrick",
+        "Christiane Kubrick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Lars von Trier",
+        "Steven Spielberg"
+      ],
+      "keywords": [
+        "horror filmmaking",
+        "horror comedy",
+        "midnight movie"
+      ],
+      "emotions": [
+        "unexpected"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie with deep character development.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Lars von Trier",
+        "David Flick",
+        "Garry R. Roleder"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Ridley Scott",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "screenplay",
+        "episodic movie",
+        "vendetta"
+      ],
+      "emotions": [
+        "dark comedy",
+        "cinema",
+        "dark fantasy"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie with a surprising ending.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Sandra Endo",
+        "Annabelle Gurwitch",
+        "Annabelle Dexter-Jones"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "end of the world",
+        "multiple endings",
+        "suspense thriller"
+      ],
+      "emotions": [
+        "sci-fi horror",
+        "thriller",
+        "cosmic horror"
+      ]
+    }
+  },
+  {
+    "query": "I want to watch a movie with a dark atmosphere.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Johnny Dark",
+        "Sky",
+        "John Darko"
+      ],
+      "directors": [
+        "Gregory Dark"
+      ],
+      "keywords": [
+        "open air cinema",
+        "dark room",
+        "dark fiction"
+      ],
+      "emotions": [
+        "dark"
+      ]
+    }
+  }
+]

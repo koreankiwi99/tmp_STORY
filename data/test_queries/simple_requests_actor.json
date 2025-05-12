@@ -8,8 +8,16 @@
         "TV Movie",
         "Science Fiction"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Leonardo DiCaprio",
+        "George DiCaprio",
+        "Scarface"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Quentin Tarantino",
+        "Stanley Kubrick"
+      ],
       "keywords": [
         "romantic comedy",
         "spanish cinema",
@@ -31,8 +39,16 @@
         "Thriller",
         "Science Fiction"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Leo Meneghetti",
+        "Leo Hunter",
+        "Leo Geter"
+      ],
+      "directors": [
+        "Leos Carax",
+        "Leota Rhodes",
+        "Lars von Trier"
+      ],
       "keywords": [
         "b movie",
         "tv movie",
@@ -52,8 +68,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Jennifer Best",
+        "Jennifer Eatz",
+        "Jennifer Daniel"
+      ],
+      "directors": [
+        "Jennifer Kent",
+        "Jennifer Getzinger",
+        "Jennifer Carriere"
+      ],
       "keywords": [
         "tv special",
         "soap opera actress",
@@ -73,8 +97,16 @@
         "Documentary",
         "Science Fiction"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Rich Wills",
+        "David Wills",
+        "Wills Robbins"
+      ],
+      "directors": [
+        "Will Meugniot",
+        "George Lucas",
+        "Rob Zombie"
+      ],
       "keywords": [
         "last will and testament",
         "movie set",
@@ -95,8 +127,16 @@
         "Thriller",
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Sandra",
+        "Sandra Will",
+        "Sandra Park"
+      ],
+      "directors": [
+        "Sandra Derval",
+        "Sandra M. Middleton",
+        "Shelly Stoyanova"
+      ],
       "keywords": [
         "romantic thriller",
         "comedy thriller",
@@ -117,8 +157,16 @@
         "TV Movie",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Emma Jerrold",
+        "Emma Hitching",
+        "Emma Dukes"
+      ],
+      "directors": [
+        "Emma Hinton",
+        "Emma Tammi",
+        "Emma Seligman"
+      ],
       "keywords": [
         "british cinema",
         "sherlock films",
@@ -138,8 +186,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Brad Oscar",
+        "Brad Kitchen",
+        "Brad Askew"
+      ],
+      "directors": [
+        "Brad Turner",
+        "Brad Baruh",
+        "Brad Furman"
+      ],
       "keywords": [
         "tv special",
         "tv actor",
@@ -160,7 +216,11 @@
       "actors": [
         "Chris Hemsworth"
       ],
-      "directors": [],
+      "directors": [
+        "Christopher Nolan",
+        "Stanley Kubrick",
+        "Rupert Wyatt"
+      ],
       "keywords": [
         "tv show in film",
         "tv movie",
@@ -182,8 +242,16 @@
         "Thriller",
         "Science Fiction"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Christopher Ryan",
+        "Matthew Ryan",
+        "Robert Ryan"
+      ],
+      "directors": [
+        "Ryan A. White",
+        "Ryan Little",
+        "Ryan Coogler"
+      ],
       "keywords": [
         "jack ryan",
         "comedy thriller",
@@ -203,8 +271,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Oscar Wahlberg",
+        "Leonardo DiCaprio",
+        "Stanley Kubrick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Hugh Hudson",
+        "Christopher Nolan"
+      ],
       "keywords": [
         "titanic",
         "actor",
@@ -225,8 +301,16 @@
         "TV Movie",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Michael Keaton",
+        "David Flick",
+        "Sean Bygrave"
+      ],
+      "directors": [
+        "Christopher Nolan",
+        "Lars von Trier",
+        "Stanley Kubrick"
+      ],
       "keywords": [
         "psychotronic film",
         "film director",
@@ -247,7 +331,11 @@
       "actors": [
         "Scarlett Johansson"
       ],
-      "directors": [],
+      "directors": [
+        "Annie Welles",
+        "Natalie Engelstein",
+        "Daisy von Scherler Mayer"
+      ],
       "keywords": [
         "actress",
         "romantic thriller",
@@ -268,8 +356,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Sandra Bullock",
+        "Jessica Schwarz",
+        "Reese Witherspoon"
+      ],
+      "directors": [
+        "Penelope Spheeris",
+        "Sarah Buell",
+        "Annie Welles"
+      ],
       "keywords": [
         "actress",
         "hunger strike",
@@ -290,8 +386,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Nicholas Irons",
+        "Jeremy Irons",
+        "Daniel Iron"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Zack Snyder",
+        "Frank Ferro"
+      ],
       "keywords": [
         "iron monkey",
         "actor playing themself",
@@ -313,8 +417,15 @@
         "TV Movie",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Maddi Black",
+        "Julia Max",
+        "Madisyn Shipman"
+      ],
+      "directors": [
+        "Ridley Scott",
+        "Stanley Kubrick"
+      ],
       "keywords": [
         "road movie",
         "extreme cinema",
@@ -334,8 +445,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Emilio La Torre",
+        "Vincent Laresca",
+        "Emilio Cast"
+      ],
+      "directors": [
+        "Daniel de la Vega",
+        "Pablo Larraín",
+        "Woody Allen"
+      ],
       "keywords": [
         "actor",
         "spanish cinema",
@@ -357,8 +476,16 @@
         "Documentary",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Zoe Kazan",
+        "Tess Girault de Castilla",
+        "Juliette Raffray"
+      ],
+      "directors": [
+        "Julia Ducournau",
+        "Natalie Engelstein",
+        "Kirsten Sheridan"
+      ],
       "keywords": [
         "lost girl",
         "french cinema",
@@ -381,8 +508,16 @@
         "TV Movie",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Michael Reventar",
+        "Tony Revolori",
+        "Clive Revill"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Matthew Vaughn",
+        "Tim Burton"
+      ],
       "keywords": [
         "actor",
         "actor playing themself",
@@ -400,8 +535,16 @@
     "segments": {
       "titles": [],
       "genres": [],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Natalie Gal",
+        "Natalie Willes",
+        "Natalie Light"
+      ],
+      "directors": [
+        "Natalie Engelstein",
+        "Nina Doré",
+        "Jenna Dayton"
+      ],
       "keywords": [
         "family drama",
         "actress",
@@ -426,8 +569,16 @@
         "Documentary",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Michael Wolf",
+        "Christopher Wolf",
+        "Paul Wolf"
+      ],
+      "directors": [
+        "Wes Anderson",
+        "Hugh Hudson",
+        "Stanley Kubrick"
+      ],
       "keywords": [
         "wall street"
       ],
@@ -450,7 +601,11 @@
       "actors": [
         "Matt Damon"
       ],
-      "directors": [],
+      "directors": [
+        "Lars von Trier",
+        "Christopher Nolan",
+        "Matt Reeves"
+      ],
       "keywords": [
         "film in film",
         "tv show in film",
@@ -470,8 +625,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Michael Gladis",
+        "John Gladstein",
+        "Sean Bygrave"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Tim Burton",
+        "Martin Scorsese"
+      ],
       "keywords": [
         "gladiator",
         "gladiator fight",
@@ -494,8 +657,16 @@
         "TV Movie",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Liam Knight",
+        "Christopher Knight",
+        "Robin Knight"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Christopher Nolan",
+        "Ridley Scott"
+      ],
       "keywords": [
         "tv show in film",
         "film director",
@@ -517,8 +688,16 @@
         "Documentary",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Angela Swan",
+        "Robert Swan",
+        "Seymour Swan"
+      ],
+      "directors": [
+        "Betty Chaplin",
+        "Annie Welles",
+        "Penelope Spheeris"
+      ],
       "keywords": [
         "swan",
         "tv show in film",
@@ -541,8 +720,16 @@
         "TV Movie",
         "Documentary"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Rob Mars",
+        "Thomas Mars",
+        "Kenneth Mars"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
       "keywords": [
         "martian",
         "martian civilization",
@@ -565,8 +752,16 @@
         "TV Movie",
         "Thriller"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "John Short",
+        "Richard Short",
+        "James Short"
+      ],
+      "directors": [
+        "Robert Longo",
+        "Martin Scorsese",
+        "Stanley Kubrick"
+      ],
       "keywords": [
         "short film",
         "based on short film",
@@ -588,8 +783,15 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Julia Scarlett Dan",
+        "Jennifer Nicholson",
+        "Kate French"
+      ],
+      "directors": [
+        "Kate Vanderbyl",
+        "Julie Lecoustre"
+      ],
       "keywords": [
         "french cinema",
         "actress",
@@ -611,8 +813,16 @@
       "genres": [
         "TV Movie"
       ],
-      "actors": [],
-      "directors": [],
+      "actors": [
+        "Monty Hoffman",
+        "David Flick",
+        "Sylvester Stallone"
+      ],
+      "directors": [
+        "Harry Hook",
+        "Stanley Kubrick",
+        "Lars von Trier"
+      ],
       "keywords": [
         "hangover",
         "hangman",
