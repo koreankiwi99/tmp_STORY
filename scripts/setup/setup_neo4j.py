@@ -1,8 +1,16 @@
 import csv
 import argparse
 from neo4j import GraphDatabase
+from tqdm import tqdm
+import ast
 
 CSV_PATH = "./data/movie_metadata.csv"
+
+def safe_parse_list(s):
+    try:
+        return ast.literal_eval(s)
+    except Exception:
+        return []
 
 def create_movie_node(tx, movie):
     tx.run("""
@@ -34,17 +42,21 @@ def create_movie_node(tx, movie):
 def upload_to_neo4j(uri, user, password):
     driver = GraphDatabase.driver(uri, auth=(user, password))
 
+    # First count total rows for tqdm
+    with open(CSV_PATH, encoding="utf-8") as f:
+        total_rows = sum(1 for _ in f) - 1  # subtract header
+
     with driver.session() as session, open(CSV_PATH, encoding="utf-8") as f:
         reader = csv.DictReader(f)
-        for row in reader:
+        for row in tqdm(reader, total=total_rows, desc="Uploading movies"):
             try:
                 movie = {
                     "id": int(row["id"]),
                     "title": row["title"],
                     "year": int(row["year"]) if row["year"] else None,
-                    "genres": eval(row["genres"]) if row["genres"] else [],
-                    "emotions": eval(row["emotions"]) if row["emotions"] else [],
-                    "actors": eval(row["actors"]) if row["actors"] else [],
+                    "genres": safe_parse_list(row["genres"]),
+                    "emotions": safe_parse_list(row["emotions"]),
+                    "actors": safe_parse_list(row["actors"]),
                     "keywords": row["keywords"].split(", ") if row["keywords"] else []
                 }
                 session.write_transaction(create_movie_node, movie)
