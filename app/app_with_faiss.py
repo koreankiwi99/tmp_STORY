@@ -10,18 +10,18 @@ from sentence_transformers import SentenceTransformer, CrossEncoder
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from peft import PeftModel
 
-#config
+# === Config ===
 FAISS_INDEX_PATH = "data/overview_faiss_full.index"
 FAISS_META_PATH = "data/overview_metadata_full.pkl"
 EMBEDDING_MODEL = "BAAI/bge-m3"
 RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 TOP_K = 5
 RERANK_K = 20
+TMDB_POSTER_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
-#streamlit
 st.set_page_config(page_title="STORY: Your Movie Recommender", page_icon="🎬")
 
-#Load embedding model, FAISS index, metadata, and rerankers
+# === Load embedding model, FAISS index, metadata, and rerankers ===
 @st.cache_resource
 def load_faiss_and_models():
     index = faiss.read_index(FAISS_INDEX_PATH)
@@ -59,7 +59,7 @@ def load_llama_lora():
 
 tokenizer, chatbot_model = load_llama_lora()
 
-# === RAG pipeline ===
+# === RAG retrieval and reranking ===
 def retrieve_and_rerank(query):
     emb = embed_model.encode([query], normalize_embeddings=True)
     scores, indices = faiss_index.search(np.array(emb).astype("float32"), RERANK_K)
@@ -96,17 +96,16 @@ if prompt := st.chat_input("You:"):
     st.chat_message("user").write(prompt)
     st.session_state.messages.append({"role": "user", "text": prompt})
 
-    # === Retrieve results ===
+    # === Retrieve and rerank ===
     with st.spinner("Finding the best movie for you..."):
         top_movies = retrieve_and_rerank(prompt)
 
     with st.chat_message("assistant"):
         with st.spinner("STORY is replying..."):
-            context_str = "\n".join([f"- {m['title']} ({', '.join(m['genres'])})" for m in top_movies])
-            user_query = f"User: {prompt}"
-            
-            # After top-1 reranked movie
             selected = top_movies[0]
+            poster_path = selected.get("poster_path", "")
+            poster_url = f"{TMDB_POSTER_BASE_URL}{poster_path}" if poster_path else None
+
             movie_text = (
                 f"Title: {selected['title']}\n"
                 f"Genres: {', '.join(selected['genres'])}\n"
@@ -133,6 +132,12 @@ if prompt := st.chat_input("You:"):
             )
             input_len = inputs["input_ids"].shape[1]
             response = tokenizer.decode(output[0][input_len:], skip_special_tokens=True).strip()
+
+            # Display poster
+            if poster_url:
+                st.image(poster_url, caption=selected['title'], width=300)
+                
+            # Display chatbot response
             st.write(response)
 
     st.session_state.messages.append({"role": "assistant", "text": response})
