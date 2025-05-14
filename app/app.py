@@ -41,9 +41,9 @@ def load_llama_lora():
 tokenizer, model = load_llama_lora()
 
 if "messages" not in st.session_state:
-    st.session_state.messages = [{"role": "assistant", "text": "Hi! 🎬 I'm your Movie Recommender Friend. Ask me for a movie recommendation!"}]
+    st.session_state.messages = [{"role": "assistant", "text": "Hi! 🎬 I'm STORY, your Movie Recommender Friend. Ask me for a movie recommendation!"}]
 
-st.title("Your Movie Recommender Friend!")
+st.title("🎥 STORY: Your Movie Recommender Friend")
 
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).write(msg["text"])
@@ -56,11 +56,11 @@ if prompt := st.chat_input("You:"):
     full_prompt = f"{chat_history}\\nAssistant:"
 
     with st.chat_message("assistant"):
-        with st.spinner("MovieBot is thinking..."):
+        with st.spinner("STORY is thinking... 🎞️"):
             inputs = tokenizer(full_prompt, return_tensors="pt").to(model.device)
             output = model.generate(
                 **inputs,
-                max_new_tokens=100,
+                max_new_tokens=1000,
                 temperature=0.7,
                 top_p=0.9,
                 do_sample=True,

@@ -1,10 +1,14 @@
 import csv
 import argparse
+import ast
+import time
+import random
 from neo4j import GraphDatabase
 from tqdm import tqdm
-import ast
 
 CSV_PATH = "./data/movie_metadata.csv"
+BATCH_SIZE = 30
+
 
 def safe_parse_list(s):
     try:
@@ -12,42 +16,60 @@ def safe_parse_list(s):
     except Exception:
         return []
 
-def create_movie_node(tx, movie):
-    tx.run("""
-        MERGE (m:Movie {id: $id})
-        SET m.title = $title,
-            m.year = $year
 
-        WITH m
-        UNWIND $actors AS actor
+def create_movie_batch(tx, movies):
+    tx.run("""
+        UNWIND $movies AS movie
+        MERGE (m:Movie {id: movie.id})
+        SET m.title = movie.title,
+            m.year = movie.year
+
+        WITH m, movie
+        UNWIND movie.actors AS actor
         MERGE (a:Actor {name: actor})
         MERGE (m)-[:HAS_ACTOR]->(a)
 
-        WITH m
-        UNWIND $genres AS genre
+        WITH m, movie
+        UNWIND movie.genres AS genre
         MERGE (g:Genre {name: genre})
         MERGE (m)-[:HAS_GENRE]->(g)
 
-        WITH m
-        UNWIND $emotions AS emotion
+        WITH m, movie
+        UNWIND movie.emotions AS emotion
         MERGE (e:Emotion {name: emotion})
         MERGE (m)-[:HAS_EMOTION]->(e)
 
-        WITH m
-        UNWIND $keywords AS keyword
+        WITH m, movie
+        UNWIND movie.keywords AS keyword
         MERGE (k:Keyword {name: keyword})
         MERGE (m)-[:HAS_KEYWORD]->(k)
-    """, movie)
+    """, {"movies": movies})
+
+
+def _write_with_retries(session, batch, max_retries=5):
+    for attempt in range(1, max_retries + 1):
+        try:
+            session.execute_write(create_movie_batch, batch)
+            return
+        except Exception as e:
+            wait_time = 2 ** attempt + random.uniform(0, 1)
+            print(f"⚠️ Batch write failed (attempt {attempt}/{max_retries}): {e}")
+            if attempt < max_retries:
+                print(f"⏳ Retrying in {wait_time:.2f} seconds...")
+                time.sleep(wait_time)
+            else:
+                print("❌ Max retries reached — skipping this batch.")
+
 
 def upload_to_neo4j(uri, user, password):
     driver = GraphDatabase.driver(uri, auth=(user, password))
 
-    # First count total rows for tqdm
     with open(CSV_PATH, encoding="utf-8") as f:
         total_rows = sum(1 for _ in f) - 1  # subtract header
 
     with driver.session() as session, open(CSV_PATH, encoding="utf-8") as f:
         reader = csv.DictReader(f)
+        batch = []
         for row in tqdm(reader, total=total_rows, desc="Uploading movies"):
             try:
                 movie = {
@@ -59,12 +81,22 @@ def upload_to_neo4j(uri, user, password):
                     "actors": safe_parse_list(row["actors"]),
                     "keywords": row["keywords"].split(", ") if row["keywords"] else []
                 }
-                session.write_transaction(create_movie_node, movie)
+                batch.append(movie)
+
+                if len(batch) >= BATCH_SIZE:
+                    _write_with_retries(session, batch)
+                    batch = []
+
             except Exception as e:
                 print(f"Skipping movie due to error: {e}\n→ {row.get('title', '')}")
 
+        # Final leftover batch
+        if batch:
+            _write_with_retries(session, batch)
+
     driver.close()
     print("✅ Neo4j setup complete.")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
