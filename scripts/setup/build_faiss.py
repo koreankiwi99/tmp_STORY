@@ -42,20 +42,32 @@ with open(CSV_PATH, encoding="utf-8") as f:
             genres = safe_parse_list(row.get("genres", "[]"))
             keywords = safe_parse_list(row.get("keywords", "[]"))
             emotions = safe_parse_list(row.get("emotions", "[]"))
-            directors = safe_parse_list(row.get("directors", "[]"))
             actors = safe_parse_list(row.get("actors", "[]"))
-            poster_path = row.get("poster_path", "")
+            director = row.get("director", "").strip()
+            poster_path = row.get("poster_path", "").strip()
 
-            # Create a combined text representation for embeddings
-            semantic_summary = (
-                f"Title: {title}. "
-                f"Overview: {overview} "
-                f"Genres: {' '.join(genres)}. "
-                f"Keywords: {' '.join(keywords)}. "
-                f"Emotions: {' '.join(emotions)}. "
-                f"Directed by {' '.join(directors)}. "
-                f"Starring {' '.join(actors)}."
-            )
+
+            # Build semantic summary string
+            semantic_summary = f"Title: {title}. Overview: {overview} "
+
+            if actors:
+                actor_list = ", ".join(actors[:5])  # limit to top 5
+                semantic_summary += f"Main cast includes {actor_list}. "
+
+            if director:
+                semantic_summary += f"Directed by {director}. "
+
+            if genres:
+                genre_list = ", ".join(genres)
+                semantic_summary += f"Genres: {genre_list}. "
+
+            if keywords:
+                keyword_list = ", ".join(keywords)
+                semantic_summary += f"Tags include: {keyword_list}. "
+
+            if emotions:
+                emotion_list = ", ".join(emotions)
+                semantic_summary += f"Emotions evoked: {emotion_list}."
 
             texts.append(semantic_summary)
 
@@ -66,8 +78,9 @@ with open(CSV_PATH, encoding="utf-8") as f:
                 "genres": genres,
                 "keywords": keywords,
                 "emotions": emotions,
-                "directors": directors,
+                "directors": director,
                 "actors": actors,
+                "overview" : overview,
                 "poster_path": poster_path
             })
 
