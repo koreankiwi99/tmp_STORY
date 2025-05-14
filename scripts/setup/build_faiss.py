@@ -1,67 +1,88 @@
 import csv
 import pickle
 import numpy as np
+import ast
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 import faiss
-import ast
 
 CSV_PATH = "data/movie_metadata.csv"
-FAISS_INDEX_PATH = "data/overview_faiss_combined.index"
-FAISS_META_PATH = "data/overview_metadata_combined.pkl"
+FAISS_INDEX_PATH = "data/overview_faiss_full.index"
+FAISS_META_PATH = "data/overview_metadata_full.pkl"
 
-# Load model
+# Load Sentence-BERT model
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
-# Helper to safely parse stringified Python lists
+# Safely parse stringified lists from CSV
 def safe_parse_list(s):
     try:
         return ast.literal_eval(s)
     except Exception:
         return []
 
-combined_texts = []
+# Containers
+texts = []
 metadata = []
 
-# Count total rows for tqdm
+# Count total rows
 with open(CSV_PATH, encoding="utf-8") as f:
-    total_rows = sum(1 for _ in f) - 1  # subtract header
+    total_rows = sum(1 for _ in f) - 1
 
-# Process rows
+# Parse CSV and construct semantic text per movie
 with open(CSV_PATH, encoding="utf-8") as f:
     reader = csv.DictReader(f)
-    for row in tqdm(reader, total=total_rows, desc="Processing movies"):
+    for row in tqdm(reader, total=total_rows, desc="Building FAISS input"):
+
+        if not row["overview"].strip():
+            continue
+
         try:
-            if not row["overview"].strip():
-                continue
+            title = row["title"]
+            overview = row["overview"].strip()
+            genres = safe_parse_list(row.get("genres", "[]"))
+            keywords = safe_parse_list(row.get("keywords", "[]"))
+            emotions = safe_parse_list(row.get("emotions", "[]"))
+            directors = safe_parse_list(row.get("directors", "[]"))
+            actors = safe_parse_list(row.get("actors", "[]"))
+            poster_path = row.get("poster_path", "")
 
-            keywords = safe_parse_list(row["keywords"])
-            emotions = safe_parse_list(row["emotions"])
-
-            combined_text = (
-                f"{row['overview']} "
+            # Create a combined text representation for embeddings
+            semantic_summary = (
+                f"Title: {title}. "
+                f"Overview: {overview} "
+                f"Genres: {' '.join(genres)}. "
                 f"Keywords: {' '.join(keywords)}. "
-                f"Emotions: {' '.join(emotions)}."
+                f"Emotions: {' '.join(emotions)}. "
+                f"Directed by {' '.join(directors)}. "
+                f"Starring {' '.join(actors)}."
             )
 
-            combined_texts.append(combined_text)
+            texts.append(semantic_summary)
 
-            # Only store ID and title
+            # Save full metadata
             metadata.append({
                 "id": int(row["id"]),
-                "title": row["title"]
+                "title": title,
+                "genres": genres,
+                "keywords": keywords,
+                "emotions": emotions,
+                "directors": directors,
+                "actors": actors,
+                "poster_path": poster_path
             })
 
         except Exception as e:
-            print(f"Skipping row due to error: {e} → {row.get('title', '')}")
+            print(f"Skipping movie due to error: {e} → {row.get('title', '')}")
 
-# Encode and build FAISS index
-print("Encoding combined content...")
-embeddings = model.encode(combined_texts, show_progress_bar=True)
-index = faiss.IndexFlatL2(embeddings.shape[1])
+# Encode with Sentence-BERT
+print("🔍 Encoding movie metadata...")
+embeddings = model.encode(texts, show_progress_bar=True, normalize_embeddings=True)
+
+# Build FAISS index
+index = faiss.IndexFlatIP(embeddings.shape[1])  # Inner Product = cosine if normalized
 index.add(np.array(embeddings).astype("float32"))
 
-# Save index and metadata
+# Save
 faiss.write_index(index, FAISS_INDEX_PATH)
 with open(FAISS_META_PATH, "wb") as f:
     pickle.dump(metadata, f)
