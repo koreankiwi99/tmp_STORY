@@ -2,348 +2,235 @@
   {
     "query": "Can you suggest a movie with DiCaprio?",
     "segments": {
-      "titles": [],
-      "genres": [
-        "Thriller",
-        "TV Movie",
-        "Science Fiction"
+      "titles": [
+        "Evangelion: 2.0 You Can (Not) Advance",
+        "Any Which Way You Can",
+        "Catch Me If You Can",
+        "Rab Ne Bana Di Jodi"
       ],
+      "genres": [],
       "actors": [
-        "Leonardo DiCaprio",
-        "George DiCaprio",
-        "Scarface"
+        "Leonardo DiCaprio"
       ],
-      "directors": [
-        "Lars von Trier",
-        "Quentin Tarantino",
-        "Stanley Kubrick"
-      ],
-      "keywords": [
-        "romantic comedy",
-        "spanish cinema",
-        "comedy thriller"
-      ],
-      "emotions": [
-        "romantic comedy",
-        "dark comedy",
-        "cinema"
-      ]
+      "directors": [],
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Give me a film starring Leo.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie",
-        "Thriller",
-        "Science Fiction"
+      "titles": [
+        "Something's Gotta Give",
+        "Don't Give a Damn",
+        "The Hate U Give"
       ],
-      "actors": [
-        "Leo Meneghetti",
-        "Leo Hunter",
-        "Leo Geter"
-      ],
-      "directors": [
-        "Leos Carax",
-        "Leota Rhodes",
-        "Lars von Trier"
-      ],
-      "keywords": [
-        "b movie",
-        "tv movie",
-        "movie star"
-      ],
-      "emotions": [
-        "romantic comedy",
-        "thriller",
-        "cinema"
-      ]
+      "genres": [],
+      "actors": [],
+      "directors": [],
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "I want to watch something with Jennifer.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie"
+      "titles": [
+        "Jennifer Eight"
       ],
+      "genres": [],
       "actors": [
-        "Jennifer Best",
-        "Jennifer Eatz",
-        "Jennifer Daniel"
+        "Jennifer Aniston",
+        "Jennifer Connelly",
+        "Jennifer Coolidge",
+        "Jennifer Garner",
+        "Jennifer Lawrence",
+        "Jennifer Lopez",
+        "Jennifer Love Hewitt"
       ],
       "directors": [
-        "Jennifer Kent",
-        "Jennifer Getzinger",
-        "Jennifer Carriere"
+        "James Wan"
       ],
-      "keywords": [
-        "tv special",
-        "soap opera actress",
-        "television special"
-      ],
-      "emotions": [
-        "romantic comedy"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Show me a movie with Will.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie",
-        "Documentary",
-        "Science Fiction"
+      "titles": [
+        "Show Me Love",
+        "Cradle Will Rock",
+        "Best in Show",
+        "Quiz Show",
+        "A Dog's Will",
+        "As the Gods Will"
       ],
+      "genres": [],
       "actors": [
-        "Rich Wills",
-        "David Wills",
-        "Wills Robbins"
+        "Samuel L. Jackson",
+        "Will Forte",
+        "Will Poulter",
+        "Will Smith"
       ],
       "directors": [
-        "Will Meugniot",
-        "George Lucas",
-        "Rob Zombie"
+        "Bong Joon Ho"
       ],
-      "keywords": [
-        "last will and testament",
-        "movie set",
-        "tv show in film"
-      ],
-      "emotions": [
-        "willpower",
-        "future",
-        "cinema"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Can you recommend a movie with Sandra?",
     "segments": {
-      "titles": [],
-      "genres": [
-        "Thriller",
-        "TV Movie"
+      "titles": [
+        "Evangelion: 2.0 You Can (Not) Advance",
+        "Any Which Way You Can",
+        "Catch Me If You Can"
       ],
+      "genres": [],
       "actors": [
-        "Sandra",
-        "Sandra Will",
-        "Sandra Park"
+        "Sandra Bullock"
       ],
-      "directors": [
-        "Sandra Derval",
-        "Sandra M. Middleton",
-        "Shelly Stoyanova"
-      ],
-      "keywords": [
-        "romantic thriller",
-        "comedy thriller",
-        "thriller"
-      ],
-      "emotions": [
-        "thriller",
-        "romantic comedy",
-        "sci-fi horror"
-      ]
+      "directors": [],
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Give me a film featuring Emma.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie",
-        "Thriller"
+      "titles": [
+        "Something's Gotta Give",
+        "Emma.",
+        "The Hate U Give",
+        "Emma",
+        "Don't Give a Damn"
       ],
+      "genres": [],
       "actors": [
-        "Emma Jerrold",
-        "Emma Hitching",
-        "Emma Dukes"
+        "Emma Myers",
+        "Emma Roberts",
+        "Emma Stone",
+        "Emma Thompson",
+        "Emma Watson"
       ],
-      "directors": [
-        "Emma Hinton",
-        "Emma Tammi",
-        "Emma Seligman"
-      ],
+      "directors": [],
       "keywords": [
-        "british cinema",
-        "sherlock films",
-        "film in film"
+        "mma"
       ],
-      "emotions": [
-        "romantic comedy",
-        "cinema",
-        "thriller"
-      ]
+      "emotions": []
     }
   },
   {
     "query": "I want to watch something with Brad.",
     "segments": {
       "titles": [],
-      "genres": [
-        "TV Movie"
-      ],
+      "genres": [],
       "actors": [
-        "Brad Oscar",
-        "Brad Kitchen",
-        "Brad Askew"
+        "Brad Pitt"
       ],
       "directors": [
-        "Brad Turner",
-        "Brad Baruh",
-        "Brad Furman"
+        "James Wan"
       ],
-      "keywords": [
-        "tv special",
-        "tv actor",
-        "celebrity cameo"
-      ],
+      "keywords": [],
       "emotions": []
     }
   },
   {
     "query": "Show me a movie with Chris Hemsworth in it.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie",
-        "Documentary",
-        "Science Fiction"
+      "titles": [
+        "Show Me Love",
+        "Best in Show",
+        "Quiz Show"
       ],
+      "genres": [],
       "actors": [
         "Chris Hemsworth"
       ],
       "directors": [
-        "Christopher Nolan",
-        "Stanley Kubrick",
-        "Rupert Wyatt"
+        "Bong Joon Ho",
+        "Chris Columbus"
       ],
-      "keywords": [
-        "tv show in film",
-        "tv movie",
-        "b movie"
-      ],
-      "emotions": [
-        "cinema",
-        "documentary",
-        "science fiction"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Can you suggest a movie starring Ryan?",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie",
-        "Thriller",
-        "Science Fiction"
+      "titles": [
+        "Saving Private Ryan",
+        "Evangelion: 2.0 You Can (Not) Advance",
+        "Catch Me If You Can",
+        "Any Which Way You Can",
+        "Ran"
       ],
+      "genres": [],
       "actors": [
-        "Christopher Ryan",
-        "Matthew Ryan",
-        "Robert Ryan"
+        "Ryan Gosling",
+        "Ryan O'Neal",
+        "Ryan Reynolds"
       ],
       "directors": [
-        "Ryan A. White",
-        "Ryan Little",
         "Ryan Coogler"
       ],
-      "keywords": [
-        "jack ryan",
-        "comedy thriller",
-        "tv movie"
-      ],
-      "emotions": [
-        "romantic comedy",
-        "thriller",
-        "sci-fi horror"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Give me a movie with the actor from Titanic.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie"
+      "titles": [
+        "Raise the Titanic",
+        "Titanic",
+        "Something's Gotta Give",
+        "The Hate U Give",
+        "Don't Give a Damn",
+        "Titanic II"
       ],
-      "actors": [
-        "Oscar Wahlberg",
-        "Leonardo DiCaprio",
-        "Stanley Kubrick"
-      ],
-      "directors": [
-        "Stanley Kubrick",
-        "Hugh Hudson",
-        "Christopher Nolan"
-      ],
+      "genres": [],
+      "actors": [],
+      "directors": [],
       "keywords": [
-        "titanic",
-        "actor",
-        "actor playing themself"
+        "titanic"
       ],
-      "emotions": [
-        "cinema",
-        "romantic comedy"
-      ]
+      "emotions": []
     }
   },
   {
     "query": "I want a film with the guy from Inception.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "Documentary",
-        "TV Movie",
-        "Thriller"
+      "titles": [
+        "Inception"
       ],
-      "actors": [
-        "Michael Keaton",
-        "David Flick",
-        "Sean Bygrave"
-      ],
+      "genres": [],
+      "actors": [],
       "directors": [
-        "Christopher Nolan",
-        "Lars von Trier",
-        "Stanley Kubrick"
+        "Guy Ritchie",
+        "James Wan"
       ],
-      "keywords": [
-        "psychotronic film",
-        "film director",
-        "adult filmmaking"
-      ],
-      "emotions": [
-        "documentary",
-        "cinema",
-        "thriller"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Can you recommend something with Scarlett Johansson?",
     "segments": {
-      "titles": [],
+      "titles": [
+        "Evangelion: 2.0 You Can (Not) Advance",
+        "Any Which Way You Can",
+        "Catch Me If You Can"
+      ],
       "genres": [],
       "actors": [
         "Scarlett Johansson"
       ],
-      "directors": [
-        "Annie Welles",
-        "Natalie Engelstein",
-        "Daisy von Scherler Mayer"
-      ],
-      "keywords": [
-        "actress",
-        "romantic thriller",
-        "beauty queen"
-      ],
-      "emotions": [
-        "romantic comedy"
-      ]
+      "directors": [],
+      "keywords": [],
+      "emotions": []
     }
   },
   {
@@ -353,23 +240,14 @@
         "The Hunger",
         "The Hunger Games"
       ],
-      "genres": [
-        "TV Movie"
-      ],
-      "actors": [
-        "Sandra Bullock",
-        "Jessica Schwarz",
-        "Reese Witherspoon"
-      ],
+      "genres": [],
+      "actors": [],
       "directors": [
-        "Penelope Spheeris",
-        "Sarah Buell",
-        "Annie Welles"
+        "Bong Joon Ho"
       ],
       "keywords": [
-        "actress",
-        "hunger strike",
-        "tv show in film"
+        "hunger",
+        "games"
       ],
       "emotions": [
         "games",
@@ -383,28 +261,16 @@
       "titles": [
         "Iron Man"
       ],
-      "genres": [
-        "TV Movie"
-      ],
+      "genres": [],
       "actors": [
-        "Nicholas Irons",
-        "Jeremy Irons",
-        "Daniel Iron"
+        "Ron Perlman"
       ],
       "directors": [
-        "Lars von Trier",
-        "Zack Snyder",
-        "Frank Ferro"
+        "Bong Joon Ho",
+        "Ron Howard"
       ],
-      "keywords": [
-        "iron monkey",
-        "actor playing themself",
-        "actor"
-      ],
-      "emotions": [
-        "superhero",
-        "romantic comedy"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
@@ -413,23 +279,13 @@
       "titles": [
         "Mad Max: Fury Road"
       ],
-      "genres": [
-        "TV Movie",
-        "Thriller"
-      ],
-      "actors": [
-        "Maddi Black",
-        "Julia Max",
-        "Madisyn Shipman"
-      ],
+      "genres": [],
+      "actors": [],
       "directors": [
-        "Ridley Scott",
-        "Stanley Kubrick"
+        "Bong Joon Ho"
       ],
       "keywords": [
-        "road movie",
-        "extreme cinema",
-        "tv show in film"
+        "ax"
       ],
       "emotions": [
         "fury"
@@ -442,24 +298,13 @@
       "titles": [
         "La La Land"
       ],
-      "genres": [
-        "TV Movie"
-      ],
-      "actors": [
-        "Emilio La Torre",
-        "Vincent Laresca",
-        "Emilio Cast"
-      ],
+      "genres": [],
+      "actors": [],
       "directors": [
-        "Daniel de la Vega",
-        "Pablo Larraín",
-        "Woody Allen"
+        "Bong Joon Ho",
+        "James Wan"
       ],
-      "keywords": [
-        "actor",
-        "spanish cinema",
-        "tv actor"
-      ],
+      "keywords": [],
       "emotions": [
         "land"
       ]
@@ -471,31 +316,13 @@
       "titles": [
         "Lost in Translation"
       ],
-      "genres": [
-        "TV Movie",
-        "Documentary",
-        "Thriller"
-      ],
-      "actors": [
-        "Zoe Kazan",
-        "Tess Girault de Castilla",
-        "Juliette Raffray"
-      ],
-      "directors": [
-        "Julia Ducournau",
-        "Natalie Engelstein",
-        "Kirsten Sheridan"
-      ],
+      "genres": [],
+      "actors": [],
+      "directors": [],
       "keywords": [
-        "lost girl",
-        "french cinema",
-        "actress"
+        "translation"
       ],
-      "emotions": [
-        "cinema",
-        "documentary",
-        "romantic comedy"
-      ]
+      "emotions": []
     }
   },
   {
@@ -504,30 +331,13 @@
       "titles": [
         "The Revenant"
       ],
-      "genres": [
-        "TV Movie",
-        "Thriller"
-      ],
+      "genres": [],
       "actors": [
-        "Michael Reventar",
-        "Tony Revolori",
-        "Clive Revill"
+        "Alice Eve"
       ],
-      "directors": [
-        "Lars von Trier",
-        "Matthew Vaughn",
-        "Tim Burton"
-      ],
-      "keywords": [
-        "actor",
-        "actor playing themself",
-        "child actor"
-      ],
-      "emotions": [
-        "romantic comedy",
-        "dark comedy",
-        "cinema"
-      ]
+      "directors": [],
+      "keywords": [],
+      "emotions": []
     }
   },
   {
@@ -536,25 +346,16 @@
       "titles": [],
       "genres": [],
       "actors": [
-        "Natalie Gal",
-        "Natalie Willes",
-        "Natalie Light"
+        "Al Pacino",
+        "Ali Larter",
+        "Jet Li",
+        "Natalie Portman"
       ],
       "directors": [
-        "Natalie Engelstein",
-        "Nina Doré",
-        "Jenna Dayton"
+        "James Wan"
       ],
-      "keywords": [
-        "family drama",
-        "actress",
-        "watch on youtalkies"
-      ],
-      "emotions": [
-        "teenage drama",
-        "romantic comedy",
-        "teen drama"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
@@ -564,87 +365,54 @@
         "The Wolf of Wall Street",
         "Wall Street"
       ],
-      "genres": [
-        "TV Movie",
-        "Documentary",
-        "Thriller"
-      ],
+      "genres": [],
       "actors": [
-        "Michael Wolf",
-        "Christopher Wolf",
-        "Paul Wolf"
+        "Al Pacino"
       ],
       "directors": [
-        "Wes Anderson",
-        "Hugh Hudson",
-        "Stanley Kubrick"
+        "Bong Joon Ho"
       ],
       "keywords": [
         "wall street"
       ],
-      "emotions": [
-        "documentary",
-        "animal horror",
-        "cinema"
-      ]
+      "emotions": []
     }
   },
   {
     "query": "Give me a film starring Matt Damon.",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie",
-        "Science Fiction",
-        "Documentary"
+      "titles": [
+        "Jamon Jamon",
+        "Something's Gotta Give",
+        "Dagon",
+        "The Hate U Give",
+        "Don't Give a Damn"
       ],
+      "genres": [],
       "actors": [
         "Matt Damon"
       ],
-      "directors": [
-        "Lars von Trier",
-        "Christopher Nolan",
-        "Matt Reeves"
-      ],
-      "keywords": [
-        "film in film",
-        "tv show in film",
-        "tv movie"
-      ],
-      "emotions": [
-        "cinema",
-        "sci-fi",
-        "sci-fi horror"
-      ]
+      "directors": [],
+      "keywords": [],
+      "emotions": []
     }
   },
   {
     "query": "Can you recommend a movie with the actor from Gladiator?",
     "segments": {
-      "titles": [],
-      "genres": [
-        "TV Movie"
+      "titles": [
+        "Evangelion: 2.0 You Can (Not) Advance",
+        "Any Which Way You Can",
+        "Catch Me If You Can",
+        "Gladiator"
       ],
-      "actors": [
-        "Michael Gladis",
-        "John Gladstein",
-        "Sean Bygrave"
-      ],
-      "directors": [
-        "Lars von Trier",
-        "Tim Burton",
-        "Martin Scorsese"
-      ],
+      "genres": [],
+      "actors": [],
+      "directors": [],
       "keywords": [
-        "gladiator",
-        "gladiator fight",
-        "actor playing themself"
+        "gladiator"
       ],
-      "emotions": [
-        "romantic comedy",
-        "cinema",
-        "fantastical"
-      ]
+      "emotions": []
     }
   },
   {
@@ -653,24 +421,14 @@
       "titles": [
         "The Dark Knight"
       ],
-      "genres": [
-        "TV Movie",
-        "Thriller"
-      ],
-      "actors": [
-        "Liam Knight",
-        "Christopher Knight",
-        "Robin Knight"
-      ],
+      "genres": [],
+      "actors": [],
       "directors": [
-        "Lars von Trier",
-        "Christopher Nolan",
-        "Ridley Scott"
+        "James Wan"
       ],
       "keywords": [
-        "tv show in film",
-        "film director",
-        "sherlock films"
+        "ark",
+        "knight"
       ],
       "emotions": [
         "dark"
@@ -683,31 +441,16 @@
       "titles": [
         "Black Swan"
       ],
-      "genres": [
-        "TV Movie",
-        "Documentary",
-        "Thriller"
-      ],
+      "genres": [],
       "actors": [
-        "Angela Swan",
-        "Robert Swan",
-        "Seymour Swan"
+        "Jack Black"
       ],
       "directors": [
-        "Betty Chaplin",
-        "Annie Welles",
-        "Penelope Spheeris"
+        "Bong Joon Ho",
+        "James Wan"
       ],
-      "keywords": [
-        "swan",
-        "tv show in film",
-        "tv movie"
-      ],
-      "emotions": [
-        "dark comedy",
-        "cinema",
-        "camaraderie"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
@@ -716,30 +459,16 @@
       "titles": [
         "The Martian"
       ],
-      "genres": [
-        "TV Movie",
-        "Documentary"
-      ],
+      "genres": [],
       "actors": [
-        "Rob Mars",
-        "Thomas Mars",
-        "Kenneth Mars"
+        "Ian Somerhalder"
       ],
-      "directors": [
-        "Lars von Trier",
-        "James Cameron",
-        "Christopher Nolan"
-      ],
+      "directors": [],
       "keywords": [
         "martian",
-        "martian civilization",
-        "actor"
+        "partisan"
       ],
-      "emotions": [
-        "alien",
-        "aliens",
-        "sci-fi"
-      ]
+      "emotions": []
     }
   },
   {
@@ -748,30 +477,13 @@
       "titles": [
         "The Big Short"
       ],
-      "genres": [
-        "TV Movie",
-        "Thriller"
-      ],
-      "actors": [
-        "John Short",
-        "Richard Short",
-        "James Short"
-      ],
+      "genres": [],
+      "actors": [],
       "directors": [
-        "Robert Longo",
-        "Martin Scorsese",
-        "Stanley Kubrick"
+        "Bong Joon Ho"
       ],
-      "keywords": [
-        "short film",
-        "based on short film",
-        "actor"
-      ],
-      "emotions": [
-        "romantic comedy",
-        "dark comedy",
-        "cinema"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
@@ -780,28 +492,15 @@
       "titles": [
         "Les Misérables"
       ],
-      "genres": [
-        "TV Movie"
-      ],
+      "genres": [],
       "actors": [
-        "Julia Scarlett Dan",
-        "Jennifer Nicholson",
-        "Kate French"
+        "Yang Mi"
       ],
       "directors": [
-        "Kate Vanderbyl",
-        "Julie Lecoustre"
+        "James Wan"
       ],
-      "keywords": [
-        "french cinema",
-        "actress",
-        "watching a movie"
-      ],
-      "emotions": [
-        "cinema",
-        "theater",
-        "theatre"
-      ]
+      "keywords": [],
+      "emotions": []
     }
   },
   {
@@ -810,29 +509,15 @@
       "titles": [
         "The Hangover"
       ],
-      "genres": [
-        "TV Movie"
-      ],
+      "genres": [],
       "actors": [
-        "Monty Hoffman",
-        "David Flick",
-        "Sylvester Stallone"
+        "Han Seo-ah"
       ],
-      "directors": [
-        "Harry Hook",
-        "Stanley Kubrick",
-        "Lars von Trier"
-      ],
+      "directors": [],
       "keywords": [
-        "hangover",
-        "hangman",
-        "midnight movie"
+        "hangover"
       ],
-      "emotions": [
-        "dark comedy",
-        "romantic comedy",
-        "stoner comedy"
-      ]
+      "emotions": []
     }
   }
 ]
