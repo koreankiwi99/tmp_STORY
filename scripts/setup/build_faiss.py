@@ -6,33 +6,33 @@ from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 import faiss
 
+# === Paths ===
 CSV_PATH = "data/movie_metadata.csv"
 FAISS_INDEX_PATH = "data/overview_faiss_full.index"
 FAISS_META_PATH = "data/overview_metadata_full.pkl"
 
-# Load Sentence-BERT model
-model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+# === Load BGE-M3 model ===
+model = SentenceTransformer("BAAI/bge-m3")
 
-# Safely parse stringified lists from CSV
+# === Safely parse stringified lists from CSV ===
 def safe_parse_list(s):
     try:
         return ast.literal_eval(s)
     except Exception:
         return []
 
-# Containers
+# === Containers ===
 texts = []
 metadata = []
 
-# Count total rows
+# === Count total rows for tqdm ===
 with open(CSV_PATH, encoding="utf-8") as f:
     total_rows = sum(1 for _ in f) - 1
 
-# Parse CSV and construct semantic text per movie
+# === Parse CSV and construct semantic summaries ===
 with open(CSV_PATH, encoding="utf-8") as f:
     reader = csv.DictReader(f)
     for row in tqdm(reader, total=total_rows, desc="Building FAISS input"):
-
         if not row["overview"].strip():
             continue
 
@@ -46,12 +46,11 @@ with open(CSV_PATH, encoding="utf-8") as f:
             director = row.get("director", "").strip()
             poster_path = row.get("poster_path", "").strip()
 
-
-            # Build semantic summary string
-            semantic_summary = f"Title: {title}. Overview: {overview} "
+            # Build semantic summary with BGE prompt formatting
+            semantic_summary = f"<|user|>\nTitle: {title}. Overview: {overview} "
 
             if actors:
-                actor_list = ", ".join(actors[:5])  # limit to top 5
+                actor_list = ", ".join(actors[:5])
                 semantic_summary += f"Main cast includes {actor_list}. "
 
             if director:
@@ -71,7 +70,6 @@ with open(CSV_PATH, encoding="utf-8") as f:
 
             texts.append(semantic_summary)
 
-            # Save full metadata
             metadata.append({
                 "id": int(row["id"]),
                 "title": title,
@@ -80,22 +78,20 @@ with open(CSV_PATH, encoding="utf-8") as f:
                 "emotions": emotions,
                 "directors": director,
                 "actors": actors,
-                "overview" : overview,
+                "overview": overview,
                 "poster_path": poster_path
             })
 
         except Exception as e:
             print(f"Skipping movie due to error: {e} → {row.get('title', '')}")
 
-# Encode with Sentence-BERT
+# === Encode and Build FAISS index ===
 print("🔍 Encoding movie metadata...")
 embeddings = model.encode(texts, show_progress_bar=True, normalize_embeddings=True)
-
-# Build FAISS index
-index = faiss.IndexFlatIP(embeddings.shape[1])  # Inner Product = cosine if normalized
+index = faiss.IndexFlatIP(embeddings.shape[1])
 index.add(np.array(embeddings).astype("float32"))
 
-# Save
+# === Save index and metadata ===
 faiss.write_index(index, FAISS_INDEX_PATH)
 with open(FAISS_META_PATH, "wb") as f:
     pickle.dump(metadata, f)
