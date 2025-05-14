@@ -10,7 +10,7 @@ from sentence_transformers import SentenceTransformer, CrossEncoder
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from peft import PeftModel
 
-# === Config ===
+#config
 FAISS_INDEX_PATH = "data/overview_faiss_full.index"
 FAISS_META_PATH = "data/overview_metadata_full.pkl"
 EMBEDDING_MODEL = "BAAI/bge-m3"
@@ -18,10 +18,10 @@ RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 TOP_K = 5
 RERANK_K = 20
 
-# === Streamlit settings ===
+#streamlit
 st.set_page_config(page_title="STORY: Your Movie Recommender", page_icon="🎬")
 
-# === Load embedding model, FAISS index, metadata, and reranker ===
+#Load embedding model, FAISS index, metadata, and rerankers
 @st.cache_resource
 def load_faiss_and_models():
     index = faiss.read_index(FAISS_INDEX_PATH)
