@@ -6,8 +6,7 @@ import random
 from neo4j import GraphDatabase
 from tqdm import tqdm
 
-CSV_PATH = "./data/movie_metadata.csv"
-BATCH_SIZE = 30
+BATCH_SIZE = 100  # Adjust based on your network and database performance
 
 
 def safe_parse_list(s):
@@ -61,16 +60,22 @@ def _write_with_retries(session, batch, max_retries=5):
                 print("❌ Max retries reached — skipping this batch.")
 
 
-def upload_to_neo4j(uri, user, password):
-    driver = GraphDatabase.driver(uri, auth=(user, password))
+def upload_to_neo4j(csv_path, uri, user, password):
+    driver = GraphDatabase.driver(
+        uri,
+        auth=(user, password),
+        max_connection_lifetime=600,
+        max_transaction_retry_time=30,
+        connection_timeout=30
+    )
 
-    with open(CSV_PATH, encoding="utf-8") as f:
+    with open(csv_path, encoding="utf-8") as f:
         total_rows = sum(1 for _ in f) - 1  # subtract header
 
-    with driver.session() as session, open(CSV_PATH, encoding="utf-8") as f:
+    with driver.session() as session, open(csv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         batch = []
-        for row in tqdm(reader, total=total_rows, desc="Uploading movies"):
+        for row in tqdm(reader, total=total_rows, desc=f"Uploading {csv_path}"):
             try:
                 movie = {
                     "id": int(row["id"]),
@@ -95,14 +100,15 @@ def upload_to_neo4j(uri, user, password):
             _write_with_retries(session, batch)
 
     driver.close()
-    print("✅ Neo4j setup complete.")
+    print("✅ Neo4j setup complete for", csv_path)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
+    parser.add_argument("--csv", required=True, help="Path to the movie CSV chunk to upload")
     parser.add_argument("--uri", default="bolt+s://4732744a.databases.neo4j.io", help="Neo4j Bolt URI")
     parser.add_argument("--user", default="neo4j", help="Neo4j username")
     parser.add_argument("--password", required=True, help="Neo4j password")
     args = parser.parse_args()
 
-    upload_to_neo4j(args.uri, args.user, args.password)
+    upload_to_neo4j(args.csv, args.uri, args.user, args.password)
