@@ -1,0 +1,9902 @@
+[
+  {
+    "name": "Alberto Olmo",
+    "popularity": 109.9289,
+    "role": "Acting"
+  },
+  {
+    "name": "Kimberly Alexander",
+    "popularity": 27.4888,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Statham",
+    "popularity": 28.7859,
+    "role": "Acting"
+  },
+  {
+    "name": "Keanu Reeves",
+    "popularity": 25.3487,
+    "role": "Acting"
+  },
+  {
+    "name": "Jenna Ortega",
+    "popularity": 25.3621,
+    "role": "Acting"
+  },
+  {
+    "name": "Scarlett Johansson",
+    "popularity": 24.5219,
+    "role": "Acting"
+  },
+  {
+    "name": "Sydney Sweeney",
+    "popularity": 22.3112,
+    "role": "Acting"
+  },
+  {
+    "name": "Florence Pugh",
+    "popularity": 22.5639,
+    "role": "Acting"
+  },
+  {
+    "name": "Sandra Bullock",
+    "popularity": 20.9544,
+    "role": "Acting"
+  },
+  {
+    "name": "Gary Oldman",
+    "popularity": 19.5738,
+    "role": "Acting"
+  },
+  {
+    "name": "Alexandra Daddario",
+    "popularity": 19.0879,
+    "role": "Acting"
+  },
+  {
+    "name": "Ana de Armas",
+    "popularity": 19.4286,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Costner",
+    "popularity": 18.797,
+    "role": "Acting"
+  },
+  {
+    "name": "Hande Erçel",
+    "popularity": 19.3994,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Momoa",
+    "popularity": 19.5192,
+    "role": "Acting"
+  },
+  {
+    "name": "Timothée Chalamet",
+    "popularity": 18.9804,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Hardy",
+    "popularity": 17.6991,
+    "role": "Acting"
+  },
+  {
+    "name": "Emma Watson",
+    "popularity": 16.7416,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Aniston",
+    "popularity": 16.289,
+    "role": "Acting"
+  },
+  {
+    "name": "Pedro Pascal",
+    "popularity": 17.8794,
+    "role": "Acting"
+  },
+  {
+    "name": "Johnny Depp",
+    "popularity": 15.8117,
+    "role": "Acting"
+  },
+  {
+    "name": "Monica Bellucci",
+    "popularity": 15.3548,
+    "role": "Acting"
+  },
+  {
+    "name": "Kaley Cuoco",
+    "popularity": 14.8357,
+    "role": "Acting"
+  },
+  {
+    "name": "Isabela Merced",
+    "popularity": 14.774,
+    "role": "Acting"
+  },
+  {
+    "name": "Jackie Sandler",
+    "popularity": 14.1045,
+    "role": "Acting"
+  },
+  {
+    "name": "Mark Harmon",
+    "popularity": 14.095,
+    "role": "Acting"
+  },
+  {
+    "name": "Reese Witherspoon",
+    "popularity": 14.0513,
+    "role": "Acting"
+  },
+  {
+    "name": "Megan Fox",
+    "popularity": 14.0232,
+    "role": "Acting"
+  },
+  {
+    "name": "Michele Morrone",
+    "popularity": 13.957,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Cruise",
+    "popularity": 13.3809,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris Hemsworth",
+    "popularity": 12.6404,
+    "role": "Acting"
+  },
+  {
+    "name": "Lewis Pullman",
+    "popularity": 13.7095,
+    "role": "Acting"
+  },
+  {
+    "name": "Choi Hyun-wook",
+    "popularity": 13.1072,
+    "role": "Acting"
+  },
+  {
+    "name": "Jackie Chan",
+    "popularity": 13.0978,
+    "role": "Acting"
+  },
+  {
+    "name": "Hailee Steinfeld",
+    "popularity": 12.167,
+    "role": "Acting"
+  },
+  {
+    "name": "Jacob Elordi",
+    "popularity": 12.7184,
+    "role": "Acting"
+  },
+  {
+    "name": "Gerard Butler",
+    "popularity": 12.6791,
+    "role": "Acting"
+  },
+  {
+    "name": "Anne Hathaway",
+    "popularity": 12.4395,
+    "role": "Acting"
+  },
+  {
+    "name": "Anarkali Nazar",
+    "popularity": 12.4016,
+    "role": "Acting"
+  },
+  {
+    "name": "Angelina Jolie",
+    "popularity": 12.3815,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert De Niro",
+    "popularity": 12.1883,
+    "role": "Acting"
+  },
+  {
+    "name": "Theo James",
+    "popularity": 12.3036,
+    "role": "Acting"
+  },
+  {
+    "name": "Walton Goggins",
+    "popularity": 12.107,
+    "role": "Acting"
+  },
+  {
+    "name": "Matt Damon",
+    "popularity": 12.0849,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Connelly",
+    "popularity": 12.0767,
+    "role": "Acting"
+  },
+  {
+    "name": "Emma Myers",
+    "popularity": 11.8122,
+    "role": "Acting"
+  },
+  {
+    "name": "Elizabeth Olsen",
+    "popularity": 11.2789,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Holland",
+    "popularity": 11.8563,
+    "role": "Acting"
+  },
+  {
+    "name": "Vin Diesel",
+    "popularity": 11.7175,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeremy Renner",
+    "popularity": 11.7051,
+    "role": "Acting"
+  },
+  {
+    "name": "Halle Berry",
+    "popularity": 11.6582,
+    "role": "Acting"
+  },
+  {
+    "name": "Gal Gadot",
+    "popularity": 11.3855,
+    "role": "Acting"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "popularity": 11.3793,
+    "role": "Acting"
+  },
+  {
+    "name": "Kate Winslet",
+    "popularity": 11.155,
+    "role": "Acting"
+  },
+  {
+    "name": "Mora Fisz",
+    "popularity": 11.1317,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack Black",
+    "popularity": 11.0942,
+    "role": "Acting"
+  },
+  {
+    "name": "Sabrina Carpenter",
+    "popularity": 11.4723,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "popularity": 11.0194,
+    "role": "Acting"
+  },
+  {
+    "name": "Brad Pitt",
+    "popularity": 10.879,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Hanks",
+    "popularity": 10.8298,
+    "role": "Acting"
+  },
+  {
+    "name": "Jean-Claude Van Damme",
+    "popularity": 10.7581,
+    "role": "Acting"
+  },
+  {
+    "name": "Gabriel Guevara",
+    "popularity": 10.744,
+    "role": "Acting"
+  },
+  {
+    "name": "Liam Neeson",
+    "popularity": 10.6441,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlize Theron",
+    "popularity": 10.6349,
+    "role": "Acting"
+  },
+  {
+    "name": "Olga Kurylenko",
+    "popularity": 10.5738,
+    "role": "Acting"
+  },
+  {
+    "name": "Channing Tatum",
+    "popularity": 10.5394,
+    "role": "Acting"
+  },
+  {
+    "name": "Mel Gibson",
+    "popularity": 10.4643,
+    "role": "Acting"
+  },
+  {
+    "name": "Supergood Subramani",
+    "popularity": 10.5075,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryan Reynolds",
+    "popularity": 10.3709,
+    "role": "Acting"
+  },
+  {
+    "name": "Sylvester Stallone",
+    "popularity": 10.3556,
+    "role": "Acting"
+  },
+  {
+    "name": "Chloë Grace Moretz",
+    "popularity": 10.3101,
+    "role": "Acting"
+  },
+  {
+    "name": "Anya Taylor-Joy",
+    "popularity": 10.4542,
+    "role": "Acting"
+  },
+  {
+    "name": "Zoe Saldaña",
+    "popularity": 10.2027,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Lawrence",
+    "popularity": 10.1665,
+    "role": "Acting"
+  },
+  {
+    "name": "Andrew Garfield",
+    "popularity": 10.1289,
+    "role": "Acting"
+  },
+  {
+    "name": "Zendaya",
+    "popularity": 9.7162,
+    "role": "Acting"
+  },
+  {
+    "name": "Manni L. Perez",
+    "popularity": 10.4825,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Hart",
+    "popularity": 10.0322,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlie Hunnam",
+    "popularity": 10.0156,
+    "role": "Acting"
+  },
+  {
+    "name": "Bella Ramsey",
+    "popularity": 9.8151,
+    "role": "Acting"
+  },
+  {
+    "name": "Cillian Murphy",
+    "popularity": 9.9135,
+    "role": "Acting"
+  },
+  {
+    "name": "Nicole Kidman",
+    "popularity": 9.8905,
+    "role": "Acting"
+  },
+  {
+    "name": "Nicolas Cage",
+    "popularity": 9.844,
+    "role": "Acting"
+  },
+  {
+    "name": "Jon Bernthal",
+    "popularity": 9.7697,
+    "role": "Acting"
+  },
+  {
+    "name": "Kristen Stewart",
+    "popularity": 9.7122,
+    "role": "Acting"
+  },
+  {
+    "name": "Sebastian Stan",
+    "popularity": 9.6672,
+    "role": "Acting"
+  },
+  {
+    "name": "Austin Butler",
+    "popularity": 9.5334,
+    "role": "Acting"
+  },
+  {
+    "name": "Mila Kunis",
+    "popularity": 9.6333,
+    "role": "Acting"
+  },
+  {
+    "name": "Samuel L. Jackson",
+    "popularity": 9.5862,
+    "role": "Acting"
+  },
+  {
+    "name": "Natalie Portman",
+    "popularity": 9.582,
+    "role": "Acting"
+  },
+  {
+    "name": "Idris Elba",
+    "popularity": 9.5614,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris Evans",
+    "popularity": 9.5131,
+    "role": "Acting"
+  },
+  {
+    "name": "Will Smith",
+    "popularity": 9.4687,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Pattinson",
+    "popularity": 9.4665,
+    "role": "Acting"
+  },
+  {
+    "name": "Amanda Seyfried",
+    "popularity": 9.7495,
+    "role": "Acting"
+  },
+  {
+    "name": "Morgan Freeman",
+    "popularity": 9.4155,
+    "role": "Acting"
+  },
+  {
+    "name": "Cecilia Cheung",
+    "popularity": 9.3722,
+    "role": "Acting"
+  },
+  {
+    "name": "Dakota Johnson",
+    "popularity": 8.8234,
+    "role": "Acting"
+  },
+  {
+    "name": "Brenda Vaccaro",
+    "popularity": 9.3037,
+    "role": "Acting"
+  },
+  {
+    "name": "Lucy Liu",
+    "popularity": 9.27,
+    "role": "Acting"
+  },
+  {
+    "name": "Anna Kendrick",
+    "popularity": 9.2372,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Selleck",
+    "popularity": 9.2396,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Jun-young",
+    "popularity": 9.143,
+    "role": "Acting"
+  },
+  {
+    "name": "Emilia Clarke",
+    "popularity": 9.5001,
+    "role": "Acting"
+  },
+  {
+    "name": "Eva Green",
+    "popularity": 9.108,
+    "role": "Acting"
+  },
+  {
+    "name": "Mckenna Grace",
+    "popularity": 9.2936,
+    "role": "Acting"
+  },
+  {
+    "name": "Elle Fanning",
+    "popularity": 9.0406,
+    "role": "Acting"
+  },
+  {
+    "name": "Shemar Moore",
+    "popularity": 8.9273,
+    "role": "Acting"
+  },
+  {
+    "name": "Elisha Cuthbert",
+    "popularity": 9.0313,
+    "role": "Acting"
+  },
+  {
+    "name": "Susan Sarandon",
+    "popularity": 8.9626,
+    "role": "Acting"
+  },
+  {
+    "name": "Henry Cavill",
+    "popularity": 8.7759,
+    "role": "Acting"
+  },
+  {
+    "name": "Hugh Jackman",
+    "popularity": 8.8254,
+    "role": "Acting"
+  },
+  {
+    "name": "Fan Bingbing",
+    "popularity": 8.569,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryan Gosling",
+    "popularity": 8.7951,
+    "role": "Acting"
+  },
+  {
+    "name": "Millie Bobby Brown",
+    "popularity": 8.26,
+    "role": "Acting"
+  },
+  {
+    "name": "Jake Gyllenhaal",
+    "popularity": 8.7787,
+    "role": "Acting"
+  },
+  {
+    "name": "Denzel Washington",
+    "popularity": 8.7137,
+    "role": "Acting"
+  },
+  {
+    "name": "Katheryn Winnick",
+    "popularity": 8.7107,
+    "role": "Acting"
+  },
+  {
+    "name": "Christine Bermas",
+    "popularity": 8.6779,
+    "role": "Acting"
+  },
+  {
+    "name": "Park Ji-hoon",
+    "popularity": 8.6148,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael B. Jordan",
+    "popularity": 8.9225,
+    "role": "Acting"
+  },
+  {
+    "name": "Liu Tao",
+    "popularity": 8.3424,
+    "role": "Acting"
+  },
+  {
+    "name": "Uma Thurman",
+    "popularity": 8.5051,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhao Lusi",
+    "popularity": 8.499,
+    "role": "Acting"
+  },
+  {
+    "name": "Jay Harrington",
+    "popularity": 8.1266,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeffrey Dean Morgan",
+    "popularity": 8.4744,
+    "role": "Acting"
+  },
+  {
+    "name": "Margot Robbie",
+    "popularity": 10.4332,
+    "role": "Acting"
+  },
+  {
+    "name": "Moon Hee-kyung",
+    "popularity": 7.011,
+    "role": "Acting"
+  },
+  {
+    "name": "Cole Hauser",
+    "popularity": 8.3865,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Walker",
+    "popularity": 8.3849,
+    "role": "Acting"
+  },
+  {
+    "name": "Damson Idris",
+    "popularity": 7.7444,
+    "role": "Acting"
+  },
+  {
+    "name": "Eddie Murphy",
+    "popularity": 8.3637,
+    "role": "Acting"
+  },
+  {
+    "name": "Rami Malek",
+    "popularity": 8.3628,
+    "role": "Acting"
+  },
+  {
+    "name": "Dwayne Johnson",
+    "popularity": 8.3625,
+    "role": "Acting"
+  },
+  {
+    "name": "Rabin Angeles",
+    "popularity": 8.275,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Affleck",
+    "popularity": 8.2476,
+    "role": "Acting"
+  },
+  {
+    "name": "Yoo Ji-hyun",
+    "popularity": 8.2433,
+    "role": "Acting"
+  },
+  {
+    "name": "Quentin Tarantino",
+    "popularity": 8.24,
+    "role": "Directing"
+  },
+  {
+    "name": "Rachel Weisz",
+    "popularity": 8.209,
+    "role": "Acting"
+  },
+  {
+    "name": "Burak Özçivit",
+    "popularity": 8.4573,
+    "role": "Acting"
+  },
+  {
+    "name": "M. Renjith",
+    "popularity": 7.1895,
+    "role": "Production"
+  },
+  {
+    "name": "Çağatay Ulusoy",
+    "popularity": 8.2704,
+    "role": "Acting"
+  },
+  {
+    "name": "Emma Roberts",
+    "popularity": 8.1192,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Bacon",
+    "popularity": 8.0957,
+    "role": "Acting"
+  },
+  {
+    "name": "Yang Mi",
+    "popularity": 8.0416,
+    "role": "Acting"
+  },
+  {
+    "name": "Mads Mikkelsen",
+    "popularity": 8.0091,
+    "role": "Acting"
+  },
+  {
+    "name": "Jessica Alba",
+    "popularity": 8.0047,
+    "role": "Acting"
+  },
+  {
+    "name": "Anthony Hopkins",
+    "popularity": 7.9865,
+    "role": "Acting"
+  },
+  {
+    "name": "Kate Beckinsale",
+    "popularity": 7.9687,
+    "role": "Acting"
+  },
+  {
+    "name": "Keira Knightley",
+    "popularity": 7.9431,
+    "role": "Acting"
+  },
+  {
+    "name": "Nicole Wallace",
+    "popularity": 7.9406,
+    "role": "Acting"
+  },
+  {
+    "name": "Emily Blunt",
+    "popularity": 7.9247,
+    "role": "Acting"
+  },
+  {
+    "name": "Tomomi Sugiyama",
+    "popularity": 7.9193,
+    "role": "Visual Effects"
+  },
+  {
+    "name": "Blake Lively",
+    "popularity": 7.9095,
+    "role": "Acting"
+  },
+  {
+    "name": "Kelly Reilly",
+    "popularity": 7.9058,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Hartnett",
+    "popularity": 7.897,
+    "role": "Acting"
+  },
+  {
+    "name": "Joey King",
+    "popularity": 7.8227,
+    "role": "Acting"
+  },
+  {
+    "name": "Ralph Fiennes",
+    "popularity": 7.8823,
+    "role": "Acting"
+  },
+  {
+    "name": "Anthony Mackie",
+    "popularity": 7.8188,
+    "role": "Acting"
+  },
+  {
+    "name": "Victoria Pedretti",
+    "popularity": 7.8011,
+    "role": "Acting"
+  },
+  {
+    "name": "Cha Woo-min",
+    "popularity": 7.7892,
+    "role": "Acting"
+  },
+  {
+    "name": "Jodie Foster",
+    "popularity": 7.7776,
+    "role": "Acting"
+  },
+  {
+    "name": "Joo Ye-bin",
+    "popularity": 7.7653,
+    "role": "Acting"
+  },
+  {
+    "name": "Sebastian Eugene Hansen",
+    "popularity": 7.7647,
+    "role": "Acting"
+  },
+  {
+    "name": "Colin Firth",
+    "popularity": 7.7617,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Beghe",
+    "popularity": 7.7513,
+    "role": "Acting"
+  },
+  {
+    "name": "Rosamund Pike",
+    "popularity": 7.727,
+    "role": "Acting"
+  },
+  {
+    "name": "Jensen Ackles",
+    "popularity": 7.7015,
+    "role": "Acting"
+  },
+  {
+    "name": "Amber Heard",
+    "popularity": 7.701,
+    "role": "Acting"
+  },
+  {
+    "name": "Hayden Christensen",
+    "popularity": 7.6107,
+    "role": "Acting"
+  },
+  {
+    "name": "Helen Mirren",
+    "popularity": 7.6026,
+    "role": "Acting"
+  },
+  {
+    "name": "Yoon Yool",
+    "popularity": 7.5579,
+    "role": "Acting"
+  },
+  {
+    "name": "Linda Cardellini",
+    "popularity": 7.5515,
+    "role": "Acting"
+  },
+  {
+    "name": "George Clooney",
+    "popularity": 7.5503,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Love Hewitt",
+    "popularity": 7.5367,
+    "role": "Acting"
+  },
+  {
+    "name": "Tobey Maguire",
+    "popularity": 7.5365,
+    "role": "Acting"
+  },
+  {
+    "name": "Keke Palmer",
+    "popularity": 7.8696,
+    "role": "Acting"
+  },
+  {
+    "name": "Elizabeth Lail",
+    "popularity": 6.8689,
+    "role": "Acting"
+  },
+  {
+    "name": "Wentworth Miller",
+    "popularity": 7.5013,
+    "role": "Acting"
+  },
+  {
+    "name": "Takashi Tsukamoto",
+    "popularity": 6.9942,
+    "role": "Acting"
+  },
+  {
+    "name": "John Cena",
+    "popularity": 7.4577,
+    "role": "Acting"
+  },
+  {
+    "name": "Tyler Hynes",
+    "popularity": 7.4451,
+    "role": "Acting"
+  },
+  {
+    "name": "Gajaraj",
+    "popularity": 7.6081,
+    "role": "Acting"
+  },
+  {
+    "name": "Cote de Pablo",
+    "popularity": 7.0249,
+    "role": "Acting"
+  },
+  {
+    "name": "Adam Sandler",
+    "popularity": 7.3681,
+    "role": "Acting"
+  },
+  {
+    "name": "Salma Hayek Pinault",
+    "popularity": 7.3678,
+    "role": "Acting"
+  },
+  {
+    "name": "Park Bo-gum",
+    "popularity": 7.3788,
+    "role": "Acting"
+  },
+  {
+    "name": "Hayley Atwell",
+    "popularity": 7.3359,
+    "role": "Acting"
+  },
+  {
+    "name": "Tamannaah Bhatia",
+    "popularity": 7.3166,
+    "role": "Acting"
+  },
+  {
+    "name": "Min Do-yoon",
+    "popularity": 7.6261,
+    "role": "Acting"
+  },
+  {
+    "name": "Jon Hamm",
+    "popularity": 6.9484,
+    "role": "Acting"
+  },
+  {
+    "name": "Dakota Fanning",
+    "popularity": 7.2354,
+    "role": "Acting"
+  },
+  {
+    "name": "Cha Eun-woo",
+    "popularity": 7.4884,
+    "role": "Acting"
+  },
+  {
+    "name": "Will Poulter",
+    "popularity": 7.3428,
+    "role": "Acting"
+  },
+  {
+    "name": "Winona Ryder",
+    "popularity": 7.1861,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Min-ho",
+    "popularity": 6.8171,
+    "role": "Acting"
+  },
+  {
+    "name": "Margaret Qualley",
+    "popularity": 7.167,
+    "role": "Acting"
+  },
+  {
+    "name": "Bo Derek",
+    "popularity": 7.1659,
+    "role": "Acting"
+  },
+  {
+    "name": "Steve Carell",
+    "popularity": 7.1571,
+    "role": "Acting"
+  },
+  {
+    "name": "Nathan Fillion",
+    "popularity": 7.1511,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Rudd",
+    "popularity": 7.1505,
+    "role": "Acting"
+  },
+  {
+    "name": "Pierce Brosnan",
+    "popularity": 7.1478,
+    "role": "Acting"
+  },
+  {
+    "name": "Julia Roberts",
+    "popularity": 7.1347,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryeoun",
+    "popularity": 7.1331,
+    "role": "Acting"
+  },
+  {
+    "name": "Harrison Ford",
+    "popularity": 7.1173,
+    "role": "Acting"
+  },
+  {
+    "name": "Giancarlo Esposito",
+    "popularity": 7.1113,
+    "role": "Acting"
+  },
+  {
+    "name": "Rebecca Ferguson",
+    "popularity": 7.6779,
+    "role": "Acting"
+  },
+  {
+    "name": "Demi Moore",
+    "popularity": 7.0953,
+    "role": "Acting"
+  },
+  {
+    "name": "Colman Domingo",
+    "popularity": 6.8935,
+    "role": "Acting"
+  },
+  {
+    "name": "Danny Trejo",
+    "popularity": 7.0876,
+    "role": "Acting"
+  },
+  {
+    "name": "Adria Arjona",
+    "popularity": 7.8494,
+    "role": "Acting"
+  },
+  {
+    "name": "Jim Carrey",
+    "popularity": 7.0854,
+    "role": "Acting"
+  },
+  {
+    "name": "Oscar Isaac",
+    "popularity": 7.0759,
+    "role": "Acting"
+  },
+  {
+    "name": "Afra Saraçoğlu",
+    "popularity": 6.75,
+    "role": "Acting"
+  },
+  {
+    "name": "Daniel Radcliffe",
+    "popularity": 7.0607,
+    "role": "Acting"
+  },
+  {
+    "name": "Trisha Krishnan",
+    "popularity": 6.7255,
+    "role": "Acting"
+  },
+  {
+    "name": "Jessica Biel",
+    "popularity": 7.0092,
+    "role": "Acting"
+  },
+  {
+    "name": "Amy Adams",
+    "popularity": 6.973,
+    "role": "Acting"
+  },
+  {
+    "name": "Emma Stone",
+    "popularity": 6.9727,
+    "role": "Acting"
+  },
+  {
+    "name": "Christina Hendricks",
+    "popularity": 6.056,
+    "role": "Acting"
+  },
+  {
+    "name": "Chung Ye-jin",
+    "popularity": 6.9485,
+    "role": "Acting"
+  },
+  {
+    "name": "Christopher Nolan",
+    "popularity": 6.9357,
+    "role": "Directing"
+  },
+  {
+    "name": "Kate Hudson",
+    "popularity": 6.9344,
+    "role": "Acting"
+  },
+  {
+    "name": "Penn Badgley",
+    "popularity": 6.9085,
+    "role": "Acting"
+  },
+  {
+    "name": "Willem Dafoe",
+    "popularity": 6.9043,
+    "role": "Acting"
+  },
+  {
+    "name": "James Marsden",
+    "popularity": 6.8724,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Kardashian",
+    "popularity": 5.7231,
+    "role": "Acting"
+  },
+  {
+    "name": "Travis Fimmel",
+    "popularity": 8.0164,
+    "role": "Acting"
+  },
+  {
+    "name": "Clint Eastwood",
+    "popularity": 6.8186,
+    "role": "Acting"
+  },
+  {
+    "name": "Ian Somerhalder",
+    "popularity": 6.8126,
+    "role": "Acting"
+  },
+  {
+    "name": "Mark Wahlberg",
+    "popularity": 6.8062,
+    "role": "Acting"
+  },
+  {
+    "name": "Ruka Aida",
+    "popularity": 6.8053,
+    "role": "Acting"
+  },
+  {
+    "name": "Michelle Pfeiffer",
+    "popularity": 6.7997,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Fassbender",
+    "popularity": 6.7853,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Caine",
+    "popularity": 6.7639,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Lopez",
+    "popularity": 6.761,
+    "role": "Acting"
+  },
+  {
+    "name": "Alicia Vikander",
+    "popularity": 5.9062,
+    "role": "Acting"
+  },
+  {
+    "name": "Vince Vaughn",
+    "popularity": 6.756,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Coolidge",
+    "popularity": 6.7507,
+    "role": "Acting"
+  },
+  {
+    "name": "Bruce Willis",
+    "popularity": 6.7336,
+    "role": "Acting"
+  },
+  {
+    "name": "Aubrey Plaza",
+    "popularity": 6.6507,
+    "role": "Acting"
+  },
+  {
+    "name": "Ji Chang-wook",
+    "popularity": 6.4836,
+    "role": "Acting"
+  },
+  {
+    "name": "Shakib Khan",
+    "popularity": 6.5857,
+    "role": "Acting"
+  },
+  {
+    "name": "Russell Crowe",
+    "popularity": 6.6855,
+    "role": "Acting"
+  },
+  {
+    "name": "Alona Navarro",
+    "popularity": 6.6809,
+    "role": "Acting"
+  },
+  {
+    "name": "Vera Farmiga",
+    "popularity": 6.6772,
+    "role": "Acting"
+  },
+  {
+    "name": "Chen Zheyuan",
+    "popularity": 6.6738,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Gere",
+    "popularity": 6.652,
+    "role": "Acting"
+  },
+  {
+    "name": "Beth Behrs",
+    "popularity": 6.1982,
+    "role": "Acting"
+  },
+  {
+    "name": "Ali Larter",
+    "popularity": 6.6346,
+    "role": "Acting"
+  },
+  {
+    "name": "Dylan Wang",
+    "popularity": 6.6015,
+    "role": "Acting"
+  },
+  {
+    "name": "Rosario Dawson",
+    "popularity": 6.5838,
+    "role": "Acting"
+  },
+  {
+    "name": "Rieko Miura",
+    "popularity": 6.148,
+    "role": "Acting"
+  },
+  {
+    "name": "Hunter Schafer",
+    "popularity": 6.5821,
+    "role": "Acting"
+  },
+  {
+    "name": "Shia LaBeouf",
+    "popularity": 6.5816,
+    "role": "Acting"
+  },
+  {
+    "name": "Yuko Oshima",
+    "popularity": 4.7962,
+    "role": "Acting"
+  },
+  {
+    "name": "Naomi Scott",
+    "popularity": 6.6854,
+    "role": "Acting"
+  },
+  {
+    "name": "Owen Wilson",
+    "popularity": 6.5503,
+    "role": "Acting"
+  },
+  {
+    "name": "Robin Williams",
+    "popularity": 6.5376,
+    "role": "Acting"
+  },
+  {
+    "name": "Christina Ricci",
+    "popularity": 6.5309,
+    "role": "Acting"
+  },
+  {
+    "name": "Scott Adkins",
+    "popularity": 6.5289,
+    "role": "Acting"
+  },
+  {
+    "name": "Sigourney Weaver",
+    "popularity": 6.5212,
+    "role": "Acting"
+  },
+  {
+    "name": "Xiao Shunyao",
+    "popularity": 6.5189,
+    "role": "Acting"
+  },
+  {
+    "name": "Raweewit Jiraphongkanon",
+    "popularity": 6.5041,
+    "role": "Acting"
+  },
+  {
+    "name": "Kat Dennings",
+    "popularity": 6.4861,
+    "role": "Acting"
+  },
+  {
+    "name": "Will Forte",
+    "popularity": 6.4819,
+    "role": "Acting"
+  },
+  {
+    "name": "Hans Zimmer",
+    "popularity": 6.4799,
+    "role": "Sound"
+  },
+  {
+    "name": "Ron Perlman",
+    "popularity": 6.4573,
+    "role": "Acting"
+  },
+  {
+    "name": "He Congrui",
+    "popularity": 6.4443,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonathan Roumie",
+    "popularity": 6.4413,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Bay",
+    "popularity": 6.4288,
+    "role": "Production"
+  },
+  {
+    "name": "Martin Henderson",
+    "popularity": 6.4256,
+    "role": "Acting"
+  },
+  {
+    "name": "Jin Si-ah",
+    "popularity": 6.4109,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Elliott",
+    "popularity": 6.404,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack O'Connell",
+    "popularity": 6.0301,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryan Coogler",
+    "popularity": 6.3802,
+    "role": "Directing"
+  },
+  {
+    "name": "John Goodman",
+    "popularity": 6.352,
+    "role": "Acting"
+  },
+  {
+    "name": "Drew Barrymore",
+    "popularity": 6.3214,
+    "role": "Acting"
+  },
+  {
+    "name": "Alexander Skarsgård",
+    "popularity": 6.3143,
+    "role": "Acting"
+  },
+  {
+    "name": "Mikey Madison",
+    "popularity": 6.4215,
+    "role": "Acting"
+  },
+  {
+    "name": "Gillian Anderson",
+    "popularity": 6.3041,
+    "role": "Acting"
+  },
+  {
+    "name": "Deniz Can Aktaş",
+    "popularity": 5.8793,
+    "role": "Acting"
+  },
+  {
+    "name": "Emma Thompson",
+    "popularity": 6.2965,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Heughan",
+    "popularity": 6.3888,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Soon-ok",
+    "popularity": 4.7111,
+    "role": "Writing"
+  },
+  {
+    "name": "Steve Zahn",
+    "popularity": 6.2889,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Byung-hun",
+    "popularity": 6.2806,
+    "role": "Acting"
+  },
+  {
+    "name": "Steven Spielberg",
+    "popularity": 6.2782,
+    "role": "Directing"
+  },
+  {
+    "name": "Piper Perabo",
+    "popularity": 6.2749,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Skarsgård",
+    "popularity": 5.9756,
+    "role": "Acting"
+  },
+  {
+    "name": "Tang Wei",
+    "popularity": 6.2549,
+    "role": "Acting"
+  },
+  {
+    "name": "Ayaka Miyoshi",
+    "popularity": 5.9135,
+    "role": "Acting"
+  },
+  {
+    "name": "Nicholas Galitzine",
+    "popularity": 6.5351,
+    "role": "Acting"
+  },
+  {
+    "name": "Rika",
+    "popularity": 6.2394,
+    "role": "Acting"
+  },
+  {
+    "name": "Arnold Schwarzenegger",
+    "popularity": 6.2304,
+    "role": "Acting"
+  },
+  {
+    "name": "Gemma Arterton",
+    "popularity": 6.2281,
+    "role": "Acting"
+  },
+  {
+    "name": "Sean Connery",
+    "popularity": 6.2267,
+    "role": "Acting"
+  },
+  {
+    "name": "Leya Kırşan",
+    "popularity": 6.5531,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeff Goldblum",
+    "popularity": 6.216,
+    "role": "Acting"
+  },
+  {
+    "name": "Meryl Streep",
+    "popularity": 6.1993,
+    "role": "Acting"
+  },
+  {
+    "name": "Christopher Walken",
+    "popularity": 6.1985,
+    "role": "Acting"
+  },
+  {
+    "name": "J.K. Simmons",
+    "popularity": 6.1906,
+    "role": "Acting"
+  },
+  {
+    "name": "Kara Wai Ying-Hung",
+    "popularity": 4.6572,
+    "role": "Acting"
+  },
+  {
+    "name": "Salman Khan",
+    "popularity": 6.1632,
+    "role": "Acting"
+  },
+  {
+    "name": "Özge Törer",
+    "popularity": 6.1612,
+    "role": "Acting"
+  },
+  {
+    "name": "Mohanlal",
+    "popularity": 5.5575,
+    "role": "Acting"
+  },
+  {
+    "name": "Minka Kelly",
+    "popularity": 5.8256,
+    "role": "Acting"
+  },
+  {
+    "name": "Bradley Cooper",
+    "popularity": 6.1388,
+    "role": "Acting"
+  },
+  {
+    "name": "John Travolta",
+    "popularity": 6.1195,
+    "role": "Acting"
+  },
+  {
+    "name": "Al Pacino",
+    "popularity": 6.1054,
+    "role": "Acting"
+  },
+  {
+    "name": "Mark Hamill",
+    "popularity": 6.1027,
+    "role": "Acting"
+  },
+  {
+    "name": "Annabelle Wallis",
+    "popularity": 5.0991,
+    "role": "Acting"
+  },
+  {
+    "name": "Kirsten Dunst",
+    "popularity": 6.098,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryan O'Neal",
+    "popularity": 6.0957,
+    "role": "Acting"
+  },
+  {
+    "name": "Eiza González",
+    "popularity": 6.1265,
+    "role": "Acting"
+  },
+  {
+    "name": "Sarah Shahi",
+    "popularity": 5.7692,
+    "role": "Acting"
+  },
+  {
+    "name": "Tessa Thompson",
+    "popularity": 6.6609,
+    "role": "Acting"
+  },
+  {
+    "name": "Selena Gomez",
+    "popularity": 6.3237,
+    "role": "Acting"
+  },
+  {
+    "name": "Matthew McConaughey",
+    "popularity": 6.0623,
+    "role": "Acting"
+  },
+  {
+    "name": "Natasha Lyonne",
+    "popularity": 6.0548,
+    "role": "Acting"
+  },
+  {
+    "name": "Maggie Gyllenhaal",
+    "popularity": 6.0543,
+    "role": "Acting"
+  },
+  {
+    "name": "Cate Blanchett",
+    "popularity": 6.0535,
+    "role": "Acting"
+  },
+  {
+    "name": "Luke Grimes",
+    "popularity": 6.0514,
+    "role": "Acting"
+  },
+  {
+    "name": "Bryan Cranston",
+    "popularity": 6.049,
+    "role": "Acting"
+  },
+  {
+    "name": "Alan Ritchson",
+    "popularity": 5.6711,
+    "role": "Acting"
+  },
+  {
+    "name": "Stanley Tucci",
+    "popularity": 6.0298,
+    "role": "Acting"
+  },
+  {
+    "name": "Daniel Craig",
+    "popularity": 6.0238,
+    "role": "Acting"
+  },
+  {
+    "name": "Hee-jeong",
+    "popularity": 6.0206,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Hutcherson",
+    "popularity": 6.02,
+    "role": "Acting"
+  },
+  {
+    "name": "Jared Leto",
+    "popularity": 6.0186,
+    "role": "Acting"
+  },
+  {
+    "name": "Jamie Lee Curtis",
+    "popularity": 6.0134,
+    "role": "Acting"
+  },
+  {
+    "name": "Rowan Atkinson",
+    "popularity": 6.0064,
+    "role": "Acting"
+  },
+  {
+    "name": "Ewan McGregor",
+    "popularity": 6.0046,
+    "role": "Acting"
+  },
+  {
+    "name": "Marina Sirtis",
+    "popularity": 5.9642,
+    "role": "Acting"
+  },
+  {
+    "name": "Zac Efron",
+    "popularity": 5.9641,
+    "role": "Acting"
+  },
+  {
+    "name": "Martin Scorsese",
+    "popularity": 5.9605,
+    "role": "Directing"
+  },
+  {
+    "name": "Sofia Carson",
+    "popularity": 5.6591,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack Nicholson",
+    "popularity": 5.9512,
+    "role": "Acting"
+  },
+  {
+    "name": "Michelle Monaghan",
+    "popularity": 5.9501,
+    "role": "Acting"
+  },
+  {
+    "name": "Jesse Plemons",
+    "popularity": 5.3979,
+    "role": "Acting"
+  },
+  {
+    "name": "Sofía Vergara",
+    "popularity": 6.056,
+    "role": "Acting"
+  },
+  {
+    "name": "Manami Shindo",
+    "popularity": 5.9361,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Do-hee",
+    "popularity": 5.9525,
+    "role": "Acting"
+  },
+  {
+    "name": "Nina Dobrev",
+    "popularity": 5.916,
+    "role": "Acting"
+  },
+  {
+    "name": "Donnie Yen",
+    "popularity": 5.9112,
+    "role": "Acting"
+  },
+  {
+    "name": "Michelle Rodriguez",
+    "popularity": 5.9054,
+    "role": "Acting"
+  },
+  {
+    "name": "Ajay Devgn",
+    "popularity": 5.903,
+    "role": "Acting"
+  },
+  {
+    "name": "Diego Luna",
+    "popularity": 5.895,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris Pratt",
+    "popularity": 5.8837,
+    "role": "Acting"
+  },
+  {
+    "name": "Mary Elizabeth Winstead",
+    "popularity": 5.8832,
+    "role": "Acting"
+  },
+  {
+    "name": "Emmy Rossum",
+    "popularity": 5.8815,
+    "role": "Acting"
+  },
+  {
+    "name": "Julianne Moore",
+    "popularity": 5.88,
+    "role": "Acting"
+  },
+  {
+    "name": "Diane Lane",
+    "popularity": 5.8721,
+    "role": "Acting"
+  },
+  {
+    "name": "Dylan O'Brien",
+    "popularity": 5.5912,
+    "role": "Acting"
+  },
+  {
+    "name": "Hannah John-Kamen",
+    "popularity": 6.1594,
+    "role": "Acting"
+  },
+  {
+    "name": "Ai Kayano",
+    "popularity": 6.0195,
+    "role": "Acting"
+  },
+  {
+    "name": "Angelica Hart",
+    "popularity": 5.8548,
+    "role": "Acting"
+  },
+  {
+    "name": "Sophie Marceau",
+    "popularity": 5.8443,
+    "role": "Acting"
+  },
+  {
+    "name": "Roselyn Sánchez",
+    "popularity": 5.8441,
+    "role": "Acting"
+  },
+  {
+    "name": "Sean Bean",
+    "popularity": 5.8398,
+    "role": "Acting"
+  },
+  {
+    "name": "Antonio Banderas",
+    "popularity": 5.8308,
+    "role": "Acting"
+  },
+  {
+    "name": "Val Kilmer",
+    "popularity": 5.8263,
+    "role": "Acting"
+  },
+  {
+    "name": "Adrien Brody",
+    "popularity": 5.8197,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Soo",
+    "popularity": 5.7717,
+    "role": "Acting"
+  },
+  {
+    "name": "Angela Morena",
+    "popularity": 5.8128,
+    "role": "Acting"
+  },
+  {
+    "name": "Jamie Foxx",
+    "popularity": 5.7914,
+    "role": "Acting"
+  },
+  {
+    "name": "Cailee Spaeny",
+    "popularity": 5.7759,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Soo-hyun",
+    "popularity": 5.3027,
+    "role": "Acting"
+  },
+  {
+    "name": "Taylor Sheridan",
+    "popularity": 6.0988,
+    "role": "Writing"
+  },
+  {
+    "name": "Jude Law",
+    "popularity": 5.7629,
+    "role": "Acting"
+  },
+  {
+    "name": "Forest Whitaker",
+    "popularity": 5.7589,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Kingsley",
+    "popularity": 5.7433,
+    "role": "Acting"
+  },
+  {
+    "name": "Penélope Cruz",
+    "popularity": 5.7281,
+    "role": "Acting"
+  },
+  {
+    "name": "Elisabeth Shue",
+    "popularity": 5.727,
+    "role": "Acting"
+  },
+  {
+    "name": "Madelyn Cline",
+    "popularity": 6.2398,
+    "role": "Acting"
+  },
+  {
+    "name": "Ariana Greenblatt",
+    "popularity": 5.7116,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Stiller",
+    "popularity": 5.6917,
+    "role": "Acting"
+  },
+  {
+    "name": "Milla Jovovich",
+    "popularity": 5.6905,
+    "role": "Acting"
+  },
+  {
+    "name": "Julia Victoria",
+    "popularity": 5.6876,
+    "role": "Acting"
+  },
+  {
+    "name": "Paulo Avelino",
+    "popularity": 5.4717,
+    "role": "Acting"
+  },
+  {
+    "name": "James McAvoy",
+    "popularity": 5.6837,
+    "role": "Acting"
+  },
+  {
+    "name": "Cobie Smulders",
+    "popularity": 5.7891,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen King",
+    "popularity": 5.6661,
+    "role": "Writing"
+  },
+  {
+    "name": "Charlotte Ritchie",
+    "popularity": 5.662,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael J. Fox",
+    "popularity": 5.6592,
+    "role": "Acting"
+  },
+  {
+    "name": "Cameron Diaz",
+    "popularity": 5.6392,
+    "role": "Acting"
+  },
+  {
+    "name": "Sophie Thatcher",
+    "popularity": 5.1216,
+    "role": "Acting"
+  },
+  {
+    "name": "Miriam Leone",
+    "popularity": 4.4145,
+    "role": "Acting"
+  },
+  {
+    "name": "Ving Rhames",
+    "popularity": 5.6212,
+    "role": "Acting"
+  },
+  {
+    "name": "Michelle Yeoh",
+    "popularity": 5.6068,
+    "role": "Acting"
+  },
+  {
+    "name": "Tim Curry",
+    "popularity": 5.5928,
+    "role": "Acting"
+  },
+  {
+    "name": "Drew Starkey",
+    "popularity": 5.8568,
+    "role": "Acting"
+  },
+  {
+    "name": "Zach Galifianakis",
+    "popularity": 5.5889,
+    "role": "Acting"
+  },
+  {
+    "name": "Matthew Goode",
+    "popularity": 5.5813,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Brolin",
+    "popularity": 5.5798,
+    "role": "Acting"
+  },
+  {
+    "name": "Lady Gaga",
+    "popularity": 5.2208,
+    "role": "Acting"
+  },
+  {
+    "name": "Eddie Redmayne",
+    "popularity": 5.5592,
+    "role": "Acting"
+  },
+  {
+    "name": "Elliot Page",
+    "popularity": 5.5287,
+    "role": "Acting"
+  },
+  {
+    "name": "Jet Li",
+    "popularity": 5.5035,
+    "role": "Acting"
+  },
+  {
+    "name": "Terry Crews",
+    "popularity": 5.502,
+    "role": "Acting"
+  },
+  {
+    "name": "Sadie Sink",
+    "popularity": 5.8028,
+    "role": "Acting"
+  },
+  {
+    "name": "Shah Rukh Khan",
+    "popularity": 5.4992,
+    "role": "Acting"
+  },
+  {
+    "name": "Pauley Perrette",
+    "popularity": 5.497,
+    "role": "Acting"
+  },
+  {
+    "name": "Morena Baccarin",
+    "popularity": 5.6422,
+    "role": "Acting"
+  },
+  {
+    "name": "Claire Forlani",
+    "popularity": 5.4804,
+    "role": "Acting"
+  },
+  {
+    "name": "Yoshitsugu Matsuoka",
+    "popularity": 5.3591,
+    "role": "Acting"
+  },
+  {
+    "name": "Benedict Cumberbatch",
+    "popularity": 6.1178,
+    "role": "Acting"
+  },
+  {
+    "name": "Olivier Gins",
+    "popularity": 5.4596,
+    "role": "Acting"
+  },
+  {
+    "name": "Patrick Wilson",
+    "popularity": 5.458,
+    "role": "Acting"
+  },
+  {
+    "name": "Keigo Higashino",
+    "popularity": 4.3686,
+    "role": "Writing"
+  },
+  {
+    "name": "Andy García",
+    "popularity": 5.4543,
+    "role": "Acting"
+  },
+  {
+    "name": "Gao Yuanyuan",
+    "popularity": 5.4535,
+    "role": "Acting"
+  },
+  {
+    "name": "Matt Bomer",
+    "popularity": 5.4513,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhao Liying",
+    "popularity": 5.2153,
+    "role": "Acting"
+  },
+  {
+    "name": "Rachel Zegler",
+    "popularity": 5.4476,
+    "role": "Acting"
+  },
+  {
+    "name": "Maisie Williams",
+    "popularity": 6.3656,
+    "role": "Acting"
+  },
+  {
+    "name": "Gene Hackman",
+    "popularity": 5.4448,
+    "role": "Acting"
+  },
+  {
+    "name": "Lily Collins",
+    "popularity": 5.6929,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Jai White",
+    "popularity": 5.1265,
+    "role": "Acting"
+  },
+  {
+    "name": "Evan Peters",
+    "popularity": 5.4383,
+    "role": "Acting"
+  },
+  {
+    "name": "Evan Peters",
+    "popularity": 5.4383,
+    "role": "Acting"
+  },
+  {
+    "name": "Lauren Cohan",
+    "popularity": 5.4938,
+    "role": "Acting"
+  },
+  {
+    "name": "Viola Davis",
+    "popularity": 5.4343,
+    "role": "Acting"
+  },
+  {
+    "name": "Andy Lau",
+    "popularity": 5.4212,
+    "role": "Acting"
+  },
+  {
+    "name": "Wesley Snipes",
+    "popularity": 5.4195,
+    "role": "Acting"
+  },
+  {
+    "name": "Taylor Kinney",
+    "popularity": 5.464,
+    "role": "Acting"
+  },
+  {
+    "name": "Suriya",
+    "popularity": 5.5077,
+    "role": "Acting"
+  },
+  {
+    "name": "Anna Faris",
+    "popularity": 5.4022,
+    "role": "Acting"
+  },
+  {
+    "name": "James Franco",
+    "popularity": 5.3995,
+    "role": "Acting"
+  },
+  {
+    "name": "Andy Samberg",
+    "popularity": 5.3908,
+    "role": "Acting"
+  },
+  {
+    "name": "Carla Gugino",
+    "popularity": 5.3899,
+    "role": "Acting"
+  },
+  {
+    "name": "Guy Ritchie",
+    "popularity": 5.3895,
+    "role": "Directing"
+  },
+  {
+    "name": "Mark Ruffalo",
+    "popularity": 5.3872,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhang Linghe",
+    "popularity": 5.3816,
+    "role": "Acting"
+  },
+  {
+    "name": "Mackenzie Davis",
+    "popularity": 5.7905,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Duhamel",
+    "popularity": 5.3752,
+    "role": "Acting"
+  },
+  {
+    "name": "Joe Anders",
+    "popularity": 5.3733,
+    "role": "Acting"
+  },
+  {
+    "name": "Kristen Bell",
+    "popularity": 5.3642,
+    "role": "Acting"
+  },
+  {
+    "name": "Ozan Akbaba",
+    "popularity": 5.3625,
+    "role": "Acting"
+  },
+  {
+    "name": "Stellan Skarsgård",
+    "popularity": 5.3619,
+    "role": "Acting"
+  },
+  {
+    "name": "Colin Farrell",
+    "popularity": 5.3581,
+    "role": "Acting"
+  },
+  {
+    "name": "Geraldine Viswanathan",
+    "popularity": 5.6598,
+    "role": "Acting"
+  },
+  {
+    "name": "Seth Rogen",
+    "popularity": 5.341,
+    "role": "Acting"
+  },
+  {
+    "name": "Jean Reno",
+    "popularity": 5.3374,
+    "role": "Acting"
+  },
+  {
+    "name": "Lorraine Bracco",
+    "popularity": 5.3251,
+    "role": "Acting"
+  },
+  {
+    "name": "Albie Casiño",
+    "popularity": 4.9527,
+    "role": "Acting"
+  },
+  {
+    "name": "Glen Powell",
+    "popularity": 4.993,
+    "role": "Acting"
+  },
+  {
+    "name": "Jaden Smith",
+    "popularity": 5.4405,
+    "role": "Acting"
+  },
+  {
+    "name": "Han Seo-ah",
+    "popularity": 5.3102,
+    "role": "Acting"
+  },
+  {
+    "name": "Laurence Fishburne",
+    "popularity": 5.3093,
+    "role": "Acting"
+  },
+  {
+    "name": "Javier Bardem",
+    "popularity": 5.3016,
+    "role": "Acting"
+  },
+  {
+    "name": "Lena Headey",
+    "popularity": 5.3015,
+    "role": "Acting"
+  },
+  {
+    "name": "Neal McDonough",
+    "popularity": 5.3013,
+    "role": "Acting"
+  },
+  {
+    "name": "Sophia Loren",
+    "popularity": 5.2993,
+    "role": "Acting"
+  },
+  {
+    "name": "María Valverde",
+    "popularity": 5.322,
+    "role": "Acting"
+  },
+  {
+    "name": "Christopher Lloyd",
+    "popularity": 5.2935,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Giamatti",
+    "popularity": 5.2883,
+    "role": "Acting"
+  },
+  {
+    "name": "Barry Keoghan",
+    "popularity": 5.1996,
+    "role": "Acting"
+  },
+  {
+    "name": "Dave Bautista",
+    "popularity": 5.3917,
+    "role": "Acting"
+  },
+  {
+    "name": "Christian Bale",
+    "popularity": 5.2815,
+    "role": "Acting"
+  },
+  {
+    "name": "John Krasinski",
+    "popularity": 5.2806,
+    "role": "Acting"
+  },
+  {
+    "name": "Lindsay Lohan",
+    "popularity": 5.2744,
+    "role": "Acting"
+  },
+  {
+    "name": "Kaitlyn Dever",
+    "popularity": 4.8812,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Murray",
+    "popularity": 5.2685,
+    "role": "Acting"
+  },
+  {
+    "name": "Brie Larson",
+    "popularity": 5.255,
+    "role": "Acting"
+  },
+  {
+    "name": "Lily James",
+    "popularity": 5.5913,
+    "role": "Acting"
+  },
+  {
+    "name": "Sunny Sandler",
+    "popularity": 4.9637,
+    "role": "Acting"
+  },
+  {
+    "name": "Aimee Lou Wood",
+    "popularity": 5.2475,
+    "role": "Acting"
+  },
+  {
+    "name": "Julia Louis-Dreyfus",
+    "popularity": 5.2405,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Seon-ho",
+    "popularity": 5.1777,
+    "role": "Acting"
+  },
+  {
+    "name": "Edward Norton",
+    "popularity": 5.2346,
+    "role": "Acting"
+  },
+  {
+    "name": "Clancy Brown",
+    "popularity": 5.2308,
+    "role": "Acting"
+  },
+  {
+    "name": "Elizabeth Dulau",
+    "popularity": 5.2306,
+    "role": "Acting"
+  },
+  {
+    "name": "Steve Buscemi",
+    "popularity": 5.2281,
+    "role": "Acting"
+  },
+  {
+    "name": "Jessica Chastain",
+    "popularity": 5.1522,
+    "role": "Acting"
+  },
+  {
+    "name": "Kıvanç Tatlıtuğ",
+    "popularity": 5.359,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Grant",
+    "popularity": 5.2219,
+    "role": "Acting"
+  },
+  {
+    "name": "Yvonne Strahovski",
+    "popularity": 5.4253,
+    "role": "Acting"
+  },
+  {
+    "name": "Sophie Turner",
+    "popularity": 5.6096,
+    "role": "Acting"
+  },
+  {
+    "name": "Marisa Tomei",
+    "popularity": 5.2109,
+    "role": "Acting"
+  },
+  {
+    "name": "Kerem Bürsin",
+    "popularity": 5.1392,
+    "role": "Acting"
+  },
+  {
+    "name": "Frank Grillo",
+    "popularity": 5.4006,
+    "role": "Acting"
+  },
+  {
+    "name": "John Lithgow",
+    "popularity": 5.1889,
+    "role": "Acting"
+  },
+  {
+    "name": "Victoria Justice",
+    "popularity": 5.2709,
+    "role": "Acting"
+  },
+  {
+    "name": "Kathryn Hahn",
+    "popularity": 5.1767,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Dong-wook",
+    "popularity": 5.2111,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Hiddleston",
+    "popularity": 5.3574,
+    "role": "Acting"
+  },
+  {
+    "name": "Luke Evans",
+    "popularity": 5.1529,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael C. Hall",
+    "popularity": 5.0193,
+    "role": "Acting"
+  },
+  {
+    "name": "Danny DeVito",
+    "popularity": 5.1591,
+    "role": "Acting"
+  },
+  {
+    "name": "Meg Foster",
+    "popularity": 5.1533,
+    "role": "Acting"
+  },
+  {
+    "name": "Karen Gillan",
+    "popularity": 5.1528,
+    "role": "Acting"
+  },
+  {
+    "name": "Viggo Mortensen",
+    "popularity": 5.1486,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeffrey Wright",
+    "popularity": 5.1485,
+    "role": "Acting"
+  },
+  {
+    "name": "Dermot Mulroney",
+    "popularity": 5.1469,
+    "role": "Acting"
+  },
+  {
+    "name": "Felicity Jones",
+    "popularity": 4.6497,
+    "role": "Acting"
+  },
+  {
+    "name": "Nicholas Hoult",
+    "popularity": 5.1442,
+    "role": "Acting"
+  },
+  {
+    "name": "Angela Bassett",
+    "popularity": 5.1402,
+    "role": "Acting"
+  },
+  {
+    "name": "Thomas Brodie-Sangster",
+    "popularity": 5.1398,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen Graham",
+    "popularity": 5.121,
+    "role": "Acting"
+  },
+  {
+    "name": "Atsuko Takahata",
+    "popularity": 5.0054,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Tae-ri",
+    "popularity": 4.8117,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Isaacs",
+    "popularity": 5.1168,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Jong-suk",
+    "popularity": 5.8669,
+    "role": "Acting"
+  },
+  {
+    "name": "Steven Seagal",
+    "popularity": 5.104,
+    "role": "Acting"
+  },
+  {
+    "name": "Teo Briones",
+    "popularity": 5.1609,
+    "role": "Acting"
+  },
+  {
+    "name": "Bryce Dallas Howard",
+    "popularity": 5.1005,
+    "role": "Acting"
+  },
+  {
+    "name": "Misaki Suzuki",
+    "popularity": 5.1003,
+    "role": "Visual Effects"
+  },
+  {
+    "name": "Spike Lee",
+    "popularity": 5.0908,
+    "role": "Directing"
+  },
+  {
+    "name": "James Cameron",
+    "popularity": 5.0906,
+    "role": "Directing"
+  },
+  {
+    "name": "Téa Leoni",
+    "popularity": 5.0904,
+    "role": "Acting"
+  },
+  {
+    "name": "Zoey Deutch",
+    "popularity": 5.5134,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Garner",
+    "popularity": 5.0781,
+    "role": "Acting"
+  },
+  {
+    "name": "Chisanupong Paungmanee",
+    "popularity": 5.0775,
+    "role": "Acting"
+  },
+  {
+    "name": "Alice Eve",
+    "popularity": 5.0762,
+    "role": "Acting"
+  },
+  {
+    "name": "Frank Welker",
+    "popularity": 5.0638,
+    "role": "Acting"
+  },
+  {
+    "name": "Andy Serkis",
+    "popularity": 5.0629,
+    "role": "Acting"
+  },
+  {
+    "name": "Taraji P. Henson",
+    "popularity": 5.0624,
+    "role": "Acting"
+  },
+  {
+    "name": "Kajal Agarwal",
+    "popularity": 5.1603,
+    "role": "Acting"
+  },
+  {
+    "name": "Joseph Gordon-Levitt",
+    "popularity": 5.0601,
+    "role": "Acting"
+  },
+  {
+    "name": "Alyssa Milano",
+    "popularity": 5.06,
+    "role": "Acting"
+  },
+  {
+    "name": "Olivia Wilde",
+    "popularity": 5.0596,
+    "role": "Acting"
+  },
+  {
+    "name": "Seth MacFarlane",
+    "popularity": 5.0557,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Douglas",
+    "popularity": 5.0552,
+    "role": "Acting"
+  },
+  {
+    "name": "Guy Pearce",
+    "popularity": 5.0511,
+    "role": "Acting"
+  },
+  {
+    "name": "Maggie Smith",
+    "popularity": 5.048,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Nighy",
+    "popularity": 5.0467,
+    "role": "Acting"
+  },
+  {
+    "name": "Cemre Baysel",
+    "popularity": 5.0441,
+    "role": "Acting"
+  },
+  {
+    "name": "Ian McKellen",
+    "popularity": 5.0432,
+    "role": "Acting"
+  },
+  {
+    "name": "Tommy Lee Jones",
+    "popularity": 5.0382,
+    "role": "Acting"
+  },
+  {
+    "name": "Dave Franco",
+    "popularity": 5.0369,
+    "role": "Acting"
+  },
+  {
+    "name": "Marius De Saeger",
+    "popularity": 5.0337,
+    "role": "Acting"
+  },
+  {
+    "name": "Emily Watson",
+    "popularity": 5.0333,
+    "role": "Acting"
+  },
+  {
+    "name": "Wyatt Russell",
+    "popularity": 4.778,
+    "role": "Acting"
+  },
+  {
+    "name": "Sharon Stone",
+    "popularity": 5.03,
+    "role": "Acting"
+  },
+  {
+    "name": "Famke Janssen",
+    "popularity": 5.0293,
+    "role": "Acting"
+  },
+  {
+    "name": "Wunmi Mosaku",
+    "popularity": 4.8913,
+    "role": "Acting"
+  },
+  {
+    "name": "Barış Arduç",
+    "popularity": 5.0826,
+    "role": "Acting"
+  },
+  {
+    "name": "Asami Kanno",
+    "popularity": 4.5949,
+    "role": "Acting"
+  },
+  {
+    "name": "Marion Cotillard",
+    "popularity": 5.019,
+    "role": "Acting"
+  },
+  {
+    "name": "Marion Cotillard",
+    "popularity": 5.019,
+    "role": "Acting"
+  },
+  {
+    "name": "Dolph Lundgren",
+    "popularity": 5.0183,
+    "role": "Acting"
+  },
+  {
+    "name": "Rob Schneider",
+    "popularity": 5.0102,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Dinklage",
+    "popularity": 5.0076,
+    "role": "Acting"
+  },
+  {
+    "name": "Leslie Nielsen",
+    "popularity": 5.0051,
+    "role": "Acting"
+  },
+  {
+    "name": "Melissa Benoist",
+    "popularity": 4.6991,
+    "role": "Acting"
+  },
+  {
+    "name": "Sean Penn",
+    "popularity": 5.0007,
+    "role": "Acting"
+  },
+  {
+    "name": "Scott Eastwood",
+    "popularity": 5.0325,
+    "role": "Acting"
+  },
+  {
+    "name": "Han Yi-seul",
+    "popularity": 4.9968,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonah Hill",
+    "popularity": 4.9963,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Pullman",
+    "popularity": 4.9908,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlie Sheen",
+    "popularity": 4.989,
+    "role": "Acting"
+  },
+  {
+    "name": "Frances Fisher",
+    "popularity": 4.9791,
+    "role": "Acting"
+  },
+  {
+    "name": "Ester Expósito",
+    "popularity": 4.9688,
+    "role": "Acting"
+  },
+  {
+    "name": "Milana Vayntrub",
+    "popularity": 4.967,
+    "role": "Acting"
+  },
+  {
+    "name": "Ethan Hawke",
+    "popularity": 4.9644,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Keaton",
+    "popularity": 4.9635,
+    "role": "Acting"
+  },
+  {
+    "name": "Vanessa Kirby",
+    "popularity": 4.9111,
+    "role": "Acting"
+  },
+  {
+    "name": "Heath Ledger",
+    "popularity": 4.9606,
+    "role": "Acting"
+  },
+  {
+    "name": "Mike Myers",
+    "popularity": 4.9579,
+    "role": "Acting"
+  },
+  {
+    "name": "Aaron Taylor-Johnson",
+    "popularity": 4.9394,
+    "role": "Acting"
+  },
+  {
+    "name": "Nathalie Emmanuel",
+    "popularity": 4.9367,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeremy Irons",
+    "popularity": 4.9345,
+    "role": "Acting"
+  },
+  {
+    "name": "Norman Reedus",
+    "popularity": 4.9345,
+    "role": "Acting"
+  },
+  {
+    "name": "Supaporn Malisorn",
+    "popularity": 4.9326,
+    "role": "Acting"
+  },
+  {
+    "name": "IU",
+    "popularity": 5.3878,
+    "role": "Acting"
+  },
+  {
+    "name": "James Spader",
+    "popularity": 4.9189,
+    "role": "Acting"
+  },
+  {
+    "name": "Jace Norman",
+    "popularity": 4.8682,
+    "role": "Acting"
+  },
+  {
+    "name": "Ella Purnell",
+    "popularity": 6.5585,
+    "role": "Acting"
+  },
+  {
+    "name": "Matthew Lillard",
+    "popularity": 4.9136,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Mendelsohn",
+    "popularity": 4.9097,
+    "role": "Acting"
+  },
+  {
+    "name": "Morris Chestnut",
+    "popularity": 4.9057,
+    "role": "Acting"
+  },
+  {
+    "name": "Julia Stiles",
+    "popularity": 4.9008,
+    "role": "Acting"
+  },
+  {
+    "name": "Takahiro Sakurai",
+    "popularity": 4.9008,
+    "role": "Acting"
+  },
+  {
+    "name": "Alain Delon",
+    "popularity": 4.9007,
+    "role": "Acting"
+  },
+  {
+    "name": "Orlando Bloom",
+    "popularity": 4.8979,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Whishaw",
+    "popularity": 4.8974,
+    "role": "Acting"
+  },
+  {
+    "name": "Elizabeth Banks",
+    "popularity": 4.8968,
+    "role": "Acting"
+  },
+  {
+    "name": "Ice Cube",
+    "popularity": 4.8947,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Bateman",
+    "popularity": 4.8908,
+    "role": "Acting"
+  },
+  {
+    "name": "Vijay",
+    "popularity": 5.1869,
+    "role": "Acting"
+  },
+  {
+    "name": "Yu Aoi",
+    "popularity": 4.8873,
+    "role": "Acting"
+  },
+  {
+    "name": "Woody Harrelson",
+    "popularity": 4.8832,
+    "role": "Acting"
+  },
+  {
+    "name": "Will Ferrell",
+    "popularity": 4.8817,
+    "role": "Acting"
+  },
+  {
+    "name": "Eric Winter",
+    "popularity": 4.9179,
+    "role": "Acting"
+  },
+  {
+    "name": "Jodie Comer",
+    "popularity": 5.2233,
+    "role": "Acting"
+  },
+  {
+    "name": "Lou Goossens",
+    "popularity": 4.8665,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Duvall",
+    "popularity": 4.8632,
+    "role": "Acting"
+  },
+  {
+    "name": "Whoopi Goldberg",
+    "popularity": 4.8496,
+    "role": "Acting"
+  },
+  {
+    "name": "Katherine Heigl",
+    "popularity": 4.8491,
+    "role": "Acting"
+  },
+  {
+    "name": "Woo Do-hwan",
+    "popularity": 6.0899,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeanne Goursaud",
+    "popularity": 4.4699,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Madden",
+    "popularity": 5.1711,
+    "role": "Acting"
+  },
+  {
+    "name": "Dan Stevens",
+    "popularity": 4.8658,
+    "role": "Acting"
+  },
+  {
+    "name": "Eva Mendes",
+    "popularity": 4.8364,
+    "role": "Acting"
+  },
+  {
+    "name": "Leighton Meester",
+    "popularity": 4.5034,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Worthington",
+    "popularity": 4.8318,
+    "role": "Acting"
+  },
+  {
+    "name": "Matt Dillon",
+    "popularity": 4.8213,
+    "role": "Acting"
+  },
+  {
+    "name": "Gary Cole",
+    "popularity": 4.8203,
+    "role": "Acting"
+  },
+  {
+    "name": "Donald Trump",
+    "popularity": 4.8202,
+    "role": "Acting"
+  },
+  {
+    "name": "David Harbour",
+    "popularity": 4.8186,
+    "role": "Acting"
+  },
+  {
+    "name": "Jim Caviezel",
+    "popularity": 4.8183,
+    "role": "Acting"
+  },
+  {
+    "name": "Abigail Breslin",
+    "popularity": 4.8126,
+    "role": "Acting"
+  },
+  {
+    "name": "Apple Dy",
+    "popularity": 4.8103,
+    "role": "Acting"
+  },
+  {
+    "name": "Harris Dickinson",
+    "popularity": 4.9255,
+    "role": "Acting"
+  },
+  {
+    "name": "Kate Mara",
+    "popularity": 4.8007,
+    "role": "Acting"
+  },
+  {
+    "name": "Rachel McAdams",
+    "popularity": 4.799,
+    "role": "Acting"
+  },
+  {
+    "name": "Awkwafina",
+    "popularity": 4.8769,
+    "role": "Acting"
+  },
+  {
+    "name": "Sean Astin",
+    "popularity": 4.798,
+    "role": "Acting"
+  },
+  {
+    "name": "Danny McBride",
+    "popularity": 4.7969,
+    "role": "Acting"
+  },
+  {
+    "name": "Jacob Tremblay",
+    "popularity": 4.688,
+    "role": "Acting"
+  },
+  {
+    "name": "Kristen Wiig",
+    "popularity": 4.7912,
+    "role": "Acting"
+  },
+  {
+    "name": "Katee Sackhoff",
+    "popularity": 4.7891,
+    "role": "Acting"
+  },
+  {
+    "name": "Naomie Harris",
+    "popularity": 4.7884,
+    "role": "Acting"
+  },
+  {
+    "name": "Noah Wyle",
+    "popularity": 4.7856,
+    "role": "Acting"
+  },
+  {
+    "name": "Javon Walton",
+    "popularity": 4.7833,
+    "role": "Acting"
+  },
+  {
+    "name": "Lisa Kudrow",
+    "popularity": 4.7821,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Peña",
+    "popularity": 4.779,
+    "role": "Acting"
+  },
+  {
+    "name": "Billie Eilish",
+    "popularity": 4.7772,
+    "role": "Acting"
+  },
+  {
+    "name": "Keith David",
+    "popularity": 4.77,
+    "role": "Acting"
+  },
+  {
+    "name": "Deepika Padukone",
+    "popularity": 4.7698,
+    "role": "Acting"
+  },
+  {
+    "name": "Ed Harris",
+    "popularity": 4.7662,
+    "role": "Acting"
+  },
+  {
+    "name": "Devon Sawa",
+    "popularity": 4.7657,
+    "role": "Acting"
+  },
+  {
+    "name": "Alec Baldwin",
+    "popularity": 4.7653,
+    "role": "Acting"
+  },
+  {
+    "name": "Krysten Ritter",
+    "popularity": 4.7723,
+    "role": "Acting"
+  },
+  {
+    "name": "Bai Lu",
+    "popularity": 4.908,
+    "role": "Acting"
+  },
+  {
+    "name": "Tilda Swinton",
+    "popularity": 4.7626,
+    "role": "Acting"
+  },
+  {
+    "name": "Vincent Cassel",
+    "popularity": 4.7618,
+    "role": "Acting"
+  },
+  {
+    "name": "Jada Pinkett Smith",
+    "popularity": 4.7614,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Ellis",
+    "popularity": 4.7968,
+    "role": "Acting"
+  },
+  {
+    "name": "Toni Collette",
+    "popularity": 4.754,
+    "role": "Acting"
+  },
+  {
+    "name": "Naomi Watts",
+    "popularity": 4.7527,
+    "role": "Acting"
+  },
+  {
+    "name": "Ding Yuxi",
+    "popularity": 4.7516,
+    "role": "Acting"
+  },
+  {
+    "name": "Marlon Wayans",
+    "popularity": 4.7466,
+    "role": "Acting"
+  },
+  {
+    "name": "Dennis Quaid",
+    "popularity": 4.7391,
+    "role": "Acting"
+  },
+  {
+    "name": "Benjamin Bratt",
+    "popularity": 4.7375,
+    "role": "Acting"
+  },
+  {
+    "name": "N.T. Rama Rao Jr.",
+    "popularity": 5.1102,
+    "role": "Acting"
+  },
+  {
+    "name": "Zooey Deschanel",
+    "popularity": 4.7327,
+    "role": "Acting"
+  },
+  {
+    "name": "Gina Gershon",
+    "popularity": 4.7327,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack Quaid",
+    "popularity": 5.032,
+    "role": "Acting"
+  },
+  {
+    "name": "Neve Campbell",
+    "popularity": 4.7224,
+    "role": "Acting"
+  },
+  {
+    "name": "Isla Fisher",
+    "popularity": 4.7206,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Kenny",
+    "popularity": 4.7946,
+    "role": "Acting"
+  },
+  {
+    "name": "Shuya Sophia Cai",
+    "popularity": 5.4637,
+    "role": "Acting"
+  },
+  {
+    "name": "Gabrielle Fitzpatrick",
+    "popularity": 4.7122,
+    "role": "Acting"
+  },
+  {
+    "name": "Ariana Grande",
+    "popularity": 5.2832,
+    "role": "Acting"
+  },
+  {
+    "name": "Judi Dench",
+    "popularity": 4.71,
+    "role": "Acting"
+  },
+  {
+    "name": "Maggie Q",
+    "popularity": 4.7064,
+    "role": "Acting"
+  },
+  {
+    "name": "Ashley Johnson",
+    "popularity": 4.7059,
+    "role": "Acting"
+  },
+  {
+    "name": "Kanye West",
+    "popularity": 4.7043,
+    "role": "Acting"
+  },
+  {
+    "name": "Amanda Peet",
+    "popularity": 4.7007,
+    "role": "Acting"
+  },
+  {
+    "name": "John Cusack",
+    "popularity": 4.7,
+    "role": "Acting"
+  },
+  {
+    "name": "Genevieve Nnaji",
+    "popularity": 3.9288,
+    "role": "Acting"
+  },
+  {
+    "name": "Jon Voight",
+    "popularity": 4.6984,
+    "role": "Acting"
+  },
+  {
+    "name": "Anushka Shetty",
+    "popularity": 4.8155,
+    "role": "Acting"
+  },
+  {
+    "name": "Amandla Stenberg",
+    "popularity": 4.806,
+    "role": "Acting"
+  },
+  {
+    "name": "Kasumi Arimura",
+    "popularity": 4.0344,
+    "role": "Acting"
+  },
+  {
+    "name": "Dan Aykroyd",
+    "popularity": 4.6813,
+    "role": "Acting"
+  },
+  {
+    "name": "Gael García Bernal",
+    "popularity": 4.6788,
+    "role": "Acting"
+  },
+  {
+    "name": "Diane Kruger",
+    "popularity": 4.6767,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeff Bridges",
+    "popularity": 4.6761,
+    "role": "Acting"
+  },
+  {
+    "name": "Omar Sy",
+    "popularity": 4.8264,
+    "role": "Acting"
+  },
+  {
+    "name": "Erin Moriarty",
+    "popularity": 4.8932,
+    "role": "Acting"
+  },
+  {
+    "name": "Sally Field",
+    "popularity": 4.666,
+    "role": "Acting"
+  },
+  {
+    "name": "Eric Bana",
+    "popularity": 4.6648,
+    "role": "Acting"
+  },
+  {
+    "name": "Terence Hill",
+    "popularity": 4.6585,
+    "role": "Acting"
+  },
+  {
+    "name": "Rebecca Hall",
+    "popularity": 4.655,
+    "role": "Acting"
+  },
+  {
+    "name": "Timothy Olyphant",
+    "popularity": 4.6534,
+    "role": "Acting"
+  },
+  {
+    "name": "Martin Lawrence",
+    "popularity": 4.6529,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Cobbs",
+    "popularity": 4.6499,
+    "role": "Acting"
+  },
+  {
+    "name": "Michelle Williams",
+    "popularity": 4.6453,
+    "role": "Acting"
+  },
+  {
+    "name": "Leonard Nimoy",
+    "popularity": 4.6433,
+    "role": "Acting"
+  },
+  {
+    "name": "Yvonne Yung Hung",
+    "popularity": 4.9962,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Spacey",
+    "popularity": 4.6389,
+    "role": "Acting"
+  },
+  {
+    "name": "Renée Zellweger",
+    "popularity": 4.6296,
+    "role": "Acting"
+  },
+  {
+    "name": "Clive Owen",
+    "popularity": 4.6271,
+    "role": "Acting"
+  },
+  {
+    "name": "Gabrielle Union",
+    "popularity": 4.627,
+    "role": "Acting"
+  },
+  {
+    "name": "Cho Yeo-jeong",
+    "popularity": 4.6292,
+    "role": "Acting"
+  },
+  {
+    "name": "Charles Bronson",
+    "popularity": 4.6226,
+    "role": "Acting"
+  },
+  {
+    "name": "Michelle Trachtenberg",
+    "popularity": 4.6187,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Claflin",
+    "popularity": 4.6142,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Neill",
+    "popularity": 4.6124,
+    "role": "Acting"
+  },
+  {
+    "name": "Melissa O'Neil",
+    "popularity": 5.086,
+    "role": "Acting"
+  },
+  {
+    "name": "Rose Byrne",
+    "popularity": 4.6047,
+    "role": "Acting"
+  },
+  {
+    "name": "Tania Raymonde",
+    "popularity": 3.9671,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Stormare",
+    "popularity": 4.6024,
+    "role": "Acting"
+  },
+  {
+    "name": "Mahershala Ali",
+    "popularity": 4.4734,
+    "role": "Acting"
+  },
+  {
+    "name": "Joaquin Phoenix",
+    "popularity": 4.5971,
+    "role": "Acting"
+  },
+  {
+    "name": "Hugh Laurie",
+    "popularity": 4.5948,
+    "role": "Acting"
+  },
+  {
+    "name": "Talia Shire",
+    "popularity": 4.5904,
+    "role": "Acting"
+  },
+  {
+    "name": "Brittany Murphy",
+    "popularity": 4.5857,
+    "role": "Acting"
+  },
+  {
+    "name": "Yui Aragaki",
+    "popularity": 4.5712,
+    "role": "Acting"
+  },
+  {
+    "name": "Liev Schreiber",
+    "popularity": 4.576,
+    "role": "Acting"
+  },
+  {
+    "name": "James Coburn",
+    "popularity": 4.5724,
+    "role": "Acting"
+  },
+  {
+    "name": "Xu Kai",
+    "popularity": 4.5708,
+    "role": "Acting"
+  },
+  {
+    "name": "Maggie Grace",
+    "popularity": 4.5704,
+    "role": "Acting"
+  },
+  {
+    "name": "Mei Ting",
+    "popularity": 3.0392,
+    "role": "Acting"
+  },
+  {
+    "name": "Anna-Maria Sieklucka",
+    "popularity": 4.5664,
+    "role": "Acting"
+  },
+  {
+    "name": "Mickey Rourke",
+    "popularity": 4.5653,
+    "role": "Acting"
+  },
+  {
+    "name": "Daniel Brühl",
+    "popularity": 4.5646,
+    "role": "Acting"
+  },
+  {
+    "name": "William Shatner",
+    "popularity": 4.5612,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Rooker",
+    "popularity": 4.5605,
+    "role": "Acting"
+  },
+  {
+    "name": "Denise Richards",
+    "popularity": 4.5603,
+    "role": "Acting"
+  },
+  {
+    "name": "Anna Camp",
+    "popularity": 4.3421,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonathan Pryce",
+    "popularity": 4.5598,
+    "role": "Acting"
+  },
+  {
+    "name": "Karl Urban",
+    "popularity": 4.5537,
+    "role": "Acting"
+  },
+  {
+    "name": "Asa Butterfield",
+    "popularity": 4.1348,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Gad",
+    "popularity": 4.5464,
+    "role": "Acting"
+  },
+  {
+    "name": "Simon Pegg",
+    "popularity": 4.5438,
+    "role": "Acting"
+  },
+  {
+    "name": "Miles Wei",
+    "popularity": 4.8624,
+    "role": "Acting"
+  },
+  {
+    "name": "Jane Seymour",
+    "popularity": 4.5434,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen A. Chang",
+    "popularity": 4.5975,
+    "role": "Acting"
+  },
+  {
+    "name": "Teresa Palmer",
+    "popularity": 4.5409,
+    "role": "Acting"
+  },
+  {
+    "name": "Brenda Song",
+    "popularity": 3.9982,
+    "role": "Acting"
+  },
+  {
+    "name": "Kiernan Shipka",
+    "popularity": 4.4707,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeremy Piven",
+    "popularity": 4.5352,
+    "role": "Acting"
+  },
+  {
+    "name": "Cosmo Jarvis",
+    "popularity": 4.4546,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Smith",
+    "popularity": 4.5304,
+    "role": "Directing"
+  },
+  {
+    "name": "Finn Wolfhard",
+    "popularity": 4.5218,
+    "role": "Acting"
+  },
+  {
+    "name": "Nia Long",
+    "popularity": 4.5182,
+    "role": "Acting"
+  },
+  {
+    "name": "Elijah Wood",
+    "popularity": 4.5143,
+    "role": "Acting"
+  },
+  {
+    "name": "Benedict Wong",
+    "popularity": 4.5142,
+    "role": "Acting"
+  },
+  {
+    "name": "Tim Burton",
+    "popularity": 4.5128,
+    "role": "Directing"
+  },
+  {
+    "name": "Anjelica Huston",
+    "popularity": 4.5125,
+    "role": "Acting"
+  },
+  {
+    "name": "Tara Strong",
+    "popularity": 4.5122,
+    "role": "Acting"
+  },
+  {
+    "name": "Prakash Raj",
+    "popularity": 4.4072,
+    "role": "Acting"
+  },
+  {
+    "name": "Christian Slater",
+    "popularity": 4.5064,
+    "role": "Acting"
+  },
+  {
+    "name": "Kaya Scodelario",
+    "popularity": 4.751,
+    "role": "Acting"
+  },
+  {
+    "name": "Vincent Chansard",
+    "popularity": 4.5057,
+    "role": "Visual Effects"
+  },
+  {
+    "name": "Chris Pine",
+    "popularity": 4.6305,
+    "role": "Acting"
+  },
+  {
+    "name": "Toby Jones",
+    "popularity": 4.502,
+    "role": "Acting"
+  },
+  {
+    "name": "Rei Igarashi",
+    "popularity": 4.4744,
+    "role": "Acting"
+  },
+  {
+    "name": "Lauren Holly",
+    "popularity": 4.4992,
+    "role": "Acting"
+  },
+  {
+    "name": "Natalie Dormer",
+    "popularity": 4.499,
+    "role": "Acting"
+  },
+  {
+    "name": "Brendan Gleeson",
+    "popularity": 4.4989,
+    "role": "Acting"
+  },
+  {
+    "name": "Evangeline Lilly",
+    "popularity": 4.4975,
+    "role": "Acting"
+  },
+  {
+    "name": "Lance Henriksen",
+    "popularity": 4.4967,
+    "role": "Acting"
+  },
+  {
+    "name": "Akshay Kumar",
+    "popularity": 4.4961,
+    "role": "Acting"
+  },
+  {
+    "name": "Casey Affleck",
+    "popularity": 4.496,
+    "role": "Acting"
+  },
+  {
+    "name": "Harry Styles",
+    "popularity": 4.5861,
+    "role": "Acting"
+  },
+  {
+    "name": "Lorenzo Zurzolo",
+    "popularity": 4.1635,
+    "role": "Acting"
+  },
+  {
+    "name": "Ayanna Misola",
+    "popularity": 4.4926,
+    "role": "Acting"
+  },
+  {
+    "name": "Patrick Stewart",
+    "popularity": 4.492,
+    "role": "Acting"
+  },
+  {
+    "name": "Hiroyuki Sanada",
+    "popularity": 4.49,
+    "role": "Acting"
+  },
+  {
+    "name": "Ashton Kutcher",
+    "popularity": 4.4898,
+    "role": "Acting"
+  },
+  {
+    "name": "Catherine Zeta-Jones",
+    "popularity": 4.4892,
+    "role": "Acting"
+  },
+  {
+    "name": "Kurt Russell",
+    "popularity": 4.4889,
+    "role": "Acting"
+  },
+  {
+    "name": "Allison Janney",
+    "popularity": 4.4877,
+    "role": "Acting"
+  },
+  {
+    "name": "Rhona Mitra",
+    "popularity": 4.4863,
+    "role": "Acting"
+  },
+  {
+    "name": "Miyu Irino",
+    "popularity": 4.4855,
+    "role": "Acting"
+  },
+  {
+    "name": "Cynthia Erivo",
+    "popularity": 4.248,
+    "role": "Acting"
+  },
+  {
+    "name": "Juno Temple",
+    "popularity": 4.4797,
+    "role": "Acting"
+  },
+  {
+    "name": "Christopher de Leon",
+    "popularity": 4.2383,
+    "role": "Acting"
+  },
+  {
+    "name": "Miles Teller",
+    "popularity": 4.6683,
+    "role": "Acting"
+  },
+  {
+    "name": "Ashley Judd",
+    "popularity": 4.4779,
+    "role": "Acting"
+  },
+  {
+    "name": "Ian McShane",
+    "popularity": 4.4655,
+    "role": "Acting"
+  },
+  {
+    "name": "Kiefer Sutherland",
+    "popularity": 4.4631,
+    "role": "Acting"
+  },
+  {
+    "name": "Lacey Chabert",
+    "popularity": 4.4568,
+    "role": "Acting"
+  },
+  {
+    "name": "Courteney Cox",
+    "popularity": 4.4551,
+    "role": "Acting"
+  },
+  {
+    "name": "Cosmo Jarvis",
+    "popularity": 4.4546,
+    "role": "Acting"
+  },
+  {
+    "name": "Taylor Swift",
+    "popularity": 4.6294,
+    "role": "Acting"
+  },
+  {
+    "name": "Meghann Fahy",
+    "popularity": 4.045,
+    "role": "Acting"
+  },
+  {
+    "name": "Eric Roberts",
+    "popularity": 4.441,
+    "role": "Acting"
+  },
+  {
+    "name": "Kazuhiko Inoue",
+    "popularity": 4.2726,
+    "role": "Acting"
+  },
+  {
+    "name": "Úrsula Corberó",
+    "popularity": 4.3014,
+    "role": "Acting"
+  },
+  {
+    "name": "Simone Susinna",
+    "popularity": 4.4347,
+    "role": "Acting"
+  },
+  {
+    "name": "Shailene Woodley",
+    "popularity": 4.1767,
+    "role": "Acting"
+  },
+  {
+    "name": "Brian Cox",
+    "popularity": 4.4311,
+    "role": "Acting"
+  },
+  {
+    "name": "Bella Thorne",
+    "popularity": 4.1249,
+    "role": "Acting"
+  },
+  {
+    "name": "Megi Pojani",
+    "popularity": 4.429,
+    "role": "Acting"
+  },
+  {
+    "name": "Anthony Edwards",
+    "popularity": 4.425,
+    "role": "Acting"
+  },
+  {
+    "name": "Adam Scott",
+    "popularity": 4.4219,
+    "role": "Acting"
+  },
+  {
+    "name": "Freddie Highmore",
+    "popularity": 4.4214,
+    "role": "Acting"
+  },
+  {
+    "name": "Mithun Chakraborty",
+    "popularity": 4.7147,
+    "role": "Acting"
+  },
+  {
+    "name": "Tim Roth",
+    "popularity": 4.4187,
+    "role": "Acting"
+  },
+  {
+    "name": "Bai Jingting",
+    "popularity": 4.1228,
+    "role": "Acting"
+  },
+  {
+    "name": "Ray Liotta",
+    "popularity": 4.416,
+    "role": "Acting"
+  },
+  {
+    "name": "Rowoon",
+    "popularity": 4.585,
+    "role": "Acting"
+  },
+  {
+    "name": "Wes Anderson",
+    "popularity": 4.4063,
+    "role": "Directing"
+  },
+  {
+    "name": "Paul Dano",
+    "popularity": 4.4003,
+    "role": "Acting"
+  },
+  {
+    "name": "Golshifteh Farahani",
+    "popularity": 4.2529,
+    "role": "Acting"
+  },
+  {
+    "name": "Micaella Raz",
+    "popularity": 4.3995,
+    "role": "Acting"
+  },
+  {
+    "name": "Zoë Kravitz",
+    "popularity": 4.3993,
+    "role": "Acting"
+  },
+  {
+    "name": "Burt Reynolds",
+    "popularity": 4.3954,
+    "role": "Acting"
+  },
+  {
+    "name": "Sinem Ünsal",
+    "popularity": 4.3867,
+    "role": "Acting"
+  },
+  {
+    "name": "Charles Dance",
+    "popularity": 4.3863,
+    "role": "Acting"
+  },
+  {
+    "name": "Ray Mendoza",
+    "popularity": 4.3857,
+    "role": "Crew"
+  },
+  {
+    "name": "Joseph Quinn",
+    "popularity": 4.6811,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Hye-yoon",
+    "popularity": 4.3786,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Jason Leigh",
+    "popularity": 4.3709,
+    "role": "Acting"
+  },
+  {
+    "name": "Rob Lowe",
+    "popularity": 4.3672,
+    "role": "Acting"
+  },
+  {
+    "name": "Rex Linn",
+    "popularity": 4.3602,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonathan Banks",
+    "popularity": 4.3553,
+    "role": "Acting"
+  },
+  {
+    "name": "Song Kang",
+    "popularity": 4.7835,
+    "role": "Acting"
+  },
+  {
+    "name": "David Thewlis",
+    "popularity": 4.3486,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris Tucker",
+    "popularity": 4.3448,
+    "role": "Acting"
+  },
+  {
+    "name": "Carrie Coon",
+    "popularity": 4.7849,
+    "role": "Acting"
+  },
+  {
+    "name": "Pom Klementieff",
+    "popularity": 4.4752,
+    "role": "Acting"
+  },
+  {
+    "name": "Kirk Douglas",
+    "popularity": 4.3246,
+    "role": "Acting"
+  },
+  {
+    "name": "Tony Todd",
+    "popularity": 4.3214,
+    "role": "Acting"
+  },
+  {
+    "name": "Patricia Clarkson",
+    "popularity": 4.3199,
+    "role": "Acting"
+  },
+  {
+    "name": "Tyrese Gibson",
+    "popularity": 4.3186,
+    "role": "Acting"
+  },
+  {
+    "name": "Mariska Hargitay",
+    "popularity": 4.3176,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Peck",
+    "popularity": 4.3175,
+    "role": "Acting"
+  },
+  {
+    "name": "Brendan Fraser",
+    "popularity": 4.3156,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Newman",
+    "popularity": 4.3154,
+    "role": "Acting"
+  },
+  {
+    "name": "Judy Greer",
+    "popularity": 4.3058,
+    "role": "Acting"
+  },
+  {
+    "name": "Benicio del Toro",
+    "popularity": 4.3047,
+    "role": "Acting"
+  },
+  {
+    "name": "Pete Davidson",
+    "popularity": 4.483,
+    "role": "Acting"
+  },
+  {
+    "name": "Steven Yeun",
+    "popularity": 3.9239,
+    "role": "Acting"
+  },
+  {
+    "name": "Mia Goth",
+    "popularity": 4.5936,
+    "role": "Acting"
+  },
+  {
+    "name": "Cristin Milioti",
+    "popularity": 4.5955,
+    "role": "Acting"
+  },
+  {
+    "name": "Tae Hee",
+    "popularity": 4.2969,
+    "role": "Acting"
+  },
+  {
+    "name": "Mark Strong",
+    "popularity": 4.296,
+    "role": "Acting"
+  },
+  {
+    "name": "Don Lee",
+    "popularity": 4.2457,
+    "role": "Acting"
+  },
+  {
+    "name": "Dove Cameron",
+    "popularity": 4.3665,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen Root",
+    "popularity": 4.2887,
+    "role": "Acting"
+  },
+  {
+    "name": "Saoirse Ronan",
+    "popularity": 4.2844,
+    "role": "Acting"
+  },
+  {
+    "name": "Akio Otsuka",
+    "popularity": 4.2819,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeri Ryan",
+    "popularity": 4.5655,
+    "role": "Acting"
+  },
+  {
+    "name": "Park Hyung-sik",
+    "popularity": 4.1717,
+    "role": "Acting"
+  },
+  {
+    "name": "William H. Macy",
+    "popularity": 4.2786,
+    "role": "Acting"
+  },
+  {
+    "name": "Miranda Cosgrove",
+    "popularity": 4.2781,
+    "role": "Acting"
+  },
+  {
+    "name": "Tyler Posey",
+    "popularity": 4.2768,
+    "role": "Acting"
+  },
+  {
+    "name": "John Malkovich",
+    "popularity": 4.2767,
+    "role": "Acting"
+  },
+  {
+    "name": "Dennis Morgan",
+    "popularity": 4.2759,
+    "role": "Acting"
+  },
+  {
+    "name": "Heather Graham",
+    "popularity": 4.2714,
+    "role": "Acting"
+  },
+  {
+    "name": "Madeline Zima",
+    "popularity": 4.3916,
+    "role": "Acting"
+  },
+  {
+    "name": "Philip Seymour Hoffman",
+    "popularity": 4.2705,
+    "role": "Acting"
+  },
+  {
+    "name": "Joe Pesci",
+    "popularity": 4.2696,
+    "role": "Acting"
+  },
+  {
+    "name": "Wamiqa Gabbi",
+    "popularity": 4.1372,
+    "role": "Acting"
+  },
+  {
+    "name": "Grey DeLisle",
+    "popularity": 4.2679,
+    "role": "Acting"
+  },
+  {
+    "name": "Hugh Grant",
+    "popularity": 4.265,
+    "role": "Acting"
+  },
+  {
+    "name": "Taron Egerton",
+    "popularity": 4.1759,
+    "role": "Acting"
+  },
+  {
+    "name": "Alicia Silverstone",
+    "popularity": 4.2637,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Mescal",
+    "popularity": 4.2625,
+    "role": "Acting"
+  },
+  {
+    "name": "Olivia Colman",
+    "popularity": 4.2615,
+    "role": "Acting"
+  },
+  {
+    "name": "Vincent D'Onofrio",
+    "popularity": 4.2595,
+    "role": "Acting"
+  },
+  {
+    "name": "Dev Patel",
+    "popularity": 4.0838,
+    "role": "Acting"
+  },
+  {
+    "name": "Hrithik Roshan",
+    "popularity": 4.4874,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Redford",
+    "popularity": 4.2518,
+    "role": "Acting"
+  },
+  {
+    "name": "Louis Partridge",
+    "popularity": 3.8227,
+    "role": "Acting"
+  },
+  {
+    "name": "Britt Robertson",
+    "popularity": 4.2428,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Basinger",
+    "popularity": 4.241,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Skerritt",
+    "popularity": 4.2393,
+    "role": "Acting"
+  },
+  {
+    "name": "Liv Tyler",
+    "popularity": 4.239,
+    "role": "Acting"
+  },
+  {
+    "name": "Yoo Ji-won",
+    "popularity": 4.772,
+    "role": "Acting"
+  },
+  {
+    "name": "Prabhas",
+    "popularity": 4.5403,
+    "role": "Acting"
+  },
+  {
+    "name": "Helena Bonham Carter",
+    "popularity": 4.2362,
+    "role": "Acting"
+  },
+  {
+    "name": "Kerry Washington",
+    "popularity": 4.236,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Rockwell",
+    "popularity": 4.2286,
+    "role": "Acting"
+  },
+  {
+    "name": "Rei Akasaka",
+    "popularity": 4.0909,
+    "role": "Acting"
+  },
+  {
+    "name": "Bob Odenkirk",
+    "popularity": 4.223,
+    "role": "Acting"
+  },
+  {
+    "name": "Nikolaj Coster-Waldau",
+    "popularity": 4.2225,
+    "role": "Acting"
+  },
+  {
+    "name": "Eléa Rochera",
+    "popularity": 5.8033,
+    "role": "Acting"
+  },
+  {
+    "name": "Sarah Paulson",
+    "popularity": 4.2209,
+    "role": "Acting"
+  },
+  {
+    "name": "Alden Richards",
+    "popularity": 4.1661,
+    "role": "Acting"
+  },
+  {
+    "name": "Akira Kurosawa",
+    "popularity": 4.2164,
+    "role": "Directing"
+  },
+  {
+    "name": "Choi Seung-hyun",
+    "popularity": 4.2152,
+    "role": "Acting"
+  },
+  {
+    "name": "Alan Rickman",
+    "popularity": 4.2133,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Chamberlain",
+    "popularity": 4.2084,
+    "role": "Acting"
+  },
+  {
+    "name": "Carrie Fisher",
+    "popularity": 4.2033,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Go-eun",
+    "popularity": 3.7997,
+    "role": "Acting"
+  },
+  {
+    "name": "John Turturro",
+    "popularity": 4.2025,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Do-hyun",
+    "popularity": 4.2007,
+    "role": "Acting"
+  },
+  {
+    "name": "Alison Brie",
+    "popularity": 3.5264,
+    "role": "Acting"
+  },
+  {
+    "name": "Ricardo Darín",
+    "popularity": 4.2234,
+    "role": "Acting"
+  },
+  {
+    "name": "Robin Wright",
+    "popularity": 4.192,
+    "role": "Acting"
+  },
+  {
+    "name": "Jena Malone",
+    "popularity": 4.1874,
+    "role": "Acting"
+  },
+  {
+    "name": "Brandon Sklenar",
+    "popularity": 4.0486,
+    "role": "Acting"
+  },
+  {
+    "name": "Kathryn Newton",
+    "popularity": 4.1631,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Wesley",
+    "popularity": 4.0159,
+    "role": "Acting"
+  },
+  {
+    "name": "Delroy Lindo",
+    "popularity": 4.1839,
+    "role": "Acting"
+  },
+  {
+    "name": "David Lynch",
+    "popularity": 4.1823,
+    "role": "Directing"
+  },
+  {
+    "name": "Walker Scobell",
+    "popularity": 4.1815,
+    "role": "Acting"
+  },
+  {
+    "name": "Brooke Shields",
+    "popularity": 4.1796,
+    "role": "Acting"
+  },
+  {
+    "name": "Seth Green",
+    "popularity": 4.1749,
+    "role": "Acting"
+  },
+  {
+    "name": "Ridley Scott",
+    "popularity": 4.1716,
+    "role": "Directing"
+  },
+  {
+    "name": "Hikaru Wakana",
+    "popularity": 4.1529,
+    "role": "Acting"
+  },
+  {
+    "name": "Amy Acker",
+    "popularity": 4.09,
+    "role": "Acting"
+  },
+  {
+    "name": "Saori Hayami",
+    "popularity": 4.157,
+    "role": "Acting"
+  },
+  {
+    "name": "Park Shin-hye",
+    "popularity": 4.1551,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Shannon",
+    "popularity": 4.1547,
+    "role": "Acting"
+  },
+  {
+    "name": "Luc Besson",
+    "popularity": 4.1535,
+    "role": "Directing"
+  },
+  {
+    "name": "Matthew Broderick",
+    "popularity": 4.1492,
+    "role": "Acting"
+  },
+  {
+    "name": "Chikako Aoyama",
+    "popularity": 3.8373,
+    "role": "Acting"
+  },
+  {
+    "name": "Stan Lee",
+    "popularity": 4.1482,
+    "role": "Writing"
+  },
+  {
+    "name": "Yuki Yamada",
+    "popularity": 3.9595,
+    "role": "Acting"
+  },
+  {
+    "name": "Isabel May",
+    "popularity": 4.4006,
+    "role": "Acting"
+  },
+  {
+    "name": "Dafne Keen",
+    "popularity": 4.1429,
+    "role": "Acting"
+  },
+  {
+    "name": "Malin Åkerman",
+    "popularity": 4.1421,
+    "role": "Acting"
+  },
+  {
+    "name": "Harvey Keitel",
+    "popularity": 4.142,
+    "role": "Acting"
+  },
+  {
+    "name": "Baek Se-ri",
+    "popularity": 4.0106,
+    "role": "Acting"
+  },
+  {
+    "name": "Stana Katic",
+    "popularity": 4.1385,
+    "role": "Acting"
+  },
+  {
+    "name": "Tim Robbins",
+    "popularity": 4.1384,
+    "role": "Acting"
+  },
+  {
+    "name": "Candice Bergen",
+    "popularity": 4.1381,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen Chow",
+    "popularity": 4.137,
+    "role": "Acting"
+  },
+  {
+    "name": "Dany Boon",
+    "popularity": 4.1357,
+    "role": "Acting"
+  },
+  {
+    "name": "Daryl Hannah",
+    "popularity": 4.1345,
+    "role": "Acting"
+  },
+  {
+    "name": "Kathryn Bernardo",
+    "popularity": 4.0376,
+    "role": "Acting"
+  },
+  {
+    "name": "James Gunn",
+    "popularity": 4.1322,
+    "role": "Writing"
+  },
+  {
+    "name": "Keiko Kitagawa",
+    "popularity": 3.8965,
+    "role": "Acting"
+  },
+  {
+    "name": "Aaron Paul",
+    "popularity": 4.2012,
+    "role": "Acting"
+  },
+  {
+    "name": "Shiena Yu",
+    "popularity": 4.1272,
+    "role": "Acting"
+  },
+  {
+    "name": "Miley Cyrus",
+    "popularity": 3.9121,
+    "role": "Acting"
+  },
+  {
+    "name": "Wang Yibo",
+    "popularity": 4.4507,
+    "role": "Acting"
+  },
+  {
+    "name": "Jordana Brewster",
+    "popularity": 4.1259,
+    "role": "Acting"
+  },
+  {
+    "name": "Kareena Kapoor Khan",
+    "popularity": 4.1255,
+    "role": "Acting"
+  },
+  {
+    "name": "Tim Blake Nelson",
+    "popularity": 4.1184,
+    "role": "Acting"
+  },
+  {
+    "name": "Alex Garland",
+    "popularity": 4.1167,
+    "role": "Writing"
+  },
+  {
+    "name": "Bruce Greenwood",
+    "popularity": 4.1138,
+    "role": "Acting"
+  },
+  {
+    "name": "Pamela Anderson",
+    "popularity": 4.1138,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Hader",
+    "popularity": 4.1083,
+    "role": "Acting"
+  },
+  {
+    "name": "Mimi Rogers",
+    "popularity": 4.1073,
+    "role": "Acting"
+  },
+  {
+    "name": "Martin Freeman",
+    "popularity": 4.1031,
+    "role": "Acting"
+  },
+  {
+    "name": "Adam Brody",
+    "popularity": 4.103,
+    "role": "Acting"
+  },
+  {
+    "name": "Gérard Depardieu",
+    "popularity": 4.1005,
+    "role": "Acting"
+  },
+  {
+    "name": "Nick Frost",
+    "popularity": 4.1001,
+    "role": "Acting"
+  },
+  {
+    "name": "Giovanni Ribisi",
+    "popularity": 4.0998,
+    "role": "Acting"
+  },
+  {
+    "name": "Leonie Vincent",
+    "popularity": 4.0997,
+    "role": "Acting"
+  },
+  {
+    "name": "Octavia Spencer",
+    "popularity": 4.0991,
+    "role": "Acting"
+  },
+  {
+    "name": "Vivian Hsu",
+    "popularity": 3.3259,
+    "role": "Acting"
+  },
+  {
+    "name": "Steve Martin",
+    "popularity": 4.0963,
+    "role": "Acting"
+  },
+  {
+    "name": "Dai Gaozheng",
+    "popularity": 4.0949,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Morrison",
+    "popularity": 4.0565,
+    "role": "Acting"
+  },
+  {
+    "name": "Jodi Lyn O'Keefe",
+    "popularity": 4.0907,
+    "role": "Acting"
+  },
+  {
+    "name": "Steve Burton",
+    "popularity": 4.0876,
+    "role": "Acting"
+  },
+  {
+    "name": "Connie Britton",
+    "popularity": 3.9622,
+    "role": "Acting"
+  },
+  {
+    "name": "Helen Hunt",
+    "popularity": 4.086,
+    "role": "Acting"
+  },
+  {
+    "name": "Yuki Kaji",
+    "popularity": 4.1144,
+    "role": "Acting"
+  },
+  {
+    "name": "Hilary Duff",
+    "popularity": 4.0818,
+    "role": "Acting"
+  },
+  {
+    "name": "Tyler Perry",
+    "popularity": 4.8513,
+    "role": "Acting"
+  },
+  {
+    "name": "Jesse Eisenberg",
+    "popularity": 4.0789,
+    "role": "Acting"
+  },
+  {
+    "name": "Park So-dam",
+    "popularity": 4.0763,
+    "role": "Acting"
+  },
+  {
+    "name": "Kajol",
+    "popularity": 4.0743,
+    "role": "Acting"
+  },
+  {
+    "name": "Hitomi Shiraishi",
+    "popularity": 4.1918,
+    "role": "Acting"
+  },
+  {
+    "name": "Yang Xing",
+    "popularity": 4.07,
+    "role": "Acting"
+  },
+  {
+    "name": "Ralph Macchio",
+    "popularity": 4.0677,
+    "role": "Acting"
+  },
+  {
+    "name": "Ann-Margret",
+    "popularity": 4.0669,
+    "role": "Acting"
+  },
+  {
+    "name": "Jared Harris",
+    "popularity": 4.0649,
+    "role": "Acting"
+  },
+  {
+    "name": "Meg Ryan",
+    "popularity": 4.0648,
+    "role": "Acting"
+  },
+  {
+    "name": "Kyle MacLachlan",
+    "popularity": 4.0631,
+    "role": "Acting"
+  },
+  {
+    "name": "Aamir Khan",
+    "popularity": 4.0627,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Min-jae",
+    "popularity": 4.0614,
+    "role": "Acting"
+  },
+  {
+    "name": "Fahadh Faasil",
+    "popularity": 4.3711,
+    "role": "Acting"
+  },
+  {
+    "name": "Zachary Levi",
+    "popularity": 4.5432,
+    "role": "Acting"
+  },
+  {
+    "name": "Hayden Panettiere",
+    "popularity": 4.0511,
+    "role": "Acting"
+  },
+  {
+    "name": "Christoph Waltz",
+    "popularity": 4.0471,
+    "role": "Acting"
+  },
+  {
+    "name": "Shannon Tweed",
+    "popularity": 4.0451,
+    "role": "Acting"
+  },
+  {
+    "name": "Bong Joon Ho",
+    "popularity": 4.0445,
+    "role": "Directing"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "popularity": 4.0436,
+    "role": "Acting"
+  },
+  {
+    "name": "Emmanuelle Chriqui",
+    "popularity": 4.0432,
+    "role": "Acting"
+  },
+  {
+    "name": "Linda Hamilton",
+    "popularity": 4.0432,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Rapaport",
+    "popularity": 4.0428,
+    "role": "Acting"
+  },
+  {
+    "name": "Lovie Simone",
+    "popularity": 4.5341,
+    "role": "Acting"
+  },
+  {
+    "name": "Ji Eun-seo",
+    "popularity": 4.0387,
+    "role": "Acting"
+  },
+  {
+    "name": "Nijiro Murakami",
+    "popularity": 3.6656,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeremy Allen White",
+    "popularity": 4.036,
+    "role": "Acting"
+  },
+  {
+    "name": "Camila Mendes",
+    "popularity": 3.849,
+    "role": "Acting"
+  },
+  {
+    "name": "Omar Epps",
+    "popularity": 4.0331,
+    "role": "Acting"
+  },
+  {
+    "name": "Rainn Wilson",
+    "popularity": 4.0259,
+    "role": "Acting"
+  },
+  {
+    "name": "Hayao Miyazaki",
+    "popularity": 4.0225,
+    "role": "Directing"
+  },
+  {
+    "name": "Chad Michael Murray",
+    "popularity": 4.1237,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris Columbus",
+    "popularity": 4.0216,
+    "role": "Directing"
+  },
+  {
+    "name": "Robert Rodriguez",
+    "popularity": 4.0213,
+    "role": "Directing"
+  },
+  {
+    "name": "Phoebe Waller-Bridge",
+    "popularity": 3.6151,
+    "role": "Acting"
+  },
+  {
+    "name": "Natsuki Hanae",
+    "popularity": 4.3636,
+    "role": "Acting"
+  },
+  {
+    "name": "Robin Tunney",
+    "popularity": 4.0169,
+    "role": "Acting"
+  },
+  {
+    "name": "Ju Ji-hoon",
+    "popularity": 3.8667,
+    "role": "Acting"
+  },
+  {
+    "name": "Patrick Warburton",
+    "popularity": 4.0167,
+    "role": "Acting"
+  },
+  {
+    "name": "Ciarán Hinds",
+    "popularity": 4.0159,
+    "role": "Acting"
+  },
+  {
+    "name": "Thomasin McKenzie",
+    "popularity": 4.0651,
+    "role": "Acting"
+  },
+  {
+    "name": "Jenn Rosa",
+    "popularity": 4.013,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Knepper",
+    "popularity": 4.0122,
+    "role": "Acting"
+  },
+  {
+    "name": "Laura Dern",
+    "popularity": 4.0116,
+    "role": "Acting"
+  },
+  {
+    "name": "Mädchen Amick",
+    "popularity": 4.0082,
+    "role": "Acting"
+  },
+  {
+    "name": "Scott Glenn",
+    "popularity": 4.0079,
+    "role": "Acting"
+  },
+  {
+    "name": "Debby Ryan",
+    "popularity": 3.8254,
+    "role": "Acting"
+  },
+  {
+    "name": "Catherine O'Hara",
+    "popularity": 4.0062,
+    "role": "Acting"
+  },
+  {
+    "name": "Pam Ferris",
+    "popularity": 4.0021,
+    "role": "Acting"
+  },
+  {
+    "name": "Pam Ferris",
+    "popularity": 4.0021,
+    "role": "Acting"
+  },
+  {
+    "name": "Donald Sutherland",
+    "popularity": 4.0014,
+    "role": "Acting"
+  },
+  {
+    "name": "Uche Montana",
+    "popularity": 4.0005,
+    "role": "Acting"
+  },
+  {
+    "name": "Amber Marshall",
+    "popularity": 3.8736,
+    "role": "Acting"
+  },
+  {
+    "name": "Maya Rudolph",
+    "popularity": 4.0,
+    "role": "Acting"
+  },
+  {
+    "name": "Kenan Thompson",
+    "popularity": 4.1613,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlton Heston",
+    "popularity": 3.9943,
+    "role": "Acting"
+  },
+  {
+    "name": "Rachel Brosnahan",
+    "popularity": 4.1753,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Cera",
+    "popularity": 3.9888,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Felton",
+    "popularity": 3.985,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack Schumacher",
+    "popularity": 3.9813,
+    "role": "Acting"
+  },
+  {
+    "name": "Patricia Arquette",
+    "popularity": 3.9808,
+    "role": "Acting"
+  },
+  {
+    "name": "Kelsey Grammer",
+    "popularity": 3.9766,
+    "role": "Acting"
+  },
+  {
+    "name": "Lisa Ann Walter",
+    "popularity": 3.975,
+    "role": "Acting"
+  },
+  {
+    "name": "Ming-Na Wen",
+    "popularity": 3.9725,
+    "role": "Acting"
+  },
+  {
+    "name": "Neslişah Akray Güven",
+    "popularity": 3.972,
+    "role": "Acting"
+  },
+  {
+    "name": "Lewis Milestone",
+    "popularity": 3.9713,
+    "role": "Directing"
+  },
+  {
+    "name": "Sonakshi Sinha",
+    "popularity": 3.9679,
+    "role": "Acting"
+  },
+  {
+    "name": "Christopher Lee",
+    "popularity": 3.9685,
+    "role": "Acting"
+  },
+  {
+    "name": "Regina Hall",
+    "popularity": 3.9656,
+    "role": "Acting"
+  },
+  {
+    "name": "Dougray Scott",
+    "popularity": 3.9621,
+    "role": "Acting"
+  },
+  {
+    "name": "Rashida Jones",
+    "popularity": 3.7046,
+    "role": "Acting"
+  },
+  {
+    "name": "Haley Joel Osment",
+    "popularity": 3.9609,
+    "role": "Acting"
+  },
+  {
+    "name": "Jane Lynch",
+    "popularity": 3.9578,
+    "role": "Acting"
+  },
+  {
+    "name": "Hwang In-yeop",
+    "popularity": 3.954,
+    "role": "Acting"
+  },
+  {
+    "name": "Kento Yamazaki",
+    "popularity": 3.6128,
+    "role": "Acting"
+  },
+  {
+    "name": "Aaron Eckhart",
+    "popularity": 3.9522,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Beals",
+    "popularity": 3.9503,
+    "role": "Acting"
+  },
+  {
+    "name": "Nick Nolte",
+    "popularity": 3.95,
+    "role": "Acting"
+  },
+  {
+    "name": "Lukas Haas",
+    "popularity": 3.9498,
+    "role": "Acting"
+  },
+  {
+    "name": "John Wayne",
+    "popularity": 3.9495,
+    "role": "Acting"
+  },
+  {
+    "name": "Thandiwe Newton",
+    "popularity": 3.9467,
+    "role": "Acting"
+  },
+  {
+    "name": "Mason Gooding",
+    "popularity": 3.9456,
+    "role": "Acting"
+  },
+  {
+    "name": "James Wan",
+    "popularity": 3.9449,
+    "role": "Directing"
+  },
+  {
+    "name": "Djimon Hounsou",
+    "popularity": 3.9442,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Paxton",
+    "popularity": 3.9407,
+    "role": "Acting"
+  },
+  {
+    "name": "LISA",
+    "popularity": 3.8345,
+    "role": "Acting"
+  },
+  {
+    "name": "Donnie Wahlberg",
+    "popularity": 3.9375,
+    "role": "Acting"
+  },
+  {
+    "name": "Lupita Nyong'o",
+    "popularity": 3.9612,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Tilly",
+    "popularity": 3.9359,
+    "role": "Acting"
+  },
+  {
+    "name": "Diane Keaton",
+    "popularity": 3.9351,
+    "role": "Acting"
+  },
+  {
+    "name": "Priyanka Chopra Jonas",
+    "popularity": 4.0518,
+    "role": "Acting"
+  },
+  {
+    "name": "David Fincher",
+    "popularity": 3.9325,
+    "role": "Directing"
+  },
+  {
+    "name": "Katrina Law",
+    "popularity": 3.7127,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Schwartz",
+    "popularity": 3.9312,
+    "role": "Acting"
+  },
+  {
+    "name": "Sofia Kappel",
+    "popularity": 3.9288,
+    "role": "Acting"
+  },
+  {
+    "name": "Eva Longoria",
+    "popularity": 3.9285,
+    "role": "Acting"
+  },
+  {
+    "name": "Carmen Electra",
+    "popularity": 3.9284,
+    "role": "Acting"
+  },
+  {
+    "name": "Sienna Miller",
+    "popularity": 3.9269,
+    "role": "Acting"
+  },
+  {
+    "name": "Billy Bob Thornton",
+    "popularity": 3.9264,
+    "role": "Acting"
+  },
+  {
+    "name": "Danielle Brooks",
+    "popularity": 3.9255,
+    "role": "Acting"
+  },
+  {
+    "name": "Emile Hirsch",
+    "popularity": 3.9228,
+    "role": "Acting"
+  },
+  {
+    "name": "Liam Hemsworth",
+    "popularity": 3.9177,
+    "role": "Acting"
+  },
+  {
+    "name": "Joel Edgerton",
+    "popularity": 3.9168,
+    "role": "Acting"
+  },
+  {
+    "name": "René Auberjonois",
+    "popularity": 3.9164,
+    "role": "Acting"
+  },
+  {
+    "name": "Cara Delevingne",
+    "popularity": 3.6673,
+    "role": "Acting"
+  },
+  {
+    "name": "Koichi Yamadera",
+    "popularity": 3.916,
+    "role": "Acting"
+  },
+  {
+    "name": "Imogen Poots",
+    "popularity": 3.9159,
+    "role": "Acting"
+  },
+  {
+    "name": "Xiao Zhan",
+    "popularity": 3.9146,
+    "role": "Acting"
+  },
+  {
+    "name": "Lucy Hale",
+    "popularity": 4.0727,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Bettany",
+    "popularity": 3.9108,
+    "role": "Acting"
+  },
+  {
+    "name": "Dustin Hoffman",
+    "popularity": 3.9106,
+    "role": "Acting"
+  },
+  {
+    "name": "Ray Winstone",
+    "popularity": 3.9106,
+    "role": "Acting"
+  },
+  {
+    "name": "Danny Glover",
+    "popularity": 3.9098,
+    "role": "Acting"
+  },
+  {
+    "name": "Alfred Molina",
+    "popularity": 3.9063,
+    "role": "Acting"
+  },
+  {
+    "name": "Adil Hussain",
+    "popularity": 3.5769,
+    "role": "Acting"
+  },
+  {
+    "name": "Deva Cassel",
+    "popularity": 3.9031,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhang Miaoyi",
+    "popularity": 3.9023,
+    "role": "Acting"
+  },
+  {
+    "name": "Andie MacDowell",
+    "popularity": 3.9018,
+    "role": "Acting"
+  },
+  {
+    "name": "Catherine Bell",
+    "popularity": 3.901,
+    "role": "Acting"
+  },
+  {
+    "name": "Olivia Cooke",
+    "popularity": 3.9104,
+    "role": "Acting"
+  },
+  {
+    "name": "Greta Gerwig",
+    "popularity": 3.8918,
+    "role": "Acting"
+  },
+  {
+    "name": "Mélanie Laurent",
+    "popularity": 3.8907,
+    "role": "Acting"
+  },
+  {
+    "name": "John Leguizamo",
+    "popularity": 3.8905,
+    "role": "Acting"
+  },
+  {
+    "name": "James Caan",
+    "popularity": 3.8894,
+    "role": "Acting"
+  },
+  {
+    "name": "Kenneth Branagh",
+    "popularity": 3.8893,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Hee-jeong",
+    "popularity": 3.8891,
+    "role": "Acting"
+  },
+  {
+    "name": "Jung Hae-in",
+    "popularity": 3.8886,
+    "role": "Acting"
+  },
+  {
+    "name": "Ken Jeong",
+    "popularity": 4.228,
+    "role": "Acting"
+  },
+  {
+    "name": "Haley Bennett",
+    "popularity": 3.3298,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Madsen",
+    "popularity": 3.884,
+    "role": "Acting"
+  },
+  {
+    "name": "Chloe Bennet",
+    "popularity": 3.8825,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhou Yiran",
+    "popularity": 3.8812,
+    "role": "Acting"
+  },
+  {
+    "name": "Sophia Bush",
+    "popularity": 3.8801,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim In-ae",
+    "popularity": 3.9076,
+    "role": "Acting"
+  },
+  {
+    "name": "Neil Patrick Harris",
+    "popularity": 3.8767,
+    "role": "Acting"
+  },
+  {
+    "name": "Bruce Campbell",
+    "popularity": 3.8749,
+    "role": "Acting"
+  },
+  {
+    "name": "Sanaa Lathan",
+    "popularity": 3.8727,
+    "role": "Acting"
+  },
+  {
+    "name": "Ron Howard",
+    "popularity": 3.8723,
+    "role": "Directing"
+  },
+  {
+    "name": "Nobuhiko Okamoto",
+    "popularity": 3.9052,
+    "role": "Acting"
+  },
+  {
+    "name": "Sabrina Zhuang",
+    "popularity": 3.8698,
+    "role": "Acting"
+  },
+  {
+    "name": "Minnie Driver",
+    "popularity": 3.8691,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Cooper Jr.",
+    "popularity": 3.8687,
+    "role": "Acting"
+  },
+  {
+    "name": "James Hong",
+    "popularity": 3.8684,
+    "role": "Acting"
+  },
+  {
+    "name": "LaKeith Stanfield",
+    "popularity": 3.9041,
+    "role": "Acting"
+  },
+  {
+    "name": "Wilford Brimley",
+    "popularity": 3.8634,
+    "role": "Acting"
+  },
+  {
+    "name": "Meagan Good",
+    "popularity": 3.8592,
+    "role": "Acting"
+  },
+  {
+    "name": "Aldis Hodge",
+    "popularity": 3.4766,
+    "role": "Acting"
+  },
+  {
+    "name": "John Rhys-Davies",
+    "popularity": 3.8571,
+    "role": "Acting"
+  },
+  {
+    "name": "David Tennant",
+    "popularity": 3.9665,
+    "role": "Acting"
+  },
+  {
+    "name": "Maaya Uchida",
+    "popularity": 3.746,
+    "role": "Acting"
+  },
+  {
+    "name": "JISOO",
+    "popularity": 3.8504,
+    "role": "Acting"
+  },
+  {
+    "name": "Tina Fey",
+    "popularity": 3.8499,
+    "role": "Acting"
+  },
+  {
+    "name": "Jean Smart",
+    "popularity": 3.8499,
+    "role": "Acting"
+  },
+  {
+    "name": "Dave Chappelle",
+    "popularity": 3.8493,
+    "role": "Acting"
+  },
+  {
+    "name": "İbrahim Çelikkol",
+    "popularity": 3.7774,
+    "role": "Acting"
+  },
+  {
+    "name": "Alan Tudyk",
+    "popularity": 3.8452,
+    "role": "Acting"
+  },
+  {
+    "name": "David Hasselhoff",
+    "popularity": 3.8449,
+    "role": "Acting"
+  },
+  {
+    "name": "John Hurt",
+    "popularity": 3.8427,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeff Bennett",
+    "popularity": 3.8424,
+    "role": "Acting"
+  },
+  {
+    "name": "Joseph Morgan",
+    "popularity": 3.6655,
+    "role": "Acting"
+  },
+  {
+    "name": "Luis Guzmán",
+    "popularity": 3.8389,
+    "role": "Acting"
+  },
+  {
+    "name": "Kriti Sanon",
+    "popularity": 4.4132,
+    "role": "Acting"
+  },
+  {
+    "name": "Alice Braga",
+    "popularity": 3.8362,
+    "role": "Acting"
+  },
+  {
+    "name": "Max Thieriot",
+    "popularity": 3.8354,
+    "role": "Acting"
+  },
+  {
+    "name": "Glenn Close",
+    "popularity": 3.8353,
+    "role": "Acting"
+  },
+  {
+    "name": "Rooney Mara",
+    "popularity": 4.1693,
+    "role": "Acting"
+  },
+  {
+    "name": "Léa Seydoux",
+    "popularity": 4.1173,
+    "role": "Acting"
+  },
+  {
+    "name": "Nayanthara",
+    "popularity": 4.0307,
+    "role": "Acting"
+  },
+  {
+    "name": "Ruby Rose",
+    "popularity": 3.6927,
+    "role": "Acting"
+  },
+  {
+    "name": "Chuck Norris",
+    "popularity": 3.8287,
+    "role": "Acting"
+  },
+  {
+    "name": "Luke Wilson",
+    "popularity": 3.8269,
+    "role": "Acting"
+  },
+  {
+    "name": "Laura Harrier",
+    "popularity": 3.4727,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonathan Rhys Meyers",
+    "popularity": 3.8255,
+    "role": "Acting"
+  },
+  {
+    "name": "Macaulay Culkin",
+    "popularity": 3.8253,
+    "role": "Acting"
+  },
+  {
+    "name": "Willa Fitzgerald",
+    "popularity": 3.4743,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Weller",
+    "popularity": 3.8218,
+    "role": "Acting"
+  },
+  {
+    "name": "Roddy McDowall",
+    "popularity": 3.8199,
+    "role": "Acting"
+  },
+  {
+    "name": "Christian Camargo",
+    "popularity": 3.3053,
+    "role": "Acting"
+  },
+  {
+    "name": "Can Yaman",
+    "popularity": 3.7997,
+    "role": "Acting"
+  },
+  {
+    "name": "Devon Bostick",
+    "popularity": 3.8174,
+    "role": "Acting"
+  },
+  {
+    "name": "Wenwen Han",
+    "popularity": 3.8168,
+    "role": "Acting"
+  },
+  {
+    "name": "Miray Daner",
+    "popularity": 3.3927,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlotte Gainsbourg",
+    "popularity": 3.8158,
+    "role": "Acting"
+  },
+  {
+    "name": "Koki Uchiyama",
+    "popularity": 4.1261,
+    "role": "Acting"
+  },
+  {
+    "name": "Kit Connor",
+    "popularity": 3.8132,
+    "role": "Acting"
+  },
+  {
+    "name": "Vanessa Redgrave",
+    "popularity": 3.8132,
+    "role": "Acting"
+  },
+  {
+    "name": "Haley Lu Richardson",
+    "popularity": 3.6039,
+    "role": "Acting"
+  },
+  {
+    "name": "Joel Kinnaman",
+    "popularity": 3.9717,
+    "role": "Acting"
+  },
+  {
+    "name": "Denise Gough",
+    "popularity": 3.4785,
+    "role": "Acting"
+  },
+  {
+    "name": "Denise Gough",
+    "popularity": 3.4785,
+    "role": "Acting"
+  },
+  {
+    "name": "Ray Stevenson",
+    "popularity": 3.8077,
+    "role": "Acting"
+  },
+  {
+    "name": "Ashley Williams",
+    "popularity": 3.5283,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlie Day",
+    "popularity": 4.1859,
+    "role": "Acting"
+  },
+  {
+    "name": "Wayne Knight",
+    "popularity": 3.8063,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Grey",
+    "popularity": 3.8059,
+    "role": "Acting"
+  },
+  {
+    "name": "Graham Greene",
+    "popularity": 3.8052,
+    "role": "Acting"
+  },
+  {
+    "name": "J.J. Abrams",
+    "popularity": 3.8019,
+    "role": "Directing"
+  },
+  {
+    "name": "Peter Sarsgaard",
+    "popularity": 3.8005,
+    "role": "Acting"
+  },
+  {
+    "name": "Joanna Lumley",
+    "popularity": 3.7973,
+    "role": "Acting"
+  },
+  {
+    "name": "C. Thomas Howell",
+    "popularity": 3.7944,
+    "role": "Acting"
+  },
+  {
+    "name": "James Earl Jones",
+    "popularity": 3.7914,
+    "role": "Acting"
+  },
+  {
+    "name": "Julianne Nicholson",
+    "popularity": 3.6745,
+    "role": "Acting"
+  },
+  {
+    "name": "Valeria Golino",
+    "popularity": 3.7905,
+    "role": "Acting"
+  },
+  {
+    "name": "Andrew Stanton",
+    "popularity": 3.789,
+    "role": "Writing"
+  },
+  {
+    "name": "Carey Mulligan",
+    "popularity": 3.7854,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Sudeikis",
+    "popularity": 3.7837,
+    "role": "Acting"
+  },
+  {
+    "name": "Mark Williams",
+    "popularity": 2.8068,
+    "role": "Production"
+  },
+  {
+    "name": "Jessie Mei Li",
+    "popularity": 3.783,
+    "role": "Acting"
+  },
+  {
+    "name": "Aiko Garcia",
+    "popularity": 3.782,
+    "role": "Acting"
+  },
+  {
+    "name": "Shea Whigham",
+    "popularity": 3.5943,
+    "role": "Acting"
+  },
+  {
+    "name": "Olivia Munn",
+    "popularity": 3.5763,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris Rock",
+    "popularity": 3.7806,
+    "role": "Acting"
+  },
+  {
+    "name": "Jaimie Alexander",
+    "popularity": 3.7802,
+    "role": "Acting"
+  },
+  {
+    "name": "Jon Favreau",
+    "popularity": 3.7791,
+    "role": "Acting"
+  },
+  {
+    "name": "S. J. Suryah",
+    "popularity": 3.7055,
+    "role": "Acting"
+  },
+  {
+    "name": "Janhvi Kapoor",
+    "popularity": 3.6411,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Gleason",
+    "popularity": 3.7768,
+    "role": "Acting"
+  },
+  {
+    "name": "Paula Patton",
+    "popularity": 3.7765,
+    "role": "Acting"
+  },
+  {
+    "name": "Kenta Miyake",
+    "popularity": 3.7753,
+    "role": "Acting"
+  },
+  {
+    "name": "Carina Lau",
+    "popularity": 3.774,
+    "role": "Acting"
+  },
+  {
+    "name": "Seo Won",
+    "popularity": 3.6882,
+    "role": "Acting"
+  },
+  {
+    "name": "Oprah Winfrey",
+    "popularity": 3.7679,
+    "role": "Acting"
+  },
+  {
+    "name": "Terrence Howard",
+    "popularity": 3.7665,
+    "role": "Acting"
+  },
+  {
+    "name": "Annette Bening",
+    "popularity": 3.764,
+    "role": "Acting"
+  },
+  {
+    "name": "Chevy Chase",
+    "popularity": 3.7634,
+    "role": "Acting"
+  },
+  {
+    "name": "Beverly D'Angelo",
+    "popularity": 3.7632,
+    "role": "Acting"
+  },
+  {
+    "name": "Keegan-Michael Key",
+    "popularity": 3.8248,
+    "role": "Acting"
+  },
+  {
+    "name": "Callum Turner",
+    "popularity": 3.7726,
+    "role": "Acting"
+  },
+  {
+    "name": "Sora Amamiya",
+    "popularity": 3.6902,
+    "role": "Acting"
+  },
+  {
+    "name": "Akira Ishida",
+    "popularity": 3.548,
+    "role": "Acting"
+  },
+  {
+    "name": "Patrick Dempsey",
+    "popularity": 3.7576,
+    "role": "Acting"
+  },
+  {
+    "name": "Alan Cumming",
+    "popularity": 3.7575,
+    "role": "Acting"
+  },
+  {
+    "name": "Denis Villeneuve",
+    "popularity": 3.1909,
+    "role": "Directing"
+  },
+  {
+    "name": "Cole Sprouse",
+    "popularity": 3.757,
+    "role": "Acting"
+  },
+  {
+    "name": "Jim Broadbent",
+    "popularity": 3.7533,
+    "role": "Acting"
+  },
+  {
+    "name": "Corbin Bernsen",
+    "popularity": 3.753,
+    "role": "Acting"
+  },
+  {
+    "name": "Percy Hynes White",
+    "popularity": 3.7528,
+    "role": "Acting"
+  },
+  {
+    "name": "Laiba Khan",
+    "popularity": 3.7518,
+    "role": "Acting"
+  },
+  {
+    "name": "Domhnall Gleeson",
+    "popularity": 3.7657,
+    "role": "Acting"
+  },
+  {
+    "name": "Alfred Hitchcock",
+    "popularity": 3.7494,
+    "role": "Directing"
+  },
+  {
+    "name": "Molly Parker",
+    "popularity": 3.7491,
+    "role": "Acting"
+  },
+  {
+    "name": "Nao Toyama",
+    "popularity": 3.7485,
+    "role": "Acting"
+  },
+  {
+    "name": "David Schwimmer",
+    "popularity": 3.7475,
+    "role": "Acting"
+  },
+  {
+    "name": "Eric André",
+    "popularity": 4.1371,
+    "role": "Acting"
+  },
+  {
+    "name": "Noomi Rapace",
+    "popularity": 3.9888,
+    "role": "Acting"
+  },
+  {
+    "name": "Kathy Bates",
+    "popularity": 3.7458,
+    "role": "Acting"
+  },
+  {
+    "name": "James Stewart",
+    "popularity": 3.7456,
+    "role": "Acting"
+  },
+  {
+    "name": "Simon Baker",
+    "popularity": 3.6037,
+    "role": "Acting"
+  },
+  {
+    "name": "Bronte Carmichael",
+    "popularity": 3.8168,
+    "role": "Acting"
+  },
+  {
+    "name": "James Woods",
+    "popularity": 3.7369,
+    "role": "Acting"
+  },
+  {
+    "name": "Eliza Dushku",
+    "popularity": 3.7352,
+    "role": "Acting"
+  },
+  {
+    "name": "Dean Norris",
+    "popularity": 3.7331,
+    "role": "Acting"
+  },
+  {
+    "name": "Anthony Anderson",
+    "popularity": 3.7297,
+    "role": "Acting"
+  },
+  {
+    "name": "Elizabeth Montgomery",
+    "popularity": 3.7285,
+    "role": "Acting"
+  },
+  {
+    "name": "Ananya Panday",
+    "popularity": 3.6445,
+    "role": "Acting"
+  },
+  {
+    "name": "Anthony Michael Hall",
+    "popularity": 3.7268,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeffrey Tambor",
+    "popularity": 3.7266,
+    "role": "Acting"
+  },
+  {
+    "name": "Julie Andrews",
+    "popularity": 3.7247,
+    "role": "Acting"
+  },
+  {
+    "name": "Lucy Lawless",
+    "popularity": 3.7219,
+    "role": "Acting"
+  },
+  {
+    "name": "Suzu Hirose",
+    "popularity": 3.7197,
+    "role": "Acting"
+  },
+  {
+    "name": "Gabriela Andrada",
+    "popularity": 3.7172,
+    "role": "Acting"
+  },
+  {
+    "name": "James Remar",
+    "popularity": 3.7157,
+    "role": "Acting"
+  },
+  {
+    "name": "Maureen McCormick",
+    "popularity": 3.7371,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Sheen",
+    "popularity": 3.7148,
+    "role": "Acting"
+  },
+  {
+    "name": "Miwako Kakei",
+    "popularity": 3.2355,
+    "role": "Acting"
+  },
+  {
+    "name": "Christina Applegate",
+    "popularity": 3.7122,
+    "role": "Acting"
+  },
+  {
+    "name": "Ivana Miličević",
+    "popularity": 3.7097,
+    "role": "Acting"
+  },
+  {
+    "name": "Engin Akyürek",
+    "popularity": 3.5919,
+    "role": "Acting"
+  },
+  {
+    "name": "Iain Armitage",
+    "popularity": 3.6923,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Harmon",
+    "popularity": 3.797,
+    "role": "Acting"
+  },
+  {
+    "name": "José Zúñiga",
+    "popularity": 3.7006,
+    "role": "Acting"
+  },
+  {
+    "name": "Gary Busey",
+    "popularity": 3.6995,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Falk",
+    "popularity": 3.6995,
+    "role": "Acting"
+  },
+  {
+    "name": "Bruce Lee",
+    "popularity": 3.6987,
+    "role": "Acting"
+  },
+  {
+    "name": "Vijay Deverakonda",
+    "popularity": 3.8632,
+    "role": "Acting"
+  },
+  {
+    "name": "Cameron Monaghan",
+    "popularity": 3.6971,
+    "role": "Acting"
+  },
+  {
+    "name": "Joo Yeon-seo",
+    "popularity": 3.6931,
+    "role": "Acting"
+  },
+  {
+    "name": "Ayane Sakura",
+    "popularity": 4.0281,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeff Satur",
+    "popularity": 3.6905,
+    "role": "Acting"
+  },
+  {
+    "name": "Danai Gurira",
+    "popularity": 3.5979,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen Dorff",
+    "popularity": 3.6857,
+    "role": "Acting"
+  },
+  {
+    "name": "Cheech Marin",
+    "popularity": 3.6855,
+    "role": "Acting"
+  },
+  {
+    "name": "Vern Kaye",
+    "popularity": 3.6851,
+    "role": "Acting"
+  },
+  {
+    "name": "John Williams",
+    "popularity": 3.6816,
+    "role": "Sound"
+  },
+  {
+    "name": "Peyton List",
+    "popularity": 3.8217,
+    "role": "Acting"
+  },
+  {
+    "name": "Adèle Exarchopoulos",
+    "popularity": 3.5758,
+    "role": "Acting"
+  },
+  {
+    "name": "Prosenjit Chatterjee",
+    "popularity": 3.7295,
+    "role": "Acting"
+  },
+  {
+    "name": "Jenna Dewan",
+    "popularity": 3.6766,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Ji-ah",
+    "popularity": 3.6362,
+    "role": "Acting"
+  },
+  {
+    "name": "Rene Russo",
+    "popularity": 3.6755,
+    "role": "Acting"
+  },
+  {
+    "name": "Bonnie Hunt",
+    "popularity": 3.6745,
+    "role": "Acting"
+  },
+  {
+    "name": "Henry Louis Gates, Jr.",
+    "popularity": 3.711,
+    "role": "Acting"
+  },
+  {
+    "name": "T.J. Miller",
+    "popularity": 3.6714,
+    "role": "Acting"
+  },
+  {
+    "name": "Kal Penn",
+    "popularity": 3.6712,
+    "role": "Acting"
+  },
+  {
+    "name": "Sissy Spacek",
+    "popularity": 3.67,
+    "role": "Acting"
+  },
+  {
+    "name": "Jimmi Simpson",
+    "popularity": 3.6699,
+    "role": "Acting"
+  },
+  {
+    "name": "Colleen Camp",
+    "popularity": 3.6675,
+    "role": "Acting"
+  },
+  {
+    "name": "Lisa Rinna",
+    "popularity": 3.412,
+    "role": "Acting"
+  },
+  {
+    "name": "Martin Short",
+    "popularity": 3.6642,
+    "role": "Acting"
+  },
+  {
+    "name": "Rebel Wilson",
+    "popularity": 3.4642,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Alexander",
+    "popularity": 3.6635,
+    "role": "Acting"
+  },
+  {
+    "name": "Bruce McGill",
+    "popularity": 3.6626,
+    "role": "Acting"
+  },
+  {
+    "name": "Bianca de Vera",
+    "popularity": 3.661,
+    "role": "Acting"
+  },
+  {
+    "name": "Antony Starr",
+    "popularity": 3.6609,
+    "role": "Acting"
+  },
+  {
+    "name": "Mekia Cox",
+    "popularity": 3.5376,
+    "role": "Acting"
+  },
+  {
+    "name": "Amy Schumer",
+    "popularity": 3.5692,
+    "role": "Acting"
+  },
+  {
+    "name": "Julie Benz",
+    "popularity": 3.6582,
+    "role": "Acting"
+  },
+  {
+    "name": "Regina King",
+    "popularity": 3.6561,
+    "role": "Acting"
+  },
+  {
+    "name": "Elisabeth Moss",
+    "popularity": 3.651,
+    "role": "Acting"
+  },
+  {
+    "name": "Daisy Ridley",
+    "popularity": 3.787,
+    "role": "Acting"
+  },
+  {
+    "name": "Yoko Hikasa",
+    "popularity": 3.9026,
+    "role": "Acting"
+  },
+  {
+    "name": "Rafe Spall",
+    "popularity": 3.6497,
+    "role": "Acting"
+  },
+  {
+    "name": "Shaun Johnston",
+    "popularity": 3.6331,
+    "role": "Acting"
+  },
+  {
+    "name": "James Corden",
+    "popularity": 3.648,
+    "role": "Acting"
+  },
+  {
+    "name": "George Takei",
+    "popularity": 3.6471,
+    "role": "Acting"
+  },
+  {
+    "name": "Gugu Mbatha-Raw",
+    "popularity": 4.0144,
+    "role": "Acting"
+  },
+  {
+    "name": "Amber Midthunder",
+    "popularity": 3.3971,
+    "role": "Acting"
+  },
+  {
+    "name": "AnnaSophia Robb",
+    "popularity": 3.6448,
+    "role": "Acting"
+  },
+  {
+    "name": "Odette Annable",
+    "popularity": 3.6447,
+    "role": "Acting"
+  },
+  {
+    "name": "Dina Meyer",
+    "popularity": 3.6431,
+    "role": "Acting"
+  },
+  {
+    "name": "Ralph Ineson",
+    "popularity": 3.1686,
+    "role": "Acting"
+  },
+  {
+    "name": "Chloe Bennet",
+    "popularity": 3.8825,
+    "role": "Acting"
+  },
+  {
+    "name": "Gabourey Sidibe",
+    "popularity": 3.4764,
+    "role": "Acting"
+  },
+  {
+    "name": "Jamie Bell",
+    "popularity": 3.637,
+    "role": "Acting"
+  },
+  {
+    "name": "Angela Lansbury",
+    "popularity": 3.6362,
+    "role": "Acting"
+  },
+  {
+    "name": "Sai Pallavi",
+    "popularity": 3.636,
+    "role": "Acting"
+  },
+  {
+    "name": "Jake Lacy",
+    "popularity": 3.303,
+    "role": "Acting"
+  },
+  {
+    "name": "Natasha Richardson",
+    "popularity": 3.6354,
+    "role": "Acting"
+  },
+  {
+    "name": "Dua Lipa",
+    "popularity": 3.5306,
+    "role": "Acting"
+  },
+  {
+    "name": "Boyd Holbrook",
+    "popularity": 3.4695,
+    "role": "Acting"
+  },
+  {
+    "name": "Connie Nielsen",
+    "popularity": 3.6331,
+    "role": "Acting"
+  },
+  {
+    "name": "Issa Rae",
+    "popularity": 3.6329,
+    "role": "Acting"
+  },
+  {
+    "name": "Lizzy Caplan",
+    "popularity": 3.6323,
+    "role": "Acting"
+  },
+  {
+    "name": "Chiwetel Ejiofor",
+    "popularity": 3.6296,
+    "role": "Acting"
+  },
+  {
+    "name": "Carrie-Anne Moss",
+    "popularity": 3.6295,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Durand",
+    "popularity": 3.6284,
+    "role": "Acting"
+  },
+  {
+    "name": "Abigail Spencer",
+    "popularity": 3.2358,
+    "role": "Acting"
+  },
+  {
+    "name": "Ramón Rodríguez",
+    "popularity": 3.6269,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonathan Majors",
+    "popularity": 3.954,
+    "role": "Acting"
+  },
+  {
+    "name": "Dawn Olivieri",
+    "popularity": 3.5417,
+    "role": "Acting"
+  },
+  {
+    "name": "Adel Emam",
+    "popularity": 3.6259,
+    "role": "Acting"
+  },
+  {
+    "name": "Reina Ueda",
+    "popularity": 3.6258,
+    "role": "Acting"
+  },
+  {
+    "name": "George Lucas",
+    "popularity": 3.6255,
+    "role": "Directing"
+  },
+  {
+    "name": "Raquel Welch",
+    "popularity": 3.6237,
+    "role": "Acting"
+  },
+  {
+    "name": "Mandy Moore",
+    "popularity": 3.6223,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Lucas",
+    "popularity": 3.6194,
+    "role": "Acting"
+  },
+  {
+    "name": "Dee Bradley Baker",
+    "popularity": 3.6156,
+    "role": "Acting"
+  },
+  {
+    "name": "Mamoru Miyano",
+    "popularity": 3.7022,
+    "role": "Acting"
+  },
+  {
+    "name": "Orson Welles",
+    "popularity": 3.615,
+    "role": "Directing"
+  },
+  {
+    "name": "Héctor Elizondo",
+    "popularity": 3.6108,
+    "role": "Acting"
+  },
+  {
+    "name": "Song Hye-kyo",
+    "popularity": 3.756,
+    "role": "Acting"
+  },
+  {
+    "name": "Shohreh Aghdashloo",
+    "popularity": 3.61,
+    "role": "Acting"
+  },
+  {
+    "name": "Laura Marano",
+    "popularity": 3.6075,
+    "role": "Acting"
+  },
+  {
+    "name": "Rebecca De Mornay",
+    "popularity": 3.6074,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Burr",
+    "popularity": 3.9472,
+    "role": "Acting"
+  },
+  {
+    "name": "Rufus Sewell",
+    "popularity": 3.607,
+    "role": "Acting"
+  },
+  {
+    "name": "Christopher Plummer",
+    "popularity": 3.6069,
+    "role": "Acting"
+  },
+  {
+    "name": "Fumiya Takahashi",
+    "popularity": 3.6058,
+    "role": "Acting"
+  },
+  {
+    "name": "Doug Jones",
+    "popularity": 3.6054,
+    "role": "Acting"
+  },
+  {
+    "name": "Elisabeth Röhm",
+    "popularity": 3.0337,
+    "role": "Acting"
+  },
+  {
+    "name": "Simu Liu",
+    "popularity": 3.6022,
+    "role": "Acting"
+  },
+  {
+    "name": "Desi Lydic",
+    "popularity": 3.1929,
+    "role": "Acting"
+  },
+  {
+    "name": "Marika Matsumoto",
+    "popularity": 3.1678,
+    "role": "Acting"
+  },
+  {
+    "name": "Sammo Hung",
+    "popularity": 3.8064,
+    "role": "Acting"
+  },
+  {
+    "name": "Jaime Murray",
+    "popularity": 3.5621,
+    "role": "Acting"
+  },
+  {
+    "name": "Atsuko Tanaka",
+    "popularity": 3.597,
+    "role": "Acting"
+  },
+  {
+    "name": "Alban Lenoir",
+    "popularity": 3.6136,
+    "role": "Acting"
+  },
+  {
+    "name": "Rose McGowan",
+    "popularity": 3.5964,
+    "role": "Acting"
+  },
+  {
+    "name": "Aoi Yuki",
+    "popularity": 3.6102,
+    "role": "Acting"
+  },
+  {
+    "name": "Aoi Yuki",
+    "popularity": 3.6102,
+    "role": "Acting"
+  },
+  {
+    "name": "Jake Schreier",
+    "popularity": 3.4308,
+    "role": "Directing"
+  },
+  {
+    "name": "Kaitlyn Santa Juana",
+    "popularity": 3.5953,
+    "role": "Acting"
+  },
+  {
+    "name": "Emily Mortimer",
+    "popularity": 3.5952,
+    "role": "Acting"
+  },
+  {
+    "name": "Catherine Keener",
+    "popularity": 3.5928,
+    "role": "Acting"
+  },
+  {
+    "name": "Jordan Peele",
+    "popularity": 3.7871,
+    "role": "Acting"
+  },
+  {
+    "name": "Ed Skrein",
+    "popularity": 3.5634,
+    "role": "Acting"
+  },
+  {
+    "name": "Samara Weaving",
+    "popularity": 4.1571,
+    "role": "Acting"
+  },
+  {
+    "name": "Nao Toyama",
+    "popularity": 3.7485,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack Weston",
+    "popularity": 3.5847,
+    "role": "Acting"
+  },
+  {
+    "name": "Brenda Blethyn",
+    "popularity": 3.5805,
+    "role": "Acting"
+  },
+  {
+    "name": "Gina Carano",
+    "popularity": 3.8018,
+    "role": "Acting"
+  },
+  {
+    "name": "Topher Grace",
+    "popularity": 3.5795,
+    "role": "Acting"
+  },
+  {
+    "name": "Julie Ann Emery",
+    "popularity": 3.5791,
+    "role": "Acting"
+  },
+  {
+    "name": "Tony Jaa",
+    "popularity": 3.577,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Patrick",
+    "popularity": 3.5768,
+    "role": "Acting"
+  },
+  {
+    "name": "Omar Benson Miller",
+    "popularity": 3.5767,
+    "role": "Acting"
+  },
+  {
+    "name": "Kana Hanazawa",
+    "popularity": 4.0737,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard E. Grant",
+    "popularity": 3.5712,
+    "role": "Acting"
+  },
+  {
+    "name": "Jenny Agutter",
+    "popularity": 3.571,
+    "role": "Acting"
+  },
+  {
+    "name": "Joan Cusack",
+    "popularity": 3.5699,
+    "role": "Acting"
+  },
+  {
+    "name": "Maite Perroni",
+    "popularity": 2.9871,
+    "role": "Acting"
+  },
+  {
+    "name": "Adam Driver",
+    "popularity": 3.4917,
+    "role": "Acting"
+  },
+  {
+    "name": "Yuichi Nakamura",
+    "popularity": 3.5686,
+    "role": "Acting"
+  },
+  {
+    "name": "Katie Holmes",
+    "popularity": 3.5685,
+    "role": "Acting"
+  },
+  {
+    "name": "Snoop Dogg",
+    "popularity": 3.5672,
+    "role": "Acting"
+  },
+  {
+    "name": "Jodie Turner-Smith",
+    "popularity": 3.5997,
+    "role": "Acting"
+  },
+  {
+    "name": "Patrick Swayze",
+    "popularity": 3.5652,
+    "role": "Acting"
+  },
+  {
+    "name": "Steve Coogan",
+    "popularity": 3.5646,
+    "role": "Acting"
+  },
+  {
+    "name": "Aidan Gillen",
+    "popularity": 3.5645,
+    "role": "Acting"
+  },
+  {
+    "name": "Jeff Daniels",
+    "popularity": 3.5631,
+    "role": "Acting"
+  },
+  {
+    "name": "Parker Posey",
+    "popularity": 3.5625,
+    "role": "Acting"
+  },
+  {
+    "name": "Takuya Kimura",
+    "popularity": 3.5616,
+    "role": "Acting"
+  },
+  {
+    "name": "Paddy Considine",
+    "popularity": 3.561,
+    "role": "Acting"
+  },
+  {
+    "name": "Riley Keough",
+    "popularity": 4.01,
+    "role": "Acting"
+  },
+  {
+    "name": "Don Cheadle",
+    "popularity": 3.5582,
+    "role": "Acting"
+  },
+  {
+    "name": "Sean Harris",
+    "popularity": 3.5576,
+    "role": "Acting"
+  },
+  {
+    "name": "Jim Cummings",
+    "popularity": 3.5558,
+    "role": "Acting"
+  },
+  {
+    "name": "Han Ga-hee",
+    "popularity": 3.6924,
+    "role": "Acting"
+  },
+  {
+    "name": "Mary-Louise Parker",
+    "popularity": 3.5534,
+    "role": "Acting"
+  },
+  {
+    "name": "Han Ga-hee",
+    "popularity": 3.6924,
+    "role": "Acting"
+  },
+  {
+    "name": "Mary-Louise Parker",
+    "popularity": 3.5534,
+    "role": "Acting"
+  },
+  {
+    "name": "Frances McDormand",
+    "popularity": 3.5515,
+    "role": "Acting"
+  },
+  {
+    "name": "James Cromwell",
+    "popularity": 3.5514,
+    "role": "Acting"
+  },
+  {
+    "name": "Katherine Waterston",
+    "popularity": 3.2669,
+    "role": "Acting"
+  },
+  {
+    "name": "Britney Spears",
+    "popularity": 3.4829,
+    "role": "Acting"
+  },
+  {
+    "name": "Storm Reid",
+    "popularity": 3.1863,
+    "role": "Acting"
+  },
+  {
+    "name": "Kit Harington",
+    "popularity": 3.6208,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Pitt",
+    "popularity": 3.5445,
+    "role": "Acting"
+  },
+  {
+    "name": "Anne Baxter",
+    "popularity": 3.5422,
+    "role": "Acting"
+  },
+  {
+    "name": "Don Johnson",
+    "popularity": 3.5404,
+    "role": "Acting"
+  },
+  {
+    "name": "Jerry O'Connell",
+    "popularity": 3.5382,
+    "role": "Acting"
+  },
+  {
+    "name": "Claudia Cardinale",
+    "popularity": 3.538,
+    "role": "Acting"
+  },
+  {
+    "name": "Chloë Sevigny",
+    "popularity": 3.5379,
+    "role": "Acting"
+  },
+  {
+    "name": "Jane Fonda",
+    "popularity": 3.5369,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Soo-ji",
+    "popularity": 3.5359,
+    "role": "Acting"
+  },
+  {
+    "name": "Ronda Rousey",
+    "popularity": 3.3702,
+    "role": "Acting"
+  },
+  {
+    "name": "Sharon Cuneta",
+    "popularity": 4.2665,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Ehle",
+    "popularity": 3.5306,
+    "role": "Acting"
+  },
+  {
+    "name": "Francis Ford Coppola",
+    "popularity": 3.5303,
+    "role": "Directing"
+  },
+  {
+    "name": "Mei Nagano",
+    "popularity": 3.3713,
+    "role": "Acting"
+  },
+  {
+    "name": "Joely Richardson",
+    "popularity": 3.5293,
+    "role": "Acting"
+  },
+  {
+    "name": "Marci T. House",
+    "popularity": 3.5286,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Krause",
+    "popularity": 3.5282,
+    "role": "Acting"
+  },
+  {
+    "name": "Sarah Jessica Parker",
+    "popularity": 3.5281,
+    "role": "Acting"
+  },
+  {
+    "name": "Mel Blanc",
+    "popularity": 3.6734,
+    "role": "Acting"
+  },
+  {
+    "name": "Henry Golding",
+    "popularity": 3.6065,
+    "role": "Acting"
+  },
+  {
+    "name": "Satsuki Yukino",
+    "popularity": 3.0361,
+    "role": "Acting"
+  },
+  {
+    "name": "Jin Joo",
+    "popularity": 3.4997,
+    "role": "Acting"
+  },
+  {
+    "name": "Jurnee Smollett",
+    "popularity": 3.5216,
+    "role": "Acting"
+  },
+  {
+    "name": "Hugh Dancy",
+    "popularity": 3.5216,
+    "role": "Acting"
+  },
+  {
+    "name": "Kang Eun-hye",
+    "popularity": 3.5211,
+    "role": "Acting"
+  },
+  {
+    "name": "Gina Torres",
+    "popularity": 3.5206,
+    "role": "Acting"
+  },
+  {
+    "name": "Tia Carrere",
+    "popularity": 3.5196,
+    "role": "Acting"
+  },
+  {
+    "name": "James Brolin",
+    "popularity": 3.5189,
+    "role": "Acting"
+  },
+  {
+    "name": "Hugo Weaving",
+    "popularity": 3.5164,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Kline",
+    "popularity": 3.5162,
+    "role": "Acting"
+  },
+  {
+    "name": "F. Murray Abraham",
+    "popularity": 3.5151,
+    "role": "Acting"
+  },
+  {
+    "name": "Genevieve O'Reilly",
+    "popularity": 3.661,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter O'Toole",
+    "popularity": 3.5144,
+    "role": "Acting"
+  },
+  {
+    "name": "Phoebe Cates",
+    "popularity": 3.5117,
+    "role": "Acting"
+  },
+  {
+    "name": "Davina Karamoy",
+    "popularity": 3.5113,
+    "role": "Acting"
+  },
+  {
+    "name": "Sofia Boutella",
+    "popularity": 3.2712,
+    "role": "Acting"
+  },
+  {
+    "name": "David Cross",
+    "popularity": 3.5082,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Kind",
+    "popularity": 3.5066,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Berenger",
+    "popularity": 3.5065,
+    "role": "Acting"
+  },
+  {
+    "name": "Bob Gunton",
+    "popularity": 3.5065,
+    "role": "Acting"
+  },
+  {
+    "name": "John DiMaggio",
+    "popularity": 3.5054,
+    "role": "Acting"
+  },
+  {
+    "name": "John Schneider",
+    "popularity": 3.1663,
+    "role": "Acting"
+  },
+  {
+    "name": "Minami Hamabe",
+    "popularity": 3.9943,
+    "role": "Acting"
+  },
+  {
+    "name": "Chadwick Boseman",
+    "popularity": 3.2735,
+    "role": "Acting"
+  },
+  {
+    "name": "Fred Tatasciore",
+    "popularity": 3.4965,
+    "role": "Acting"
+  },
+  {
+    "name": "Phil LaMarr",
+    "popularity": 3.4956,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Michael Richardson",
+    "popularity": 3.4951,
+    "role": "Acting"
+  },
+  {
+    "name": "Jessica Tuck",
+    "popularity": 2.9212,
+    "role": "Acting"
+  },
+  {
+    "name": "Matthew Macfadyen",
+    "popularity": 3.4937,
+    "role": "Acting"
+  },
+  {
+    "name": "Tuba Büyüküstün",
+    "popularity": 4.0467,
+    "role": "Acting"
+  },
+  {
+    "name": "Beau Bridges",
+    "popularity": 3.4929,
+    "role": "Acting"
+  },
+  {
+    "name": "Justin Timberlake",
+    "popularity": 3.4923,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Clarke",
+    "popularity": 3.4448,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Clarke",
+    "popularity": 3.4448,
+    "role": "Acting"
+  },
+  {
+    "name": "Loyan Pons de Vier",
+    "popularity": 3.49,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Pace",
+    "popularity": 3.5357,
+    "role": "Acting"
+  },
+  {
+    "name": "Demet Özdemir",
+    "popularity": 3.7017,
+    "role": "Acting"
+  },
+  {
+    "name": "Byeon Woo-seok",
+    "popularity": 3.4888,
+    "role": "Acting"
+  },
+  {
+    "name": "Jamie Dornan",
+    "popularity": 3.6851,
+    "role": "Acting"
+  },
+  {
+    "name": "Martin Sheen",
+    "popularity": 3.4882,
+    "role": "Acting"
+  },
+  {
+    "name": "Cary Elwes",
+    "popularity": 3.4878,
+    "role": "Acting"
+  },
+  {
+    "name": "Derya Pınar Ak",
+    "popularity": 3.4877,
+    "role": "Acting"
+  },
+  {
+    "name": "Sterling K. Brown",
+    "popularity": 3.3915,
+    "role": "Acting"
+  },
+  {
+    "name": "Ellen Burstyn",
+    "popularity": 3.4864,
+    "role": "Acting"
+  },
+  {
+    "name": "Lance Reddick",
+    "popularity": 2.988,
+    "role": "Acting"
+  },
+  {
+    "name": "Wagner Moura",
+    "popularity": 3.4852,
+    "role": "Acting"
+  },
+  {
+    "name": "Makoto Shinkai",
+    "popularity": 3.1786,
+    "role": "Directing"
+  },
+  {
+    "name": "Wang Xuan",
+    "popularity": 3.4822,
+    "role": "Acting"
+  },
+  {
+    "name": "Noel Fisher",
+    "popularity": 3.5619,
+    "role": "Acting"
+  },
+  {
+    "name": "Bailee Madison",
+    "popularity": 3.4803,
+    "role": "Acting"
+  },
+  {
+    "name": "Billy Crudup",
+    "popularity": 3.4801,
+    "role": "Acting"
+  },
+  {
+    "name": "Emma Corrin",
+    "popularity": 3.4795,
+    "role": "Acting"
+  },
+  {
+    "name": "Tony Leung",
+    "popularity": 3.4774,
+    "role": "Acting"
+  },
+  {
+    "name": "AJ Raval",
+    "popularity": 3.4767,
+    "role": "Acting"
+  },
+  {
+    "name": "Heather Locklear",
+    "popularity": 3.4764,
+    "role": "Acting"
+  },
+  {
+    "name": "Goldie Hawn",
+    "popularity": 3.4762,
+    "role": "Acting"
+  },
+  {
+    "name": "Justin Long",
+    "popularity": 3.4751,
+    "role": "Acting"
+  },
+  {
+    "name": "Hugh Dennis",
+    "popularity": 3.0934,
+    "role": "Acting"
+  },
+  {
+    "name": "Sarah Michelle Gellar",
+    "popularity": 3.4742,
+    "role": "Acting"
+  },
+  {
+    "name": "Janet Leigh",
+    "popularity": 3.4706,
+    "role": "Acting"
+  },
+  {
+    "name": "Pam Grier",
+    "popularity": 3.4702,
+    "role": "Acting"
+  },
+  {
+    "name": "Julie Walters",
+    "popularity": 3.4701,
+    "role": "Acting"
+  },
+  {
+    "name": "Leelee Sobieski",
+    "popularity": 3.4698,
+    "role": "Acting"
+  },
+  {
+    "name": "Stanley Kubrick",
+    "popularity": 3.4695,
+    "role": "Directing"
+  },
+  {
+    "name": "Joss Whedon",
+    "popularity": 3.468,
+    "role": "Writing"
+  },
+  {
+    "name": "Cloris Leachman",
+    "popularity": 3.467,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael McKean",
+    "popularity": 3.4664,
+    "role": "Acting"
+  },
+  {
+    "name": "Simon Helberg",
+    "popularity": 3.4548,
+    "role": "Acting"
+  },
+  {
+    "name": "Milo Ventimiglia",
+    "popularity": 3.462,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Majors",
+    "popularity": 3.4614,
+    "role": "Acting"
+  },
+  {
+    "name": "Harold Perrineau",
+    "popularity": 3.4591,
+    "role": "Acting"
+  },
+  {
+    "name": "Go Youn-jung",
+    "popularity": 3.4579,
+    "role": "Acting"
+  },
+  {
+    "name": "Yang Zi",
+    "popularity": 3.373,
+    "role": "Acting"
+  },
+  {
+    "name": "Yang Zi",
+    "popularity": 3.373,
+    "role": "Acting"
+  },
+  {
+    "name": "Ram Charan",
+    "popularity": 3.6682,
+    "role": "Acting"
+  },
+  {
+    "name": "Katsuyuki Konishi",
+    "popularity": 3.4354,
+    "role": "Acting"
+  },
+  {
+    "name": "Dananeer Mobeen",
+    "popularity": 3.4574,
+    "role": "Acting"
+  },
+  {
+    "name": "Til Schweiger",
+    "popularity": 3.4573,
+    "role": "Acting"
+  },
+  {
+    "name": "China Anne McClain",
+    "popularity": 3.338,
+    "role": "Acting"
+  },
+  {
+    "name": "Elias Koteas",
+    "popularity": 3.4571,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Paré",
+    "popularity": 3.4561,
+    "role": "Acting"
+  },
+  {
+    "name": "Shinobu Terajima",
+    "popularity": 4.5834,
+    "role": "Acting"
+  },
+  {
+    "name": "Cedric the Entertainer",
+    "popularity": 3.4556,
+    "role": "Acting"
+  },
+  {
+    "name": "Holly Hunter",
+    "popularity": 3.4553,
+    "role": "Acting"
+  },
+  {
+    "name": "Taika Waititi",
+    "popularity": 3.4541,
+    "role": "Directing"
+  },
+  {
+    "name": "Marlon Brando",
+    "popularity": 3.4538,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlie Murphy",
+    "popularity": 3.3144,
+    "role": "Acting"
+  },
+  {
+    "name": "Lu Hsiu Ling",
+    "popularity": 2.6199,
+    "role": "Acting"
+  },
+  {
+    "name": "Madeline Brewer",
+    "popularity": 3.4517,
+    "role": "Acting"
+  },
+  {
+    "name": "Rie Takahashi",
+    "popularity": 3.4492,
+    "role": "Acting"
+  },
+  {
+    "name": "James Garner",
+    "popularity": 3.4489,
+    "role": "Acting"
+  },
+  {
+    "name": "Natalie Wood",
+    "popularity": 3.448,
+    "role": "Acting"
+  },
+  {
+    "name": "Bette Davis",
+    "popularity": 3.4456,
+    "role": "Acting"
+  },
+  {
+    "name": "Niecy Nash-Betts",
+    "popularity": 3.3504,
+    "role": "Acting"
+  },
+  {
+    "name": "Daisuke Ono",
+    "popularity": 3.3768,
+    "role": "Acting"
+  },
+  {
+    "name": "Anne Francis",
+    "popularity": 3.4448,
+    "role": "Acting"
+  },
+  {
+    "name": "Guillermo del Toro",
+    "popularity": 3.4439,
+    "role": "Directing"
+  },
+  {
+    "name": "Scott Caan",
+    "popularity": 3.4435,
+    "role": "Acting"
+  },
+  {
+    "name": "Masaki Suda",
+    "popularity": 3.4425,
+    "role": "Acting"
+  },
+  {
+    "name": "Humphrey Bogart",
+    "popularity": 3.4411,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Flemyng",
+    "popularity": 3.4405,
+    "role": "Acting"
+  },
+  {
+    "name": "Hannah Waddingham",
+    "popularity": 3.4629,
+    "role": "Acting"
+  },
+  {
+    "name": "Wim Wenders",
+    "popularity": 3.4389,
+    "role": "Directing"
+  },
+  {
+    "name": "Dana Delany",
+    "popularity": 3.7418,
+    "role": "Acting"
+  },
+  {
+    "name": "Walt Becker",
+    "popularity": 2.9717,
+    "role": "Directing"
+  },
+  {
+    "name": "Tika Sumpter",
+    "popularity": 3.4766,
+    "role": "Acting"
+  },
+  {
+    "name": "Justin Theroux",
+    "popularity": 3.4352,
+    "role": "Acting"
+  },
+  {
+    "name": "Jessica Henwick",
+    "popularity": 3.536,
+    "role": "Acting"
+  },
+  {
+    "name": "Will Sharpe",
+    "popularity": 3.1219,
+    "role": "Acting"
+  },
+  {
+    "name": "Mike White",
+    "popularity": 3.4324,
+    "role": "Writing"
+  },
+  {
+    "name": "Song Kang-ho",
+    "popularity": 3.4323,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonathan Bailey",
+    "popularity": 4.0811,
+    "role": "Acting"
+  },
+  {
+    "name": "Melissa Gilbert",
+    "popularity": 3.9463,
+    "role": "Acting"
+  },
+  {
+    "name": "Matt Smith",
+    "popularity": 3.0875,
+    "role": "Acting"
+  },
+  {
+    "name": "Bobby Cannavale",
+    "popularity": 3.4256,
+    "role": "Acting"
+  },
+  {
+    "name": "Hilary Swank",
+    "popularity": 3.4248,
+    "role": "Acting"
+  },
+  {
+    "name": "Tony Hale",
+    "popularity": 3.4246,
+    "role": "Acting"
+  },
+  {
+    "name": "Steve Guttenberg",
+    "popularity": 3.4244,
+    "role": "Acting"
+  },
+  {
+    "name": "Tim Allen",
+    "popularity": 3.4239,
+    "role": "Acting"
+  },
+  {
+    "name": "Jessica Lange",
+    "popularity": 3.4226,
+    "role": "Acting"
+  },
+  {
+    "name": "Sunny Pang",
+    "popularity": 4.1182,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryan Phillippe",
+    "popularity": 3.4212,
+    "role": "Acting"
+  },
+  {
+    "name": "Angie Dickinson",
+    "popularity": 3.4209,
+    "role": "Acting"
+  },
+  {
+    "name": "Jared Padalecki",
+    "popularity": 3.6903,
+    "role": "Acting"
+  },
+  {
+    "name": "Barry Corbin",
+    "popularity": 3.4175,
+    "role": "Acting"
+  },
+  {
+    "name": "Kellan Lutz",
+    "popularity": 3.3396,
+    "role": "Acting"
+  },
+  {
+    "name": "Bridget Fonda",
+    "popularity": 3.416,
+    "role": "Acting"
+  },
+  {
+    "name": "Brad Garrett",
+    "popularity": 3.4146,
+    "role": "Acting"
+  },
+  {
+    "name": "Emre Bey",
+    "popularity": 3.3316,
+    "role": "Acting"
+  },
+  {
+    "name": "Lisa Rinna",
+    "popularity": 3.412,
+    "role": "Acting"
+  },
+  {
+    "name": "Arón Piper",
+    "popularity": 3.4223,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin James",
+    "popularity": 3.4117,
+    "role": "Acting"
+  },
+  {
+    "name": "Truman Hanks",
+    "popularity": 3.4116,
+    "role": "Acting"
+  },
+  {
+    "name": "Mae Whitman",
+    "popularity": 3.4115,
+    "role": "Acting"
+  },
+  {
+    "name": "Rutger Hauer",
+    "popularity": 3.4109,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhang Ruonan",
+    "popularity": 3.4108,
+    "role": "Acting"
+  },
+  {
+    "name": "Patton Oswalt",
+    "popularity": 3.4105,
+    "role": "Acting"
+  },
+  {
+    "name": "Josephine Langford",
+    "popularity": 3.2609,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlotte Rampling",
+    "popularity": 3.4096,
+    "role": "Acting"
+  },
+  {
+    "name": "Oliver Stone",
+    "popularity": 3.406,
+    "role": "Directing"
+  },
+  {
+    "name": "Cam Gigandet",
+    "popularity": 3.4055,
+    "role": "Acting"
+  },
+  {
+    "name": "Rade Šerbedžija",
+    "popularity": 3.4049,
+    "role": "Acting"
+  },
+  {
+    "name": "David Morse",
+    "popularity": 3.4034,
+    "role": "Acting"
+  },
+  {
+    "name": "Katrina Kaif",
+    "popularity": 3.5086,
+    "role": "Acting"
+  },
+  {
+    "name": "Kerry Condon",
+    "popularity": 3.6168,
+    "role": "Acting"
+  },
+  {
+    "name": "David Spade",
+    "popularity": 3.4008,
+    "role": "Acting"
+  },
+  {
+    "name": "Vanessa Hudgens",
+    "popularity": 3.849,
+    "role": "Acting"
+  },
+  {
+    "name": "Ernest Borgnine",
+    "popularity": 3.3967,
+    "role": "Acting"
+  },
+  {
+    "name": "Henry Fonda",
+    "popularity": 3.3961,
+    "role": "Acting"
+  },
+  {
+    "name": "Jenna Fischer",
+    "popularity": 3.3954,
+    "role": "Acting"
+  },
+  {
+    "name": "Laura Linney",
+    "popularity": 3.3937,
+    "role": "Acting"
+  },
+  {
+    "name": "Ice-T",
+    "popularity": 3.3928,
+    "role": "Acting"
+  },
+  {
+    "name": "Mena Suvari",
+    "popularity": 3.3921,
+    "role": "Acting"
+  },
+  {
+    "name": "Eiko Nakamura",
+    "popularity": 1.6401,
+    "role": "Acting"
+  },
+  {
+    "name": "Gregory Peck",
+    "popularity": 3.3908,
+    "role": "Acting"
+  },
+  {
+    "name": "Bae Na-ra",
+    "popularity": 3.3894,
+    "role": "Acting"
+  },
+  {
+    "name": "John Fiedler",
+    "popularity": 3.3886,
+    "role": "Acting"
+  },
+  {
+    "name": "Kotono Mitsuishi",
+    "popularity": 3.388,
+    "role": "Acting"
+  },
+  {
+    "name": "Ingrid Bergman",
+    "popularity": 3.3854,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Reubens",
+    "popularity": 3.3846,
+    "role": "Acting"
+  },
+  {
+    "name": "Harry Dean Stanton",
+    "popularity": 3.3822,
+    "role": "Acting"
+  },
+  {
+    "name": "Abbie Cornish",
+    "popularity": 3.3821,
+    "role": "Acting"
+  },
+  {
+    "name": "Wallace Shawn",
+    "popularity": 3.3805,
+    "role": "Acting"
+  },
+  {
+    "name": "Takehito Koyasu",
+    "popularity": 3.7793,
+    "role": "Acting"
+  },
+  {
+    "name": "Jami Gertz",
+    "popularity": 3.3772,
+    "role": "Acting"
+  },
+  {
+    "name": "Esra Bilgiç",
+    "popularity": 3.9287,
+    "role": "Acting"
+  },
+  {
+    "name": "Diane Ladd",
+    "popularity": 3.3741,
+    "role": "Acting"
+  },
+  {
+    "name": "Shahid Kapoor",
+    "popularity": 3.4326,
+    "role": "Acting"
+  },
+  {
+    "name": "Shay Mitchell",
+    "popularity": 3.7775,
+    "role": "Acting"
+  },
+  {
+    "name": "Catherine Deneuve",
+    "popularity": 3.3713,
+    "role": "Acting"
+  },
+  {
+    "name": "Lily-Rose Depp",
+    "popularity": 3.3711,
+    "role": "Acting"
+  },
+  {
+    "name": "Christine Baranski",
+    "popularity": 3.3711,
+    "role": "Acting"
+  },
+  {
+    "name": "Jaime Pressly",
+    "popularity": 3.3686,
+    "role": "Acting"
+  },
+  {
+    "name": "Christian Convery",
+    "popularity": 3.5146,
+    "role": "Acting"
+  },
+  {
+    "name": "Tobin Bell",
+    "popularity": 3.366,
+    "role": "Acting"
+  },
+  {
+    "name": "Amy Sedaris",
+    "popularity": 3.3659,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Cattrall",
+    "popularity": 3.3654,
+    "role": "Acting"
+  },
+  {
+    "name": "Regé-Jean Page",
+    "popularity": 3.6741,
+    "role": "Acting"
+  },
+  {
+    "name": "Wataru Hatano",
+    "popularity": 3.1746,
+    "role": "Acting"
+  },
+  {
+    "name": "Alexander Ludwig",
+    "popularity": 3.3644,
+    "role": "Acting"
+  },
+  {
+    "name": "Rebecca Romijn",
+    "popularity": 3.3642,
+    "role": "Acting"
+  },
+  {
+    "name": "D.B. Woodside",
+    "popularity": 3.3641,
+    "role": "Acting"
+  },
+  {
+    "name": "Leslie Bibb",
+    "popularity": 3.3636,
+    "role": "Acting"
+  },
+  {
+    "name": "Yuko Tanaka",
+    "popularity": 3.3631,
+    "role": "Acting"
+  },
+  {
+    "name": "Ahn So-hee",
+    "popularity": 3.3865,
+    "role": "Acting"
+  },
+  {
+    "name": "Gabriel Byrne",
+    "popularity": 3.3615,
+    "role": "Acting"
+  },
+  {
+    "name": "Rosa Salazar",
+    "popularity": 3.451,
+    "role": "Acting"
+  },
+  {
+    "name": "Hero Fiennes Tiffin",
+    "popularity": 3.2624,
+    "role": "Acting"
+  },
+  {
+    "name": "Kieran Culkin",
+    "popularity": 3.3593,
+    "role": "Acting"
+  },
+  {
+    "name": "Michelle Dockery",
+    "popularity": 3.0227,
+    "role": "Acting"
+  },
+  {
+    "name": "Johnny Knoxville",
+    "popularity": 3.3585,
+    "role": "Acting"
+  },
+  {
+    "name": "Tomokazu Seki",
+    "popularity": 3.0333,
+    "role": "Acting"
+  },
+  {
+    "name": "Melanie Lynskey",
+    "popularity": 3.3569,
+    "role": "Acting"
+  },
+  {
+    "name": "Tony Shalhoub",
+    "popularity": 3.3559,
+    "role": "Acting"
+  },
+  {
+    "name": "Brittany Snow",
+    "popularity": 3.3544,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris Elliott",
+    "popularity": 3.354,
+    "role": "Acting"
+  },
+  {
+    "name": "Finn Little",
+    "popularity": 2.9041,
+    "role": "Acting"
+  },
+  {
+    "name": "Timothy Dalton",
+    "popularity": 3.352,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Hollander",
+    "popularity": 3.3507,
+    "role": "Acting"
+  },
+  {
+    "name": "Sunny Deol",
+    "popularity": 3.1288,
+    "role": "Acting"
+  },
+  {
+    "name": "Cynthia Addai-Robinson",
+    "popularity": 3.4338,
+    "role": "Acting"
+  },
+  {
+    "name": "Elizabeth Perkins",
+    "popularity": 3.348,
+    "role": "Acting"
+  },
+  {
+    "name": "Maika Monroe",
+    "popularity": 3.3117,
+    "role": "Acting"
+  },
+  {
+    "name": "Mert Ramazan Demir",
+    "popularity": 3.3449,
+    "role": "Acting"
+  },
+  {
+    "name": "Erika Henningsen",
+    "popularity": 3.3448,
+    "role": "Acting"
+  },
+  {
+    "name": "Oliver Platt",
+    "popularity": 3.3448,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonathan Taylor Thomas",
+    "popularity": 3.3445,
+    "role": "Acting"
+  },
+  {
+    "name": "Ornella Muti",
+    "popularity": 3.3434,
+    "role": "Acting"
+  },
+  {
+    "name": "Kelsey Asbille",
+    "popularity": 3.3156,
+    "role": "Acting"
+  },
+  {
+    "name": "Gina Rodriguez",
+    "popularity": 3.459,
+    "role": "Acting"
+  },
+  {
+    "name": "Will Patton",
+    "popularity": 3.3372,
+    "role": "Acting"
+  },
+  {
+    "name": "Joshua Jackson",
+    "popularity": 3.3362,
+    "role": "Acting"
+  },
+  {
+    "name": "River Phoenix",
+    "popularity": 3.3361,
+    "role": "Acting"
+  },
+  {
+    "name": "Sharon Thomas Cain",
+    "popularity": 3.0767,
+    "role": "Acting"
+  },
+  {
+    "name": "Arielle Kebbel",
+    "popularity": 3.3349,
+    "role": "Acting"
+  },
+  {
+    "name": "Asami Seto",
+    "popularity": 3.2762,
+    "role": "Acting"
+  },
+  {
+    "name": "Danny Huston",
+    "popularity": 3.332,
+    "role": "Acting"
+  },
+  {
+    "name": "Taye Diggs",
+    "popularity": 3.3313,
+    "role": "Acting"
+  },
+  {
+    "name": "Tom Burke",
+    "popularity": 3.3287,
+    "role": "Acting"
+  },
+  {
+    "name": "Olivia Williams",
+    "popularity": 3.3279,
+    "role": "Acting"
+  },
+  {
+    "name": "Caitríona Balfe",
+    "popularity": 2.9113,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Miles",
+    "popularity": 3.3268,
+    "role": "Acting"
+  },
+  {
+    "name": "Ariel Winter",
+    "popularity": 3.3257,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Englund",
+    "popularity": 3.3246,
+    "role": "Acting"
+  },
+  {
+    "name": "Gilles Lellouche",
+    "popularity": 3.323,
+    "role": "Acting"
+  },
+  {
+    "name": "Ray Romano",
+    "popularity": 3.3229,
+    "role": "Acting"
+  },
+  {
+    "name": "Elliott Gould",
+    "popularity": 3.3229,
+    "role": "Acting"
+  },
+  {
+    "name": "William Baldwin",
+    "popularity": 3.3228,
+    "role": "Acting"
+  },
+  {
+    "name": "Jürgen Prochnow",
+    "popularity": 3.3217,
+    "role": "Acting"
+  },
+  {
+    "name": "Ginnifer Goodwin",
+    "popularity": 3.3208,
+    "role": "Acting"
+  },
+  {
+    "name": "Pilou Asbæk",
+    "popularity": 3.2448,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Rispoli",
+    "popularity": 3.3184,
+    "role": "Acting"
+  },
+  {
+    "name": "Linda Evans",
+    "popularity": 3.3169,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Rispoli",
+    "popularity": 3.3184,
+    "role": "Acting"
+  },
+  {
+    "name": "Linda Evans",
+    "popularity": 3.3169,
+    "role": "Acting"
+  },
+  {
+    "name": "Daniel Wu",
+    "popularity": 2.858,
+    "role": "Acting"
+  },
+  {
+    "name": "Bud Spencer",
+    "popularity": 3.3154,
+    "role": "Acting"
+  },
+  {
+    "name": "Virginia Madsen",
+    "popularity": 3.3153,
+    "role": "Acting"
+  },
+  {
+    "name": "Ron Livingston",
+    "popularity": 3.315,
+    "role": "Acting"
+  },
+  {
+    "name": "Lea Thompson",
+    "popularity": 3.315,
+    "role": "Acting"
+  },
+  {
+    "name": "Ed Asner",
+    "popularity": 3.3149,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Patric",
+    "popularity": 3.3148,
+    "role": "Acting"
+  },
+  {
+    "name": "Eddie Izzard",
+    "popularity": 3.3147,
+    "role": "Acting"
+  },
+  {
+    "name": "Dyessa Garcia",
+    "popularity": 3.3145,
+    "role": "Acting"
+  },
+  {
+    "name": "Leslie Mann",
+    "popularity": 3.3134,
+    "role": "Acting"
+  },
+  {
+    "name": "David Carradine",
+    "popularity": 3.3113,
+    "role": "Acting"
+  },
+  {
+    "name": "Yuko Takeuchi",
+    "popularity": 3.3106,
+    "role": "Acting"
+  },
+  {
+    "name": "Mihiro",
+    "popularity": 3.2611,
+    "role": "Acting"
+  },
+  {
+    "name": "Thomas Jane",
+    "popularity": 3.3097,
+    "role": "Acting"
+  },
+  {
+    "name": "Tony Curtis",
+    "popularity": 3.3095,
+    "role": "Acting"
+  },
+  {
+    "name": "Madonna",
+    "popularity": 3.3093,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack Kirby",
+    "popularity": 3.3092,
+    "role": "Writing"
+  },
+  {
+    "name": "Jason Schwartzman",
+    "popularity": 3.3076,
+    "role": "Acting"
+  },
+  {
+    "name": "Zetna Fuentes",
+    "popularity": 1.5289,
+    "role": "Directing"
+  },
+  {
+    "name": "Geraldine Chaplin",
+    "popularity": 3.307,
+    "role": "Acting"
+  },
+  {
+    "name": "Sacha Baron Cohen",
+    "popularity": 3.3058,
+    "role": "Acting"
+  },
+  {
+    "name": "Lauren German",
+    "popularity": 3.3055,
+    "role": "Acting"
+  },
+  {
+    "name": "Raashii Khanna",
+    "popularity": 3.2953,
+    "role": "Acting"
+  },
+  {
+    "name": "Arianna Rivas",
+    "popularity": 3.3034,
+    "role": "Acting"
+  },
+  {
+    "name": "Gwyneth Paltrow",
+    "popularity": 3.3021,
+    "role": "Acting"
+  },
+  {
+    "name": "Choi Woo-shik",
+    "popularity": 3.1503,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Shepard",
+    "popularity": 3.3009,
+    "role": "Writing"
+  },
+  {
+    "name": "Elizabeth Mitchell",
+    "popularity": 3.3004,
+    "role": "Acting"
+  },
+  {
+    "name": "Alanna Ubach",
+    "popularity": 3.3003,
+    "role": "Acting"
+  },
+  {
+    "name": "Joe Pantoliano",
+    "popularity": 3.3003,
+    "role": "Acting"
+  },
+  {
+    "name": "Bernard Hill",
+    "popularity": 3.2999,
+    "role": "Acting"
+  },
+  {
+    "name": "Janelle Monáe",
+    "popularity": 2.8201,
+    "role": "Acting"
+  },
+  {
+    "name": "Amy Poehler",
+    "popularity": 3.2997,
+    "role": "Acting"
+  },
+  {
+    "name": "Joe Mantegna",
+    "popularity": 3.2995,
+    "role": "Acting"
+  },
+  {
+    "name": "Debra Wilson",
+    "popularity": 3.2986,
+    "role": "Acting"
+  },
+  {
+    "name": "Atsumi Tanezaki",
+    "popularity": 3.1215,
+    "role": "Acting"
+  },
+  {
+    "name": "Breckin Meyer",
+    "popularity": 3.2959,
+    "role": "Acting"
+  },
+  {
+    "name": "Mason Thames",
+    "popularity": 3.2952,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Jenkins",
+    "popularity": 3.2944,
+    "role": "Acting"
+  },
+  {
+    "name": "Betty Gilpin",
+    "popularity": 3.1626,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim You-jung",
+    "popularity": 3.2941,
+    "role": "Acting"
+  },
+  {
+    "name": "Tony Goldwyn",
+    "popularity": 3.2931,
+    "role": "Acting"
+  },
+  {
+    "name": "Elizabeth Taylor",
+    "popularity": 3.2928,
+    "role": "Acting"
+  },
+  {
+    "name": "Jon Cryer",
+    "popularity": 3.1494,
+    "role": "Acting"
+  },
+  {
+    "name": "Desmond Harrington",
+    "popularity": 3.292,
+    "role": "Acting"
+  },
+  {
+    "name": "Cliff Robertson",
+    "popularity": 3.2911,
+    "role": "Acting"
+  },
+  {
+    "name": "Rob Reiner",
+    "popularity": 3.2906,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Feige",
+    "popularity": 3.2905,
+    "role": "Production"
+  },
+  {
+    "name": "Violet McGraw",
+    "popularity": 3.2877,
+    "role": "Acting"
+  },
+  {
+    "name": "Amrish Puri",
+    "popularity": 3.2874,
+    "role": "Acting"
+  },
+  {
+    "name": "Teri Hatcher",
+    "popularity": 3.2873,
+    "role": "Acting"
+  },
+  {
+    "name": "Keith Powers",
+    "popularity": 3.2867,
+    "role": "Acting"
+  },
+  {
+    "name": "Burn Gorman",
+    "popularity": 3.2855,
+    "role": "Acting"
+  },
+  {
+    "name": "Corey Feldman",
+    "popularity": 3.2843,
+    "role": "Acting"
+  },
+  {
+    "name": "Chow Yun-Fat",
+    "popularity": 3.2828,
+    "role": "Acting"
+  },
+  {
+    "name": "Monica Barbaro",
+    "popularity": 3.3785,
+    "role": "Acting"
+  },
+  {
+    "name": "Lio Tipton",
+    "popularity": 3.2871,
+    "role": "Acting"
+  },
+  {
+    "name": "Eddie Marsan",
+    "popularity": 3.2823,
+    "role": "Acting"
+  },
+  {
+    "name": "Greg Kinnear",
+    "popularity": 3.2809,
+    "role": "Acting"
+  },
+  {
+    "name": "Romi Park",
+    "popularity": 3.0281,
+    "role": "Acting"
+  },
+  {
+    "name": "Mel Brooks",
+    "popularity": 3.2795,
+    "role": "Acting"
+  },
+  {
+    "name": "Pooja Hegde",
+    "popularity": 3.5394,
+    "role": "Acting"
+  },
+  {
+    "name": "Alp Navruz",
+    "popularity": 3.1415,
+    "role": "Acting"
+  },
+  {
+    "name": "Melissa Rauch",
+    "popularity": 3.1098,
+    "role": "Acting"
+  },
+  {
+    "name": "Sean Gunn",
+    "popularity": 3.2759,
+    "role": "Acting"
+  },
+  {
+    "name": "Megumi Hayashibara",
+    "popularity": 3.2754,
+    "role": "Acting"
+  },
+  {
+    "name": "Farrah Fawcett",
+    "popularity": 3.274,
+    "role": "Acting"
+  },
+  {
+    "name": "Song Joong-ki",
+    "popularity": 3.2586,
+    "role": "Acting"
+  },
+  {
+    "name": "Julie Bowen",
+    "popularity": 3.2737,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Je-hoon",
+    "popularity": 2.9009,
+    "role": "Acting"
+  },
+  {
+    "name": "J.K. Rowling",
+    "popularity": 3.2727,
+    "role": "Writing"
+  },
+  {
+    "name": "Michael Gambon",
+    "popularity": 3.2705,
+    "role": "Acting"
+  },
+  {
+    "name": "Rikiya Koyama",
+    "popularity": 2.9669,
+    "role": "Acting"
+  },
+  {
+    "name": "John Carpenter",
+    "popularity": 3.2662,
+    "role": "Directing"
+  },
+  {
+    "name": "Maya Hawke",
+    "popularity": 3.2778,
+    "role": "Acting"
+  },
+  {
+    "name": "Tze Chun",
+    "popularity": 1.4707,
+    "role": "Writing"
+  },
+  {
+    "name": "Armie Hammer",
+    "popularity": 3.2624,
+    "role": "Acting"
+  },
+  {
+    "name": "David L. Wolper",
+    "popularity": 3.2598,
+    "role": "Production"
+  },
+  {
+    "name": "David L. Wolper",
+    "popularity": 3.2598,
+    "role": "Production"
+  },
+  {
+    "name": "Emilio Estevez",
+    "popularity": 3.2595,
+    "role": "Acting"
+  },
+  {
+    "name": "Jake Johnson",
+    "popularity": 3.3315,
+    "role": "Acting"
+  },
+  {
+    "name": "Zeng Youzhen",
+    "popularity": 3.2581,
+    "role": "Acting"
+  },
+  {
+    "name": "Mr. T",
+    "popularity": 3.2577,
+    "role": "Acting"
+  },
+  {
+    "name": "Rashmika Mandanna",
+    "popularity": 2.8566,
+    "role": "Acting"
+  },
+  {
+    "name": "Sydne Rome",
+    "popularity": 3.324,
+    "role": "Acting"
+  },
+  {
+    "name": "Hideaki Anno",
+    "popularity": 3.0113,
+    "role": "Directing"
+  },
+  {
+    "name": "Adriana Torrebejano",
+    "popularity": 3.2556,
+    "role": "Acting"
+  },
+  {
+    "name": "Taissa Farmiga",
+    "popularity": 3.4141,
+    "role": "Acting"
+  },
+  {
+    "name": "Cher",
+    "popularity": 3.2551,
+    "role": "Acting"
+  },
+  {
+    "name": "Edgar Ramírez",
+    "popularity": 3.254,
+    "role": "Acting"
+  },
+  {
+    "name": "Hank Azaria",
+    "popularity": 3.2537,
+    "role": "Acting"
+  },
+  {
+    "name": "David Zayas",
+    "popularity": 3.2531,
+    "role": "Acting"
+  },
+  {
+    "name": "Jay Baruchel",
+    "popularity": 3.253,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Kelly",
+    "popularity": 3.2512,
+    "role": "Acting"
+  },
+  {
+    "name": "Paul Anderson",
+    "popularity": 2.6877,
+    "role": "Acting"
+  },
+  {
+    "name": "Eugene Levy",
+    "popularity": 3.251,
+    "role": "Acting"
+  },
+  {
+    "name": "Judge Reinhold",
+    "popularity": 3.2495,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Dickens",
+    "popularity": 3.2494,
+    "role": "Acting"
+  },
+  {
+    "name": "Britt Lower",
+    "popularity": 3.1025,
+    "role": "Acting"
+  },
+  {
+    "name": "Mark Duplass",
+    "popularity": 3.2485,
+    "role": "Acting"
+  },
+  {
+    "name": "Sasha Alexander",
+    "popularity": 3.0547,
+    "role": "Acting"
+  },
+  {
+    "name": "Danny Dyer",
+    "popularity": 3.2453,
+    "role": "Acting"
+  },
+  {
+    "name": "John C. Reilly",
+    "popularity": 3.2451,
+    "role": "Acting"
+  },
+  {
+    "name": "Katherine LaNasa",
+    "popularity": 3.2032,
+    "role": "Acting"
+  },
+  {
+    "name": "Kelly Brook",
+    "popularity": 3.2442,
+    "role": "Acting"
+  },
+  {
+    "name": "David Warner",
+    "popularity": 3.243,
+    "role": "Acting"
+  },
+  {
+    "name": "Lashana Lynch",
+    "popularity": 3.0672,
+    "role": "Acting"
+  },
+  {
+    "name": "Lynda Carter",
+    "popularity": 3.239,
+    "role": "Acting"
+  },
+  {
+    "name": "Gabrielle Anwar",
+    "popularity": 3.2386,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Clarke Duncan",
+    "popularity": 3.2374,
+    "role": "Acting"
+  },
+  {
+    "name": "Saïd Taghmaoui",
+    "popularity": 3.2372,
+    "role": "Acting"
+  },
+  {
+    "name": "Alia Shawkat",
+    "popularity": 3.237,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Foster",
+    "popularity": 3.2368,
+    "role": "Acting"
+  },
+  {
+    "name": "Laura San Giacomo",
+    "popularity": 3.2366,
+    "role": "Acting"
+  },
+  {
+    "name": "Ann Dowd",
+    "popularity": 2.9185,
+    "role": "Acting"
+  },
+  {
+    "name": "David Caruso",
+    "popularity": 3.2364,
+    "role": "Acting"
+  },
+  {
+    "name": "Diedrich Bader",
+    "popularity": 3.236,
+    "role": "Acting"
+  },
+  {
+    "name": "Jai Courtney",
+    "popularity": 2.9669,
+    "role": "Acting"
+  },
+  {
+    "name": "Tyler Hoechlin",
+    "popularity": 3.2742,
+    "role": "Acting"
+  },
+  {
+    "name": "Samantha Morton",
+    "popularity": 3.2352,
+    "role": "Acting"
+  },
+  {
+    "name": "Rupert Grint",
+    "popularity": 3.2342,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryan Murphy",
+    "popularity": 3.2336,
+    "role": "Creator"
+  },
+  {
+    "name": "Clint Howard",
+    "popularity": 2.9437,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Armitage",
+    "popularity": 3.2312,
+    "role": "Acting"
+  },
+  {
+    "name": "Hiro Shimono",
+    "popularity": 3.2305,
+    "role": "Acting"
+  },
+  {
+    "name": "Sybil Danning",
+    "popularity": 3.2305,
+    "role": "Acting"
+  },
+  {
+    "name": "Lochlyn Munro",
+    "popularity": 3.2302,
+    "role": "Acting"
+  },
+  {
+    "name": "Park Bo-young",
+    "popularity": 3.4516,
+    "role": "Acting"
+  },
+  {
+    "name": "Frank Sinatra",
+    "popularity": 3.2297,
+    "role": "Acting"
+  },
+  {
+    "name": "Mike Colter",
+    "popularity": 3.2294,
+    "role": "Acting"
+  },
+  {
+    "name": "Gary Cooper",
+    "popularity": 3.2291,
+    "role": "Acting"
+  },
+  {
+    "name": "Campbell Scott",
+    "popularity": 3.2286,
+    "role": "Acting"
+  },
+  {
+    "name": "Sarah Snook",
+    "popularity": 2.8813,
+    "role": "Acting"
+  },
+  {
+    "name": "Andrew Lincoln",
+    "popularity": 3.2244,
+    "role": "Acting"
+  },
+  {
+    "name": "Hina Youmiya",
+    "popularity": 3.2238,
+    "role": "Acting"
+  },
+  {
+    "name": "Andrew Scott",
+    "popularity": 3.4188,
+    "role": "Acting"
+  },
+  {
+    "name": "Frank Oz",
+    "popularity": 3.2221,
+    "role": "Acting"
+  },
+  {
+    "name": "Sean Young",
+    "popularity": 3.2204,
+    "role": "Acting"
+  },
+  {
+    "name": "Katie Cassidy",
+    "popularity": 3.218,
+    "role": "Acting"
+  },
+  {
+    "name": "Christopher Reeve",
+    "popularity": 3.2171,
+    "role": "Acting"
+  },
+  {
+    "name": "Steven Bauer",
+    "popularity": 3.2171,
+    "role": "Acting"
+  },
+  {
+    "name": "Lili Reinhart",
+    "popularity": 3.4788,
+    "role": "Acting"
+  },
+  {
+    "name": "Alona Tal",
+    "popularity": 2.7056,
+    "role": "Acting"
+  },
+  {
+    "name": "Liu Yifei",
+    "popularity": 3.4541,
+    "role": "Acting"
+  },
+  {
+    "name": "Anna Paquin",
+    "popularity": 3.213,
+    "role": "Acting"
+  },
+  {
+    "name": "Jun Izumi",
+    "popularity": 2.7135,
+    "role": "Acting"
+  },
+  {
+    "name": "Debi Mazar",
+    "popularity": 3.2117,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhai Xiaowen",
+    "popularity": 3.2116,
+    "role": "Acting"
+  },
+  {
+    "name": "Charlie Cox",
+    "popularity": 3.2116,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Jackson",
+    "popularity": 3.2103,
+    "role": "Directing"
+  },
+  {
+    "name": "Justin Hartley",
+    "popularity": 3.0507,
+    "role": "Acting"
+  },
+  {
+    "name": "Yutaka Ikejima",
+    "popularity": 2.9108,
+    "role": "Acting"
+  },
+  {
+    "name": "Nancy Travis",
+    "popularity": 3.2077,
+    "role": "Acting"
+  },
+  {
+    "name": "Daniel Kaluuya",
+    "popularity": 3.7363,
+    "role": "Acting"
+  },
+  {
+    "name": "Morgan Fairchild",
+    "popularity": 3.2076,
+    "role": "Acting"
+  },
+  {
+    "name": "Ethan Coen",
+    "popularity": 3.207,
+    "role": "Directing"
+  },
+  {
+    "name": "Engfa Waraha",
+    "popularity": 3.2056,
+    "role": "Acting"
+  },
+  {
+    "name": "Jimmy Smits",
+    "popularity": 3.2045,
+    "role": "Acting"
+  },
+  {
+    "name": "Juliette Binoche",
+    "popularity": 3.2033,
+    "role": "Acting"
+  },
+  {
+    "name": "Jason Biggs",
+    "popularity": 3.1995,
+    "role": "Acting"
+  },
+  {
+    "name": "Fumi Nikaido",
+    "popularity": 3.152,
+    "role": "Acting"
+  },
+  {
+    "name": "Anton Lesser",
+    "popularity": 3.1984,
+    "role": "Acting"
+  },
+  {
+    "name": "Lee Sul-ah",
+    "popularity": 3.1976,
+    "role": "Acting"
+  },
+  {
+    "name": "Alfie Allen",
+    "popularity": 3.2437,
+    "role": "Acting"
+  },
+  {
+    "name": "William Hurt",
+    "popularity": 3.196,
+    "role": "Acting"
+  },
+  {
+    "name": "Kit Connor",
+    "popularity": 3.8132,
+    "role": "Acting"
+  },
+  {
+    "name": "Kirstie Alley",
+    "popularity": 3.1949,
+    "role": "Acting"
+  },
+  {
+    "name": "Shirley MacLaine",
+    "popularity": 3.1917,
+    "role": "Acting"
+  },
+  {
+    "name": "Donal Logue",
+    "popularity": 3.1914,
+    "role": "Acting"
+  },
+  {
+    "name": "Carrie Preston",
+    "popularity": 3.191,
+    "role": "Acting"
+  },
+  {
+    "name": "Emily Osment",
+    "popularity": 3.0373,
+    "role": "Acting"
+  },
+  {
+    "name": "Kelly Preston",
+    "popularity": 3.1897,
+    "role": "Acting"
+  },
+  {
+    "name": "Will Arnett",
+    "popularity": 3.1896,
+    "role": "Acting"
+  },
+  {
+    "name": "Rhea Seehorn",
+    "popularity": 3.1904,
+    "role": "Acting"
+  },
+  {
+    "name": "Avan Jogia",
+    "popularity": 2.9099,
+    "role": "Acting"
+  },
+  {
+    "name": "E. G. Daily",
+    "popularity": 3.1871,
+    "role": "Acting"
+  },
+  {
+    "name": "Kristin Chenoweth",
+    "popularity": 3.1868,
+    "role": "Acting"
+  },
+  {
+    "name": "Terence Stamp",
+    "popularity": 3.1861,
+    "role": "Acting"
+  },
+  {
+    "name": "Alyssa Diaz",
+    "popularity": 3.0781,
+    "role": "Acting"
+  },
+  {
+    "name": "David Duchovny",
+    "popularity": 3.1855,
+    "role": "Acting"
+  },
+  {
+    "name": "Louis de Funès",
+    "popularity": 3.1842,
+    "role": "Acting"
+  },
+  {
+    "name": "Mark Gatiss",
+    "popularity": 3.1836,
+    "role": "Acting"
+  },
+  {
+    "name": "Louis Koo",
+    "popularity": 3.1338,
+    "role": "Acting"
+  },
+  {
+    "name": "Matthew Fox",
+    "popularity": 3.1818,
+    "role": "Acting"
+  },
+  {
+    "name": "Manami Numakura",
+    "popularity": 3.2954,
+    "role": "Acting"
+  },
+  {
+    "name": "Jacqueline Bisset",
+    "popularity": 3.1789,
+    "role": "Acting"
+  },
+  {
+    "name": "Chad McQueen",
+    "popularity": 3.1788,
+    "role": "Acting"
+  },
+  {
+    "name": "Robbie Amell",
+    "popularity": 3.4227,
+    "role": "Acting"
+  },
+  {
+    "name": "Adam Goldberg",
+    "popularity": 3.1777,
+    "role": "Acting"
+  },
+  {
+    "name": "Rani Mukerji",
+    "popularity": 3.1774,
+    "role": "Acting"
+  },
+  {
+    "name": "Angourie Rice",
+    "popularity": 3.5922,
+    "role": "Acting"
+  },
+  {
+    "name": "Adam Devine",
+    "popularity": 3.2746,
+    "role": "Acting"
+  },
+  {
+    "name": "Taylor Lautner",
+    "popularity": 3.1764,
+    "role": "Acting"
+  },
+  {
+    "name": "Sheree",
+    "popularity": 2.9182,
+    "role": "Acting"
+  },
+  {
+    "name": "Toshiyuki Morikawa",
+    "popularity": 3.175,
+    "role": "Acting"
+  },
+  {
+    "name": "Geoffrey Rush",
+    "popularity": 3.175,
+    "role": "Acting"
+  },
+  {
+    "name": "Joan Collins",
+    "popularity": 3.1744,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh O'Connor",
+    "popularity": 3.6065,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen Merchant",
+    "popularity": 3.172,
+    "role": "Acting"
+  },
+  {
+    "name": "Nicollette Sheridan",
+    "popularity": 3.1696,
+    "role": "Acting"
+  },
+  {
+    "name": "Tatiana Maslany",
+    "popularity": 3.1691,
+    "role": "Acting"
+  },
+  {
+    "name": "Isabelle Adjani",
+    "popularity": 3.1681,
+    "role": "Acting"
+  },
+  {
+    "name": "Bill Cosby",
+    "popularity": 3.1677,
+    "role": "Acting"
+  },
+  {
+    "name": "Eric Dane",
+    "popularity": 3.1676,
+    "role": "Acting"
+  },
+  {
+    "name": "Joe Cole",
+    "popularity": 2.8077,
+    "role": "Acting"
+  },
+  {
+    "name": "Lucas Black",
+    "popularity": 3.1671,
+    "role": "Acting"
+  },
+  {
+    "name": "Kornnaphat Sethratanapong",
+    "popularity": 3.167,
+    "role": "Acting"
+  },
+  {
+    "name": "Rick Moranis",
+    "popularity": 3.167,
+    "role": "Acting"
+  },
+  {
+    "name": "Woody Allen",
+    "popularity": 3.1667,
+    "role": "Directing"
+  },
+  {
+    "name": "Olivia Thirlby",
+    "popularity": 3.1665,
+    "role": "Acting"
+  },
+  {
+    "name": "Maura Tierney",
+    "popularity": 3.1664,
+    "role": "Acting"
+  },
+  {
+    "name": "Asia Argento",
+    "popularity": 3.1662,
+    "role": "Acting"
+  },
+  {
+    "name": "Katharine Ross",
+    "popularity": 3.1661,
+    "role": "Acting"
+  },
+  {
+    "name": "Anne Heche",
+    "popularity": 3.1649,
+    "role": "Acting"
+  },
+  {
+    "name": "Mao Ichimichi",
+    "popularity": 3.2515,
+    "role": "Acting"
+  },
+  {
+    "name": "Julianna Margulies",
+    "popularity": 3.1636,
+    "role": "Acting"
+  },
+  {
+    "name": "Diane Morgan",
+    "popularity": 3.17,
+    "role": "Acting"
+  },
+  {
+    "name": "Dennis Haysbert",
+    "popularity": 3.1631,
+    "role": "Acting"
+  },
+  {
+    "name": "Mamitha Baiju",
+    "popularity": 3.1622,
+    "role": "Acting"
+  },
+  {
+    "name": "Wendy Crewson",
+    "popularity": 3.1622,
+    "role": "Acting"
+  },
+  {
+    "name": "Manny Montana",
+    "popularity": 2.7891,
+    "role": "Acting"
+  },
+  {
+    "name": "Gary Rizzo",
+    "popularity": 2.5858,
+    "role": "Sound"
+  },
+  {
+    "name": "Hayley Mills",
+    "popularity": 3.1571,
+    "role": "Acting"
+  },
+  {
+    "name": "Emily Browning",
+    "popularity": 3.0764,
+    "role": "Acting"
+  },
+  {
+    "name": "Xander Berkeley",
+    "popularity": 3.1517,
+    "role": "Acting"
+  },
+  {
+    "name": "Malcolm McDowell",
+    "popularity": 3.1516,
+    "role": "Acting"
+  },
+  {
+    "name": "Banjo Ginga",
+    "popularity": 3.1512,
+    "role": "Acting"
+  },
+  {
+    "name": "James Cosmo",
+    "popularity": 3.1504,
+    "role": "Acting"
+  },
+  {
+    "name": "Anna Torv",
+    "popularity": 3.149,
+    "role": "Acting"
+  },
+  {
+    "name": "Wendell Pierce",
+    "popularity": 3.1489,
+    "role": "Acting"
+  },
+  {
+    "name": "Jimmy Fallon",
+    "popularity": 3.1483,
+    "role": "Acting"
+  },
+  {
+    "name": "Shin-ichiro Miki",
+    "popularity": 3.1368,
+    "role": "Acting"
+  },
+  {
+    "name": "Dennis Hopper",
+    "popularity": 3.1482,
+    "role": "Acting"
+  },
+  {
+    "name": "Tracee Ellis Ross",
+    "popularity": 3.0986,
+    "role": "Acting"
+  },
+  {
+    "name": "Bolo Yeung Sze",
+    "popularity": 3.1467,
+    "role": "Acting"
+  },
+  {
+    "name": "Bobby Lee",
+    "popularity": 3.2145,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Greene",
+    "popularity": 3.1463,
+    "role": "Acting"
+  },
+  {
+    "name": "Megan Mullally",
+    "popularity": 3.1444,
+    "role": "Acting"
+  },
+  {
+    "name": "Shad Moss",
+    "popularity": 3.1443,
+    "role": "Acting"
+  },
+  {
+    "name": "Mugihito",
+    "popularity": 3.2323,
+    "role": "Acting"
+  },
+  {
+    "name": "Kumail Nanjiani",
+    "popularity": 3.3101,
+    "role": "Acting"
+  },
+  {
+    "name": "Sarah Silverman",
+    "popularity": 3.1416,
+    "role": "Acting"
+  },
+  {
+    "name": "Jacqueline Fernandez",
+    "popularity": 3.2492,
+    "role": "Acting"
+  },
+  {
+    "name": "David Krumholtz",
+    "popularity": 3.1413,
+    "role": "Acting"
+  },
+  {
+    "name": "Nobunaga Shimazaki",
+    "popularity": 2.9776,
+    "role": "Acting"
+  },
+  {
+    "name": "Steven Soderbergh",
+    "popularity": 3.1409,
+    "role": "Directing"
+  },
+  {
+    "name": "Han Hyo-joo",
+    "popularity": 3.1404,
+    "role": "Acting"
+  },
+  {
+    "name": "Toshirō Mifune",
+    "popularity": 3.1398,
+    "role": "Acting"
+  },
+  {
+    "name": "Zhou Shen",
+    "popularity": 3.1393,
+    "role": "Acting"
+  },
+  {
+    "name": "Masako Nozawa",
+    "popularity": 2.9244,
+    "role": "Acting"
+  },
+  {
+    "name": "Kristin Kreuk",
+    "popularity": 3.1391,
+    "role": "Acting"
+  },
+  {
+    "name": "January Jones",
+    "popularity": 3.1383,
+    "role": "Acting"
+  },
+  {
+    "name": "Jay Leno",
+    "popularity": 3.1381,
+    "role": "Acting"
+  },
+  {
+    "name": "Ana de la Reguera",
+    "popularity": 3.138,
+    "role": "Acting"
+  },
+  {
+    "name": "Rachael Harris",
+    "popularity": 3.1371,
+    "role": "Acting"
+  },
+  {
+    "name": "Ke Huy Quan",
+    "popularity": 3.137,
+    "role": "Acting"
+  },
+  {
+    "name": "Jim Belushi",
+    "popularity": 3.1367,
+    "role": "Acting"
+  },
+  {
+    "name": "Ben Abell",
+    "popularity": 2.6321,
+    "role": "Acting"
+  },
+  {
+    "name": "Amy Ryan",
+    "popularity": 3.136,
+    "role": "Acting"
+  },
+  {
+    "name": "Ryoka Yuzuki",
+    "popularity": 3.4903,
+    "role": "Acting"
+  },
+  {
+    "name": "Matthew Modine",
+    "popularity": 3.1348,
+    "role": "Acting"
+  },
+  {
+    "name": "Kim Moo-yul",
+    "popularity": 3.0563,
+    "role": "Acting"
+  },
+  {
+    "name": "Noah Beck",
+    "popularity": 3.1321,
+    "role": "Acting"
+  },
+  {
+    "name": "Billy Zane",
+    "popularity": 3.1318,
+    "role": "Acting"
+  },
+  {
+    "name": "Ken Watanabe",
+    "popularity": 3.1317,
+    "role": "Acting"
+  },
+  {
+    "name": "Mirela Balić",
+    "popularity": 3.1314,
+    "role": "Acting"
+  },
+  {
+    "name": "Katherine Langford",
+    "popularity": 3.6593,
+    "role": "Acting"
+  },
+  {
+    "name": "Rhys Ifans",
+    "popularity": 3.1302,
+    "role": "Acting"
+  },
+  {
+    "name": "Keerthy Suresh",
+    "popularity": 3.1289,
+    "role": "Acting"
+  },
+  {
+    "name": "James Mangold",
+    "popularity": 3.1282,
+    "role": "Directing"
+  },
+  {
+    "name": "Seann William Scott",
+    "popularity": 3.1271,
+    "role": "Acting"
+  },
+  {
+    "name": "Clara Galle",
+    "popularity": 3.1263,
+    "role": "Acting"
+  },
+  {
+    "name": "Jennifer Esposito",
+    "popularity": 3.1261,
+    "role": "Acting"
+  },
+  {
+    "name": "Joseph Fiennes",
+    "popularity": 3.1261,
+    "role": "Acting"
+  },
+  {
+    "name": "Frances Conroy",
+    "popularity": 3.1244,
+    "role": "Acting"
+  },
+  {
+    "name": "O'Shea Jackson Jr.",
+    "popularity": 3.0218,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard T. Jones",
+    "popularity": 3.1241,
+    "role": "Acting"
+  },
+  {
+    "name": "Denis Leary",
+    "popularity": 3.1238,
+    "role": "Acting"
+  },
+  {
+    "name": "Tricia Helfer",
+    "popularity": 3.2455,
+    "role": "Acting"
+  },
+  {
+    "name": "Noah Fearnley",
+    "popularity": 3.1218,
+    "role": "Acting"
+  },
+  {
+    "name": "Vanessa Williams",
+    "popularity": 3.1211,
+    "role": "Acting"
+  },
+  {
+    "name": "Camilla Belle",
+    "popularity": 3.1202,
+    "role": "Acting"
+  },
+  {
+    "name": "Rudy Pankow",
+    "popularity": 3.2741,
+    "role": "Acting"
+  },
+  {
+    "name": "Daniella Pineda",
+    "popularity": 3.4275,
+    "role": "Acting"
+  },
+  {
+    "name": "James D'Arcy",
+    "popularity": 3.119,
+    "role": "Acting"
+  },
+  {
+    "name": "Keiko Matsuzaka",
+    "popularity": 2.7523,
+    "role": "Acting"
+  },
+  {
+    "name": "Randall Park",
+    "popularity": 3.4327,
+    "role": "Acting"
+  },
+  {
+    "name": "Coco Martin",
+    "popularity": 3.1174,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Imperioli",
+    "popularity": 3.1159,
+    "role": "Acting"
+  },
+  {
+    "name": "Rei Sakuma",
+    "popularity": 3.1157,
+    "role": "Acting"
+  },
+  {
+    "name": "Max Minghella",
+    "popularity": 3.1147,
+    "role": "Acting"
+  },
+  {
+    "name": "Cliff Curtis",
+    "popularity": 3.1139,
+    "role": "Acting"
+  },
+  {
+    "name": "Kyle Chandler",
+    "popularity": 3.1137,
+    "role": "Acting"
+  },
+  {
+    "name": "Sandra Oh",
+    "popularity": 3.1135,
+    "role": "Acting"
+  },
+  {
+    "name": "Eugenio Derbez",
+    "popularity": 3.1358,
+    "role": "Acting"
+  },
+  {
+    "name": "John Slattery",
+    "popularity": 3.113,
+    "role": "Acting"
+  },
+  {
+    "name": "Dan Fogler",
+    "popularity": 3.1123,
+    "role": "Acting"
+  },
+  {
+    "name": "John Cho",
+    "popularity": 3.1742,
+    "role": "Acting"
+  },
+  {
+    "name": "Anthony Perkins",
+    "popularity": 3.1119,
+    "role": "Acting"
+  },
+  {
+    "name": "Demi Lovato",
+    "popularity": 3.4893,
+    "role": "Acting"
+  },
+  {
+    "name": "Sơn Tùng M-TP",
+    "popularity": 3.4189,
+    "role": "Acting"
+  },
+  {
+    "name": "María Conchita Alonso",
+    "popularity": 3.1093,
+    "role": "Acting"
+  },
+  {
+    "name": "Evan Rachel Wood",
+    "popularity": 3.109,
+    "role": "Acting"
+  },
+  {
+    "name": "John Heard",
+    "popularity": 3.1086,
+    "role": "Acting"
+  },
+  {
+    "name": "Ian Holm",
+    "popularity": 3.1083,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen Fry",
+    "popularity": 3.1069,
+    "role": "Acting"
+  },
+  {
+    "name": "Alex O'Loughlin",
+    "popularity": 3.1065,
+    "role": "Acting"
+  },
+  {
+    "name": "Debbie Garcia",
+    "popularity": 3.0609,
+    "role": "Acting"
+  },
+  {
+    "name": "Daisuke Namikawa",
+    "popularity": 2.971,
+    "role": "Acting"
+  },
+  {
+    "name": "Pat Morita",
+    "popularity": 3.1059,
+    "role": "Acting"
+  },
+  {
+    "name": "Jodhi May",
+    "popularity": 3.1055,
+    "role": "Acting"
+  },
+  {
+    "name": "Natasha Henstridge",
+    "popularity": 3.1054,
+    "role": "Acting"
+  },
+  {
+    "name": "Ronald Reagan",
+    "popularity": 3.1047,
+    "role": "Acting"
+  },
+  {
+    "name": "Sherilyn Fenn",
+    "popularity": 3.1044,
+    "role": "Acting"
+  },
+  {
+    "name": "William Sadler",
+    "popularity": 3.1042,
+    "role": "Acting"
+  },
+  {
+    "name": "Tovino Thomas",
+    "popularity": 2.9913,
+    "role": "Acting"
+  },
+  {
+    "name": "Gong Yoo",
+    "popularity": 2.9492,
+    "role": "Acting"
+  },
+  {
+    "name": "Wi Ha-jun",
+    "popularity": 3.2745,
+    "role": "Acting"
+  },
+  {
+    "name": "Sophie Nélisse",
+    "popularity": 3.2931,
+    "role": "Acting"
+  },
+  {
+    "name": "Stephen Amell",
+    "popularity": 2.9425,
+    "role": "Acting"
+  },
+  {
+    "name": "Ashley Greene",
+    "popularity": 3.1012,
+    "role": "Acting"
+  },
+  {
+    "name": "Odessa A'zion",
+    "popularity": 3.1475,
+    "role": "Acting"
+  },
+  {
+    "name": "Ellen Pompeo",
+    "popularity": 3.1002,
+    "role": "Acting"
+  },
+  {
+    "name": "Tchéky Karyo",
+    "popularity": 3.1001,
+    "role": "Acting"
+  },
+  {
+    "name": "Cary Grant",
+    "popularity": 3.0995,
+    "role": "Acting"
+  },
+  {
+    "name": "David Arquette",
+    "popularity": 3.0986,
+    "role": "Acting"
+  },
+  {
+    "name": "Kris Kristofferson",
+    "popularity": 3.0985,
+    "role": "Acting"
+  },
+  {
+    "name": "Christy Imperial",
+    "popularity": 3.0978,
+    "role": "Acting"
+  },
+  {
+    "name": "Rachel Nichols",
+    "popularity": 3.0976,
+    "role": "Acting"
+  },
+  {
+    "name": "David Cronenberg",
+    "popularity": 3.0973,
+    "role": "Directing"
+  },
+  {
+    "name": "Wil Wheaton",
+    "popularity": 3.0968,
+    "role": "Acting"
+  },
+  {
+    "name": "Robert Mitchum",
+    "popularity": 3.0965,
+    "role": "Acting"
+  },
+  {
+    "name": "Zack Snyder",
+    "popularity": 3.0962,
+    "role": "Directing"
+  },
+  {
+    "name": "John Corbett",
+    "popularity": 3.0952,
+    "role": "Acting"
+  },
+  {
+    "name": "Brad Dourif",
+    "popularity": 3.0943,
+    "role": "Acting"
+  },
+  {
+    "name": "Rie Kugimiya",
+    "popularity": 3.6979,
+    "role": "Acting"
+  },
+  {
+    "name": "Lisa Edelstein",
+    "popularity": 2.9937,
+    "role": "Acting"
+  },
+  {
+    "name": "Shawn Ashmore",
+    "popularity": 3.0922,
+    "role": "Acting"
+  },
+  {
+    "name": "Josh Holloway",
+    "popularity": 2.8074,
+    "role": "Acting"
+  },
+  {
+    "name": "Marina Inoue",
+    "popularity": 2.9828,
+    "role": "Acting"
+  },
+  {
+    "name": "Mira Sorvino",
+    "popularity": 3.0918,
+    "role": "Acting"
+  },
+  {
+    "name": "Cassie Ventura",
+    "popularity": 3.0917,
+    "role": "Acting"
+  },
+  {
+    "name": "Satomi Ishihara",
+    "popularity": 3.0994,
+    "role": "Acting"
+  },
+  {
+    "name": "Soon-Tek Oh",
+    "popularity": 3.0899,
+    "role": "Acting"
+  },
+  {
+    "name": "Kaori Asô",
+    "popularity": 3.2165,
+    "role": "Acting"
+  },
+  {
+    "name": "Jack Palance",
+    "popularity": 3.0874,
+    "role": "Acting"
+  },
+  {
+    "name": "Sonoya Mizuno",
+    "popularity": 3.0865,
+    "role": "Acting"
+  },
+  {
+    "name": "Peter Capaldi",
+    "popularity": 3.0863,
+    "role": "Acting"
+  },
+  {
+    "name": "Jonny Lee Miller",
+    "popularity": 3.0848,
+    "role": "Acting"
+  },
+  {
+    "name": "50 Cent",
+    "popularity": 2.9395,
+    "role": "Acting"
+  },
+  {
+    "name": "Sarah Chalke",
+    "popularity": 3.0088,
+    "role": "Acting"
+  },
+  {
+    "name": "Jackie Earle Haley",
+    "popularity": 3.0835,
+    "role": "Acting"
+  },
+  {
+    "name": "Rebecca Patricia Armstrong",
+    "popularity": 3.0824,
+    "role": "Acting"
+  },
+  {
+    "name": "Richard Ayoade",
+    "popularity": 3.0431,
+    "role": "Acting"
+  },
+  {
+    "name": "Sam Raimi",
+    "popularity": 3.081,
+    "role": "Directing"
+  },
+  {
+    "name": "Richard Thomas",
+    "popularity": 3.08,
+    "role": "Acting"
+  },
+  {
+    "name": "Rita Wilson",
+    "popularity": 3.08,
+    "role": "Acting"
+  },
+  {
+    "name": "Dee Wallace",
+    "popularity": 2.9414,
+    "role": "Acting"
+  },
+  {
+    "name": "Chris O'Dowd",
+    "popularity": 3.0795,
+    "role": "Acting"
+  },
+  {
+    "name": "Wes Bentley",
+    "popularity": 3.0791,
+    "role": "Acting"
+  },
+  {
+    "name": "Nick Cannon",
+    "popularity": 3.0789,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Beach",
+    "popularity": 2.9973,
+    "role": "Acting"
+  },
+  {
+    "name": "Ikue Otani",
+    "popularity": 3.1465,
+    "role": "Acting"
+  },
+  {
+    "name": "Fred Hechinger",
+    "popularity": 3.0767,
+    "role": "Acting"
+  },
+  {
+    "name": "Tamara Tunie",
+    "popularity": 3.0176,
+    "role": "Acting"
+  },
+  {
+    "name": "Kelly Macdonald",
+    "popularity": 3.0745,
+    "role": "Acting"
+  },
+  {
+    "name": "Michael Biehn",
+    "popularity": 3.0741,
+    "role": "Acting"
+  },
+  {
+    "name": "Treat Williams",
+    "popularity": 3.0738,
+    "role": "Acting"
+  },
+  {
+    "name": "Geena Davis",
+    "popularity": 3.0733,
+    "role": "Acting"
+  },
+  {
+    "name": "Anthony Quinn",
+    "popularity": 3.0718,
+    "role": "Acting"
+  },
+  {
+    "name": "Sangeeth Shobhan",
+    "popularity": 3.0717,
+    "role": "Acting"
+  },
+  {
+    "name": "Nick Kroll",
+    "popularity": 3.4602,
+    "role": "Acting"
+  },
+  {
+    "name": "Alexandra Breckenridge",
+    "popularity": 3.0713,
+    "role": "Acting"
+  },
+  {
+    "name": "Kevin Harvey",
+    "popularity": 3.3519,
+    "role": "Acting"
+  },
+  {
+    "name": "Tobias Menzies",
+    "popularity": 3.0204,
+    "role": "Acting"
+  },
+  {
+    "name": "Barbara Eden",
+    "popularity": 3.0699,
+    "role": "Acting"
+  },
+  {
+    "name": "Giulio Berruti",
+    "popularity": 2.7503,
+    "role": "Acting"
+  },
+  {
+    "name": "Mandy Patinkin",
+    "popularity": 3.0683,
+    "role": "Acting"
+  }
+]

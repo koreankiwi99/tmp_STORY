@@ -1,0 +1,838 @@
+[
+  {
+    "query": "Can you suggest a movie with DiCaprio?",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "George DiCaprio",
+        "Scarface"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Quentin Tarantino",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "romantic comedy",
+        "spanish cinema",
+        "comedy thriller"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "dark comedy",
+        "cinema"
+      ]
+    }
+  },
+  {
+    "query": "Give me a film starring Leo.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Leo Meneghetti",
+        "Leo Hunter",
+        "Leo Geter"
+      ],
+      "directors": [
+        "Leos Carax",
+        "Leota Rhodes",
+        "Lars von Trier"
+      ],
+      "keywords": [
+        "b movie",
+        "tv movie",
+        "movie star"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "thriller",
+        "cinema"
+      ]
+    }
+  },
+  {
+    "query": "I want to watch something with Jennifer.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Jennifer Best",
+        "Jennifer Eatz",
+        "Jennifer Daniel"
+      ],
+      "directors": [
+        "Jennifer Kent",
+        "Jennifer Getzinger",
+        "Jennifer Carriere"
+      ],
+      "keywords": [
+        "tv special",
+        "soap opera actress",
+        "television special"
+      ],
+      "emotions": [
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie with Will.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Rich Wills",
+        "David Wills",
+        "Wills Robbins"
+      ],
+      "directors": [
+        "Will Meugniot",
+        "George Lucas",
+        "Rob Zombie"
+      ],
+      "keywords": [
+        "last will and testament",
+        "movie set",
+        "tv show in film"
+      ],
+      "emotions": [
+        "willpower",
+        "future",
+        "cinema"
+      ]
+    }
+  },
+  {
+    "query": "Can you recommend a movie with Sandra?",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Thriller",
+        "TV Movie"
+      ],
+      "actors": [
+        "Sandra",
+        "Sandra Will",
+        "Sandra Park"
+      ],
+      "directors": [
+        "Sandra Derval",
+        "Sandra M. Middleton",
+        "Shelly Stoyanova"
+      ],
+      "keywords": [
+        "romantic thriller",
+        "comedy thriller",
+        "thriller"
+      ],
+      "emotions": [
+        "thriller",
+        "romantic comedy",
+        "sci-fi horror"
+      ]
+    }
+  },
+  {
+    "query": "Give me a film featuring Emma.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Emma Jerrold",
+        "Emma Hitching",
+        "Emma Dukes"
+      ],
+      "directors": [
+        "Emma Hinton",
+        "Emma Tammi",
+        "Emma Seligman"
+      ],
+      "keywords": [
+        "british cinema",
+        "sherlock films",
+        "film in film"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "cinema",
+        "thriller"
+      ]
+    }
+  },
+  {
+    "query": "I want to watch something with Brad.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Brad Oscar",
+        "Brad Kitchen",
+        "Brad Askew"
+      ],
+      "directors": [
+        "Brad Turner",
+        "Brad Baruh",
+        "Brad Furman"
+      ],
+      "keywords": [
+        "tv special",
+        "tv actor",
+        "celebrity cameo"
+      ],
+      "emotions": []
+    }
+  },
+  {
+    "query": "Show me a movie with Chris Hemsworth in it.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Chris Hemsworth"
+      ],
+      "directors": [
+        "Christopher Nolan",
+        "Stanley Kubrick",
+        "Rupert Wyatt"
+      ],
+      "keywords": [
+        "tv show in film",
+        "tv movie",
+        "b movie"
+      ],
+      "emotions": [
+        "cinema",
+        "documentary",
+        "science fiction"
+      ]
+    }
+  },
+  {
+    "query": "Can you suggest a movie starring Ryan?",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "actors": [
+        "Christopher Ryan",
+        "Matthew Ryan",
+        "Robert Ryan"
+      ],
+      "directors": [
+        "Ryan A. White",
+        "Ryan Little",
+        "Ryan Coogler"
+      ],
+      "keywords": [
+        "jack ryan",
+        "comedy thriller",
+        "tv movie"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "thriller",
+        "sci-fi horror"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie with the actor from Titanic.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Oscar Wahlberg",
+        "Leonardo DiCaprio",
+        "Stanley Kubrick"
+      ],
+      "directors": [
+        "Stanley Kubrick",
+        "Hugh Hudson",
+        "Christopher Nolan"
+      ],
+      "keywords": [
+        "titanic",
+        "actor",
+        "actor playing themself"
+      ],
+      "emotions": [
+        "cinema",
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "I want a film with the guy from Inception.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "Documentary",
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Michael Keaton",
+        "David Flick",
+        "Sean Bygrave"
+      ],
+      "directors": [
+        "Christopher Nolan",
+        "Lars von Trier",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "psychotronic film",
+        "film director",
+        "adult filmmaking"
+      ],
+      "emotions": [
+        "documentary",
+        "cinema",
+        "thriller"
+      ]
+    }
+  },
+  {
+    "query": "Can you recommend something with Scarlett Johansson?",
+    "segments": {
+      "titles": [],
+      "genres": [],
+      "actors": [
+        "Scarlett Johansson"
+      ],
+      "directors": [
+        "Annie Welles",
+        "Natalie Engelstein",
+        "Daisy von Scherler Mayer"
+      ],
+      "keywords": [
+        "actress",
+        "romantic thriller",
+        "beauty queen"
+      ],
+      "emotions": [
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie with the actress from The Hunger Games.",
+    "segments": {
+      "titles": [
+        "The Hunger",
+        "The Hunger Games"
+      ],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Jessica Schwarz",
+        "Reese Witherspoon"
+      ],
+      "directors": [
+        "Penelope Spheeris",
+        "Sarah Buell",
+        "Annie Welles"
+      ],
+      "keywords": [
+        "actress",
+        "hunger strike",
+        "tv show in film"
+      ],
+      "emotions": [
+        "games",
+        "hunger"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie with the actor who played Iron Man.",
+    "segments": {
+      "titles": [
+        "Iron Man"
+      ],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Nicholas Irons",
+        "Jeremy Irons",
+        "Daniel Iron"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Zack Snyder",
+        "Frank Ferro"
+      ],
+      "keywords": [
+        "iron monkey",
+        "actor playing themself",
+        "actor"
+      ],
+      "emotions": [
+        "superhero",
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "Show me a film with the star of 'Mad Max: Fury Road.'",
+    "segments": {
+      "titles": [
+        "Mad Max: Fury Road"
+      ],
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Maddi Black",
+        "Julia Max",
+        "Madisyn Shipman"
+      ],
+      "directors": [
+        "Ridley Scott",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "road movie",
+        "extreme cinema",
+        "tv show in film"
+      ],
+      "emotions": [
+        "fury"
+      ]
+    }
+  },
+  {
+    "query": "I want a movie with the actor who starred in La La Land.",
+    "segments": {
+      "titles": [
+        "La La Land"
+      ],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Emilio La Torre",
+        "Vincent Laresca",
+        "Emilio Cast"
+      ],
+      "directors": [
+        "Daniel de la Vega",
+        "Pablo Larraín",
+        "Woody Allen"
+      ],
+      "keywords": [
+        "actor",
+        "spanish cinema",
+        "tv actor"
+      ],
+      "emotions": [
+        "land"
+      ]
+    }
+  },
+  {
+    "query": "Give me a film with the actress from Lost in Translation.",
+    "segments": {
+      "titles": [
+        "Lost in Translation"
+      ],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Thriller"
+      ],
+      "actors": [
+        "Zoe Kazan",
+        "Tess Girault de Castilla",
+        "Juliette Raffray"
+      ],
+      "directors": [
+        "Julia Ducournau",
+        "Natalie Engelstein",
+        "Kirsten Sheridan"
+      ],
+      "keywords": [
+        "lost girl",
+        "french cinema",
+        "actress"
+      ],
+      "emotions": [
+        "cinema",
+        "documentary",
+        "romantic comedy"
+      ]
+    }
+  },
+  {
+    "query": "Can you suggest a movie with the actor from The Revenant?",
+    "segments": {
+      "titles": [
+        "The Revenant"
+      ],
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Michael Reventar",
+        "Tony Revolori",
+        "Clive Revill"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Matthew Vaughn",
+        "Tim Burton"
+      ],
+      "keywords": [
+        "actor",
+        "actor playing themself",
+        "child actor"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "dark comedy",
+        "cinema"
+      ]
+    }
+  },
+  {
+    "query": "I want to watch something with Natalie.",
+    "segments": {
+      "titles": [],
+      "genres": [],
+      "actors": [
+        "Natalie Gal",
+        "Natalie Willes",
+        "Natalie Light"
+      ],
+      "directors": [
+        "Natalie Engelstein",
+        "Nina Doré",
+        "Jenna Dayton"
+      ],
+      "keywords": [
+        "family drama",
+        "actress",
+        "watch on youtalkies"
+      ],
+      "emotions": [
+        "teenage drama",
+        "romantic comedy",
+        "teen drama"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie with the actor from 'The Wolf of Wall Street.'",
+    "segments": {
+      "titles": [
+        "The Wolf of Wall Street",
+        "Wall Street"
+      ],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Thriller"
+      ],
+      "actors": [
+        "Michael Wolf",
+        "Christopher Wolf",
+        "Paul Wolf"
+      ],
+      "directors": [
+        "Wes Anderson",
+        "Hugh Hudson",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "wall street"
+      ],
+      "emotions": [
+        "documentary",
+        "animal horror",
+        "cinema"
+      ]
+    }
+  },
+  {
+    "query": "Give me a film starring Matt Damon.",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie",
+        "Science Fiction",
+        "Documentary"
+      ],
+      "actors": [
+        "Matt Damon"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Christopher Nolan",
+        "Matt Reeves"
+      ],
+      "keywords": [
+        "film in film",
+        "tv show in film",
+        "tv movie"
+      ],
+      "emotions": [
+        "cinema",
+        "sci-fi",
+        "sci-fi horror"
+      ]
+    }
+  },
+  {
+    "query": "Can you recommend a movie with the actor from Gladiator?",
+    "segments": {
+      "titles": [],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Michael Gladis",
+        "John Gladstein",
+        "Sean Bygrave"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Tim Burton",
+        "Martin Scorsese"
+      ],
+      "keywords": [
+        "gladiator",
+        "gladiator fight",
+        "actor playing themself"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "cinema",
+        "fantastical"
+      ]
+    }
+  },
+  {
+    "query": "I want a film with the actor from 'The Dark Knight.'",
+    "segments": {
+      "titles": [
+        "The Dark Knight"
+      ],
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "Liam Knight",
+        "Christopher Knight",
+        "Robin Knight"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "Christopher Nolan",
+        "Ridley Scott"
+      ],
+      "keywords": [
+        "tv show in film",
+        "film director",
+        "sherlock films"
+      ],
+      "emotions": [
+        "dark"
+      ]
+    }
+  },
+  {
+    "query": "Show me a movie with the actress from Black Swan.",
+    "segments": {
+      "titles": [
+        "Black Swan"
+      ],
+      "genres": [
+        "TV Movie",
+        "Documentary",
+        "Thriller"
+      ],
+      "actors": [
+        "Angela Swan",
+        "Robert Swan",
+        "Seymour Swan"
+      ],
+      "directors": [
+        "Betty Chaplin",
+        "Annie Welles",
+        "Penelope Spheeris"
+      ],
+      "keywords": [
+        "swan",
+        "tv show in film",
+        "tv movie"
+      ],
+      "emotions": [
+        "dark comedy",
+        "cinema",
+        "camaraderie"
+      ]
+    }
+  },
+  {
+    "query": "Give me a film featuring the actor from The Martian.",
+    "segments": {
+      "titles": [
+        "The Martian"
+      ],
+      "genres": [
+        "TV Movie",
+        "Documentary"
+      ],
+      "actors": [
+        "Rob Mars",
+        "Thomas Mars",
+        "Kenneth Mars"
+      ],
+      "directors": [
+        "Lars von Trier",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
+      "keywords": [
+        "martian",
+        "martian civilization",
+        "actor"
+      ],
+      "emotions": [
+        "alien",
+        "aliens",
+        "sci-fi"
+      ]
+    }
+  },
+  {
+    "query": "Can you suggest a movie with the lead actor from 'The Big Short'?",
+    "segments": {
+      "titles": [
+        "The Big Short"
+      ],
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "actors": [
+        "John Short",
+        "Richard Short",
+        "James Short"
+      ],
+      "directors": [
+        "Robert Longo",
+        "Martin Scorsese",
+        "Stanley Kubrick"
+      ],
+      "keywords": [
+        "short film",
+        "based on short film",
+        "actor"
+      ],
+      "emotions": [
+        "romantic comedy",
+        "dark comedy",
+        "cinema"
+      ]
+    }
+  },
+  {
+    "query": "I want to watch a movie with the actress from 'Les Misérables.'",
+    "segments": {
+      "titles": [
+        "Les Misérables"
+      ],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Julia Scarlett Dan",
+        "Jennifer Nicholson",
+        "Kate French"
+      ],
+      "directors": [
+        "Kate Vanderbyl",
+        "Julie Lecoustre"
+      ],
+      "keywords": [
+        "french cinema",
+        "actress",
+        "watching a movie"
+      ],
+      "emotions": [
+        "cinema",
+        "theater",
+        "theatre"
+      ]
+    }
+  },
+  {
+    "query": "Give me a movie with the actor from 'The Hangover.'",
+    "segments": {
+      "titles": [
+        "The Hangover"
+      ],
+      "genres": [
+        "TV Movie"
+      ],
+      "actors": [
+        "Monty Hoffman",
+        "David Flick",
+        "Sylvester Stallone"
+      ],
+      "directors": [
+        "Harry Hook",
+        "Stanley Kubrick",
+        "Lars von Trier"
+      ],
+      "keywords": [
+        "hangover",
+        "hangman",
+        "midnight movie"
+      ],
+      "emotions": [
+        "dark comedy",
+        "romantic comedy",
+        "stoner comedy"
+      ]
+    }
+  }
+]
