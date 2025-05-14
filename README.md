@@ -45,11 +45,12 @@ git clone https://github.com/yourusername/STORY.git
 cd STORY
 pip install -r requirements.txt
 
-# Preprocess movie data
-python scripts/setup/chunk_moviedata.py
+# Run the Streamlit app
+streamlit run app/app_with_faiss.py
+```
+---
 
-# Build FAISS index
-python scripts/setup/build_faiss.py
+Project Structure
 
 # Run the Streamlit app
 streamlit run app/app_with_faiss.py
