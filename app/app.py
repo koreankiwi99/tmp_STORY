@@ -60,7 +60,7 @@ if prompt := st.chat_input("You:"):
             inputs = tokenizer(full_prompt, return_tensors="pt").to(model.device)
             output = model.generate(
                 **inputs,
-                max_new_tokens=100,
+                max_new_tokens=1000,
                 temperature=0.7,
                 top_p=0.9,
                 do_sample=True,
